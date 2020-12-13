@@ -2,7 +2,7 @@
 coursename: "Differential Equations"
 coursenumber: "MATH 285"
 semester: "Fall 2020"
-date: "2020-08"
+date: "2020-08-01"
 university: "UIUC"
 posttype: "teaching"
 ---

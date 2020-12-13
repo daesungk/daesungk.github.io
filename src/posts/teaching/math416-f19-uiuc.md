@@ -2,7 +2,7 @@
 coursename: "Linear Algebra"
 coursenumber: "MATH 416"
 semester: "Fall 2019"
-date: "2019-08"
+date: "2019-08-01"
 university: "UIUC"
 posttype: "teaching"
 ---
