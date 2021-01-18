@@ -17,7 +17,7 @@ posttype: "teaching"
 - Moodle: [https://learn.illinois.edu/course/view.php?id=57178](https://learn.illinois.edu/course/view.php?id=57178) 
 - Campuswire: [https://campuswire.com/p/G656D198C](https://campuswire.com/p/G656D198C) (Code is available on the Moodle course page.)
 - PrairieLearn: [https://prairielearn.engr.illinois.edu/pl](https://prairielearn.engr.illinois.edu/pl)
-- Mediaspace: [https://mediaspace.illinois.edu/channel/MATH+461%3A+Probability+Theory+Spring+2021/197286143](https://mediaspace.illinois.edu/channel/MATH+461%3A+Probability+Theory+Spring+2021/197286143) 
+- Lecture videos are available at [Mediaspace](https://mediaspace.illinois.edu/channel/MATH+461%3A+Probability+Theory+Spring+2021/197286143).
 - Prerequisite: Math 241 or the equivalent. We will use important topics from calculus, such as infinite series with positive terms (most calculations involve the geometric series and series derived from it), improper integrals and double integrals (change of variables formula, manipulating Gaussian integrals).
 
 ## Grading policy
