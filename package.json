@@ -35,7 +35,7 @@
     "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
   },
   "scripts": {
-     "deploy": "gatsby build && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -d public"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
