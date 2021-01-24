@@ -11,7 +11,7 @@ posttype: "teaching"
 
 - Instructor: Daesung Kim ([daesungk (at) illinois.edu](mailto:daesungk@illinois.edu))
 - Time: MWF 9-9:50am (Section B13), MWF 10-10:50am (Section C13)
-- Zoom Office Hour: TBA 
+- Zoom Office Hour: Tue and Fri at 11am - 12pm.
 - Textbook: [Sheldon Ross, A First Course in Probability, 9th Edition, ISBN: 9780321794772.](https://www.amazon.com/First-Course-Probability-9th/dp/032179477X)
 - [Syllabus](math461-s21-syllabus.pdf)  
 - Moodle: [https://learn.illinois.edu/course/view.php?id=57178](https://learn.illinois.edu/course/view.php?id=57178) 
