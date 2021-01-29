@@ -28,52 +28,52 @@ posttype: "teaching"
 - Final: 25%
 
 ## Tentative Schedule 
-| Note                          | Date   | Topic                                                | Assignments |
-| ---                           | ---    | ---                                                  | ---         |
-| [W1](math461-s21-note-w1.pdf) | Jan 25 | Basic Combinatorics I (Sec 1.1-3)                    |             |
-|                               | Jan 27 | Basic Combinatorics II (Sec 1.4-6)                   |             |
-|                               | Jan 29 | Axioms of Probability I (Sec 2.2-3)                  |             |
-| 2                             | Feb 1  | Axioms of Probability II (Sec 2.4)                   |             |
-|                               | Feb 3  | Sample sapces having equally likely (Sec 2.5)        | Quiz 1      |
-|                               | Feb 5  | Conditional Probabilities (Sec 3.2)                  | HW 1        |
-| 3                             | Feb 8  | Bayes's Formula (Sec 3.3)                            |             |
-|                               | Feb 10 | Independent Events (Sec 3.4)                         |             |
-|                               | Feb 12 | Random Variables (Sec 4.1)                           | HW 2        |
-| 4                             | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2      |
-|                               | Feb 17 | **No class**                                         |             |
-|                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | HW 3        |
-| 5                             | Feb 22 | Variance (Sec 4.5)                                   |             |
-|                               | Feb 24 | Examples of Discrete RVs I (Sec 4.6-8)               |             |
-|                               | Feb 26 | Examples of Discrete RVs II (Sec 4.6-8)              | HW 4        |
-| 6                             | Mar 1  | Examples of Discrete RVs III (Sec 4.6-8)             |             |
-|                               | Mar 3  | Intro to Continuous Random Variables (Sec 5.1)       | Quiz 3      |
-|                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | HW 5        |
-| 7                             | Mar 8  | Review                                               |             |
-|                               | Mar 10 | **Midterm 1**                                        |             |
-|                               | Mar 12 | The Uniform Random Variable (Sec 5.3)                |             |
-| 8                             | Mar 15 | Normal Random Variables (Sec 5.4-7)                  |             |
-|                               | Mar 17 | Exponential Random Variables (Sec 5.4-7)             | Quiz 4      |
-|                               | Mar 19 | Other Continuous RVs (Sec 5.4-7)                     | HW 6        |
-| 9                             | Mar 22 | Joint Distribution Functions (Sec 6.1)               |             |
-|                               | Mar 24 | **No class**                                         |             |
-|                               | Mar 26 | Independent Random Variables (Sec 6.2)               | HW 7        |
-| 10                            | Mar 29 | Sums of Independent Random Variables (Sec 6.3)       |             |
-|                               | Mar 31 | Conditional Distribution I (Sec 6.4-5)               | Quiz 5      |
-|                               | Apr 2  | Conditional Distribution II (Sec 6.4-5)              | HW 8        |
-| 11                            | Apr 5  | Joint Distribution of Functions of RVs (Sec 6.7)     |             |
-|                               | Apr 7  | Expectation of Sums of RVs (Sec 7.2)                 |             |
-|                               | Apr 9  | Covariance (Sec 7.4)                                 | HW 9        |
-| 12                            | Apr 12 | Variance of Sums of RVs (Sec 7.4)                    |             |
-|                               | Apr 14 | Conditional Expectation I (Sec 7.5)                  | Quiz 6      |
-|                               | Apr 16 | Conditional Expectation II (Sec 7.5)                 | HW 10       |
-| 13                            | Apr 19 | Review                                               |             |
-|                               | Apr 21 | **Midterm 2**                                        |             |
-|                               | Apr 23 | Moment Generating Functions (Sec 7.7)                |             |
-| 14                            | Apr 26 | Chebyshev inequality and WLLN (Sec 8.2)              |             |
-|                               | Apr 28 | Central Limit Theorem (Sec 8.3)                      | Quiz 7      |
-|                               | Apr 30 | Strong Law of Large Numbers (Sec 8.4)                | HW 11       |
-| 15                            | May 3  | Review                                               |             |
-|                               | May 5  | Review                                               | HW 12       |
-|                               | TBA    | **Final**                                            |             |
+| Note                          | Date   | Topic                                                | Assignments                 |
+| ---                           | ---    | ---                                                  | ---                         |
+| [W1](math461-s21-note-w1.pdf) | Jan 25 | Basic Combinatorics I (Sec 1.1-3)                    |                             |
+|                               | Jan 27 | Basic Combinatorics II (Sec 1.4-6)                   |                             |
+|                               | Jan 29 | Axioms of Probability I (Sec 2.2-3)                  |                             |
+| 2                             | Feb 1  | Axioms of Probability II (Sec 2.4)                   |                             |
+|                               | Feb 3  | Sample sapces having equally likely (Sec 2.5)        | Quiz 1                      |
+|                               | Feb 5  | Conditional Probabilities (Sec 3.2)                  | [HW 1](math461-s21-hw1.pdf) |
+| 3                             | Feb 8  | Bayes's Formula (Sec 3.3)                            |                             |
+|                               | Feb 10 | Independent Events (Sec 3.4)                         |                             |
+|                               | Feb 12 | Random Variables (Sec 4.1)                           | HW 2                        |
+| 4                             | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2                      |
+|                               | Feb 17 | **No class**                                         |                             |
+|                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | HW 3                        |
+| 5                             | Feb 22 | Variance (Sec 4.5)                                   |                             |
+|                               | Feb 24 | Examples of Discrete RVs I (Sec 4.6-8)               |                             |
+|                               | Feb 26 | Examples of Discrete RVs II (Sec 4.6-8)              | HW 4                        |
+| 6                             | Mar 1  | Examples of Discrete RVs III (Sec 4.6-8)             |                             |
+|                               | Mar 3  | Intro to Continuous Random Variables (Sec 5.1)       | Quiz 3                      |
+|                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | HW 5                        |
+| 7                             | Mar 8  | Review                                               |                             |
+|                               | Mar 10 | **Midterm 1**                                        |                             |
+|                               | Mar 12 | The Uniform Random Variable (Sec 5.3)                |                             |
+| 8                             | Mar 15 | Normal Random Variables (Sec 5.4-7)                  |                             |
+|                               | Mar 17 | Exponential Random Variables (Sec 5.4-7)             | Quiz 4                      |
+|                               | Mar 19 | Other Continuous RVs (Sec 5.4-7)                     | HW 6                        |
+| 9                             | Mar 22 | Joint Distribution Functions (Sec 6.1)               |                             |
+|                               | Mar 24 | **No class**                                         |                             |
+|                               | Mar 26 | Independent Random Variables (Sec 6.2)               | HW 7                        |
+| 10                            | Mar 29 | Sums of Independent Random Variables (Sec 6.3)       |                             |
+|                               | Mar 31 | Conditional Distribution I (Sec 6.4-5)               | Quiz 5                      |
+|                               | Apr 2  | Conditional Distribution II (Sec 6.4-5)              | HW 8                        |
+| 11                            | Apr 5  | Joint Distribution of Functions of RVs (Sec 6.7)     |                             |
+|                               | Apr 7  | Expectation of Sums of RVs (Sec 7.2)                 |                             |
+|                               | Apr 9  | Covariance (Sec 7.4)                                 | HW 9                        |
+| 12                            | Apr 12 | Variance of Sums of RVs (Sec 7.4)                    |                             |
+|                               | Apr 14 | Conditional Expectation I (Sec 7.5)                  | Quiz 6                      |
+|                               | Apr 16 | Conditional Expectation II (Sec 7.5)                 | HW 10                       |
+| 13                            | Apr 19 | Review                                               |                             |
+|                               | Apr 21 | **Midterm 2**                                        |                             |
+|                               | Apr 23 | Moment Generating Functions (Sec 7.7)                |                             |
+| 14                            | Apr 26 | Chebyshev inequality and WLLN (Sec 8.2)              |                             |
+|                               | Apr 28 | Central Limit Theorem (Sec 8.3)                      | Quiz 7                      |
+|                               | Apr 30 | Strong Law of Large Numbers (Sec 8.4)                | HW 11                       |
+| 15                            | May 3  | Review                                               |                             |
+|                               | May 5  | Review                                               | HW 12                       |
+|                               | TBA    | **Final**                                            |                             |
 
 
