@@ -33,13 +33,13 @@ posttype: "teaching"
 | [W1](math461-s21-note-w1.pdf) | Jan 25 | Basic Combinatorics I (Sec 1.1-3)                    |                             |
 |                               | Jan 27 | Basic Combinatorics II (Sec 1.4-6)                   |                             |
 |                               | Jan 29 | Axioms of Probability I (Sec 2.2-3)                  |                             |
-| 2                             | Feb 1  | Axioms of Probability II (Sec 2.4)                   |                             |
+| [W2](math461-s21-note-w2.pdf) | Feb 1  | Axioms of Probability II (Sec 2.4)                   |                             |
 |                               | Feb 3  | Sample sapces having equally likely (Sec 2.5)        | Quiz 1                      |
 |                               | Feb 5  | Conditional Probabilities (Sec 3.2)                  | [HW 1](math461-s21-hw1.pdf) |
-| 3                             | Feb 8  | Bayes's Formula (Sec 3.3)                            |                             |
+| [W3](math461-s21-note-w3.pdf) | Feb 8  | Bayes's Formula (Sec 3.3)                            |                             |
 |                               | Feb 10 | Independent Events (Sec 3.4)                         |                             |
-|                               | Feb 12 | Random Variables (Sec 4.1)                           | HW 2                        |
-| 4                             | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2                      |
+|                               | Feb 12 | Random Variables (Sec 4.1)                           | [HW 2](math461-s21-hw2.pdf) |
+| [W4](math461-s21-note-w4.pdf) | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2                      |
 |                               | Feb 17 | **No class**                                         |                             |
 |                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | HW 3                        |
 | 5                             | Feb 22 | Variance (Sec 4.5)                                   |                             |
