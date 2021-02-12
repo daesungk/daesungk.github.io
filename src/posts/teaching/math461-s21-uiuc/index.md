@@ -41,7 +41,7 @@ posttype: "teaching"
 |                               | Feb 12 | Random Variables (Sec 4.1)                           | [HW 2](math461-s21-hw2.pdf)                                     |
 | [W4](math461-s21-note-w4.pdf) | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2                                                          |
 |                               | Feb 17 | **No class**                                         |                                                                 |
-|                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | HW 3                                                            |
+|                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | [HW 3](math461-s21-hw3.pdf)                                     |
 | 5                             | Feb 22 | Variance (Sec 4.5)                                   |                                                                 |
 |                               | Feb 24 | Examples of Discrete RVs I (Sec 4.6-8)               |                                                                 |
 |                               | Feb 26 | Examples of Discrete RVs II (Sec 4.6-8)              | HW 4                                                            |
