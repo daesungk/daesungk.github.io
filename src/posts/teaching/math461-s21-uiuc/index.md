@@ -38,11 +38,11 @@ posttype: "teaching"
 |                               | Feb 5  | Conditional Probabilities (Sec 3.2)                  | [HW 1](math461-s21-hw1.pdf), [Solution](math461-s21-hw1sol.pdf) |
 | [W3](math461-s21-note-w3.pdf) | Feb 8  | Bayes's Formula (Sec 3.3)                            |                                                                 |
 |                               | Feb 10 | Independent Events (Sec 3.4)                         |                                                                 |
-|                               | Feb 12 | Random Variables (Sec 4.1)                           | [HW 2](math461-s21-hw2.pdf)                                     |
+|                               | Feb 12 | Random Variables (Sec 4.1)                           | [HW 2](math461-s21-hw2.pdf), [Solution](math461-s21-hw2sol.pdf) |
 | [W4](math461-s21-note-w4.pdf) | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2                                                          |
 |                               | Feb 17 | **No class**                                         |                                                                 |
 |                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | [HW 3](math461-s21-hw3.pdf)                                     |
-| 5                             | Feb 22 | Variance (Sec 4.5)                                   |                                                                 |
+| [W5](math461-s21-note-w5.pdf) | Feb 22 | Variance (Sec 4.5)                                   |                                                                 |
 |                               | Feb 24 | Examples of Discrete RVs I (Sec 4.6-8)               |                                                                 |
 |                               | Feb 26 | Examples of Discrete RVs II (Sec 4.6-8)              | HW 4                                                            |
 | 6                             | Mar 1  | Examples of Discrete RVs III (Sec 4.6-8)             |                                                                 |
