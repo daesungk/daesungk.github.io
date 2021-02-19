@@ -39,13 +39,13 @@ posttype: "teaching"
 | [W3](math461-s21-note-w3.pdf) | Feb 8  | Bayes's Formula (Sec 3.3)                            |                                                                 |
 |                               | Feb 10 | Independent Events (Sec 3.4)                         |                                                                 |
 |                               | Feb 12 | Random Variables (Sec 4.1)                           | [HW 2](math461-s21-hw2.pdf), [Solution](math461-s21-hw2sol.pdf) |
-| [W4](math461-s21-note-w4.pdf) | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2                                                          |
+| [W4](math461-s21-note-w4.pdf) | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2, [Solution](math461-s21-quiz2sol.pdf)                    |
 |                               | Feb 17 | **No class**                                         |                                                                 |
 |                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | [HW 3](math461-s21-hw3.pdf)                                     |
 | [W5](math461-s21-note-w5.pdf) | Feb 22 | Variance (Sec 4.5)                                   |                                                                 |
 |                               | Feb 24 | Examples of Discrete RVs I (Sec 4.6-8)               |                                                                 |
-|                               | Feb 26 | Examples of Discrete RVs II (Sec 4.6-8)              | HW 4                                                            |
-| 6                             | Mar 1  | Examples of Discrete RVs III (Sec 4.6-8)             |                                                                 |
+|                               | Feb 26 | Examples of Discrete RVs II (Sec 4.6-8)              | [HW 4](math461-s21-hw4.pdf)                                     |
+| [W6](math461-s21-note-w6.pdf) | Mar 1  | Examples of Discrete RVs III (Sec 4.6-8)             |                                                                 |
 |                               | Mar 3  | Intro to Continuous Random Variables (Sec 5.1)       | Quiz 3                                                          |
 |                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | HW 5                                                            |
 | 7                             | Mar 8  | Review                                               |                                                                 |
