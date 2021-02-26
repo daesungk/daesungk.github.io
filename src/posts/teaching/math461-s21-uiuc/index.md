@@ -32,22 +32,22 @@ posttype: "teaching"
 | ---                           | ---    | ---                                                  | ---                                                             |
 | [W1](math461-s21-note-w1.pdf) | Jan 25 | Basic Combinatorics I (Sec 1.1-3)                    |                                                                 |
 |                               | Jan 27 | Basic Combinatorics II (Sec 1.4-6)                   |                                                                 |
-|                               | Jan 29 | Axioms of Probability I (Sec 2.2-3)                  |                                                                 |
-| [W2](math461-s21-note-w2.pdf) | Feb 1  | Axioms of Probability II (Sec 2.4)                   |                                                                 |
-|                               | Feb 3  | Sample sapces having equally likely (Sec 2.5)        | Quiz 1, [Solution](math461-s21-quiz1sol.pdf)                    |
-|                               | Feb 5  | Conditional Probabilities (Sec 3.2)                  | [HW 1](math461-s21-hw1.pdf), [Solution](math461-s21-hw1sol.pdf) |
-| [W3](math461-s21-note-w3.pdf) | Feb 8  | Bayes's Formula (Sec 3.3)                            |                                                                 |
-|                               | Feb 10 | Independent Events (Sec 3.4)                         |                                                                 |
-|                               | Feb 12 | Random Variables (Sec 4.1)                           | [HW 2](math461-s21-hw2.pdf), [Solution](math461-s21-hw2sol.pdf) |
-| [W4](math461-s21-note-w4.pdf) | Feb 15 | Discrete Random Variables (Sec 4.2, 10)              | Quiz 2, [Solution](math461-s21-quiz2sol.pdf)                    |
+|                               | Jan 29 | Basic Combinatorics III (Sec 1.4-6)                  |                                                                 |
+| [W2](math461-s21-note-w2.pdf) | Feb 1  | Axioms of Probability I (Sec 2.2-3)                  |                                                                 |
+|                               | Feb 3  | Axioms of Probability II (Sec 2.4)                   | Quiz 1, [Solution](math461-s21-quiz1sol.pdf)                    |
+|                               | Feb 5  | Sample sapces having equally likely (Sec 2.5)        | [HW 1](math461-s21-hw1.pdf), [Solution](math461-s21-hw1sol.pdf) |
+| [W3](math461-s21-note-w3.pdf) | Feb 8  | Conditional Probabilities (Sec 3.2)                  |                                                                 |
+|                               | Feb 10 | Bayes's Formula (Sec 3.3)                            |                                                                 |
+|                               | Feb 12 | Independent Events (Sec 3.4)                         | [HW 2](math461-s21-hw2.pdf), [Solution](math461-s21-hw2sol.pdf) |
+| [W4](math461-s21-note-w4.pdf) | Feb 15 | Random Variables (Sec 4.1-2, 10)                     | Quiz 2, [Solution](math461-s21-quiz2sol.pdf)                    |
 |                               | Feb 17 | **No class**                                         |                                                                 |
-|                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | [HW 3](math461-s21-hw3.pdf)                                     |
+|                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | [HW 3](math461-s21-hw3.pdf), [Solution](math461-s21-hw3sol.pdf) |
 | [W5](math461-s21-note-w5.pdf) | Feb 22 | Variance (Sec 4.5)                                   |                                                                 |
-|                               | Feb 24 | Examples of Discrete RVs I (Sec 4.6-8)               |                                                                 |
-|                               | Feb 26 | Examples of Discrete RVs II (Sec 4.6-8)              | [HW 4](math461-s21-hw4.pdf)                                     |
-| [W6](math461-s21-note-w6.pdf) | Mar 1  | Examples of Discrete RVs III (Sec 4.6-8)             |                                                                 |
+|                               | Feb 24 | Bernoulli and Binomial RVs (Sec 4.6-8)               |                                                                 |
+|                               | Feb 26 | Poisson RVs (Sec 4.6-8)                              | [HW 4](math461-s21-hw4.pdf)                                     |
+| [W6](math461-s21-note-w6.pdf) | Mar 1  | Other Discrete RVs (Sec 4.6-8)                       |                                                                 |
 |                               | Mar 3  | Intro to Continuous Random Variables (Sec 5.1)       | Quiz 3                                                          |
-|                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | HW 5                                                            |
+|                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | [HW 5](math461-s21-hw5.pdf)                                     |
 | 7                             | Mar 8  | Review                                               |                                                                 |
 |                               | Mar 10 | **Midterm 1**                                        |                                                                 |
 |                               | Mar 12 | The Uniform Random Variable (Sec 5.3)                |                                                                 |
