@@ -43,9 +43,9 @@ posttype: "teaching"
 |                               | Feb 17 | **No class**                                         |                                                                 |
 |                               | Feb 19 | Expectation (Sec 4.3, 4, 6)                          | [HW 3](math461-s21-hw3.pdf), [Solution](math461-s21-hw3sol.pdf) |
 | [W5](math461-s21-note-w5.pdf) | Feb 22 | Variance (Sec 4.5)                                   |                                                                 |
-|                               | Feb 24 | Bernoulli and Binomial RVs (Sec 4.6-8)               |                                                                 |
-|                               | Feb 26 | Poisson RVs (Sec 4.6-8)                              | [HW 4](math461-s21-hw4.pdf)                                     |
-| [W6](math461-s21-note-w6.pdf) | Mar 1  | Other Discrete RVs (Sec 4.6-8)                       |                                                                 |
+|                               | Feb 24 | Bernoulli and Binomial RVs (Sec 4.6)                 |                                                                 |
+|                               | Feb 26 | Poisson RVs (Sec 4.7)                                | [HW 4](math461-s21-hw4.pdf)                                     |
+| [W6](math461-s21-note-w6.pdf) | Mar 1  | Other Discrete RVs (Sec 4.8)                         |                                                                 |
 |                               | Mar 3  | Intro to Continuous Random Variables (Sec 5.1)       | Quiz 3                                                          |
 |                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | [HW 5](math461-s21-hw5.pdf)                                     |
 | 7                             | Mar 8  | Review                                               |                                                                 |
