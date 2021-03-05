@@ -1,5 +1,17 @@
 [
     {
+        "seminar": "Theory of Markov Semigroups and Schrödinger Operators",
+        "place" : "Wrocław University of Technology in Zoom",
+        "date" : "Mar 2021", 
+        "type" : "talk"
+    },
+    {
+        "seminar": "Geometric and functional inequalities and recent topics in nonlinear PDEs",
+        "place" : "in Zoom",
+        "date" : "Mar 2021", 
+        "type" : "talk"
+    },
+    {
         "seminar": "Seminar on non-local operators, probability and singularities",
         "place" : "in Zoom",
         "date" : "Oct 2020", 
