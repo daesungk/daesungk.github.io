@@ -8,7 +8,9 @@ function TalklistFunction(data) {
             <li>
                 {item.node.seminar}, &nbsp;
                 {item.node.place}, &nbsp;
-                {item.node.date}.
+                {item.node.date}.&nbsp;
+                <a href={item.node.link1}>{item.node.link1name}</a>&nbsp;
+                <a href={item.node.link2}>{item.node.link2name}</a>&nbsp;
             </li>
         )
     );
@@ -26,6 +28,10 @@ export const TalksList = ({ children }) => (
                         place 
                         date 
                         type
+                        link1name
+                        link1
+                        link2name
+                        link2
                     } 
                 } 
             } 
