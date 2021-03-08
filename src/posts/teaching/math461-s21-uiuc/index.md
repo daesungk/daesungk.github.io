@@ -47,14 +47,14 @@ posttype: "teaching"
 |                               | Feb 26 | Poisson RVs (Sec 4.7)                                | [HW 4](math461-s21-hw4.pdf), [Solution](math461-s21-hw4sol.pdf) |
 | [W6](math461-s21-note-w6.pdf) | Mar 1  | Other Discrete RVs (Sec 4.8)                         |                                                                 |
 |                               | Mar 3  | Intro to Continuous Random Variables (Sec 5.1)       | Quiz 3, [Solution](math461-s21-quiz3sol.pdf)                    |
-|                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | [HW 5](math461-s21-hw5.pdf)                                     |
-| 7                             | Mar 8  | [Review](math461-s21-MT1.pdf)                        |                                                                 |
+|                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | [HW 5](math461-s21-hw5.pdf), [Solution](math461-s21-hw5sol.pdf) |
+| [W7](math461-s21-note-w7.pdf) | Mar 8  | [Review](math461-s21-MT1.pdf)                        |                                                                 |
 |                               | Mar 10 | **Midterm 1**                                        |                                                                 |
 |                               | Mar 12 | The Uniform Random Variable (Sec 5.3)                |                                                                 |
-| 8                             | Mar 15 | Normal Random Variables (Sec 5.4-7)                  |                                                                 |
+| [W8](math461-s21-note-w8.pdf) | Mar 15 | Normal Random Variables (Sec 5.4-7)                  |                                                                 |
 |                               | Mar 17 | Exponential Random Variables (Sec 5.4-7)             | Quiz 4                                                          |
-|                               | Mar 19 | Other Continuous RVs (Sec 5.4-7)                     | HW 6                                                            |
-| 9                             | Mar 22 | Joint Distribution Functions (Sec 6.1)               |                                                                 |
+|                               | Mar 19 | Other Continuous RVs (Sec 5.4-7)                     | [HW 6](math461-s21-hw6.pdf)                                     |
+| [W9](math461-s21-note-w9.pdf) | Mar 22 | Joint Distribution Functions (Sec 6.1)               |                                                                 |
 |                               | Mar 24 | **No class**                                         |                                                                 |
 |                               | Mar 26 | Independent Random Variables (Sec 6.2)               | HW 7                                                            |
 | 10                            | Mar 29 | Sums of Independent Random Variables (Sec 6.3)       |                                                                 |
