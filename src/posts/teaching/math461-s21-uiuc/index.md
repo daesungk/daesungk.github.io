@@ -49,7 +49,7 @@ posttype: "teaching"
 |                               | Mar 3  | Intro to Continuous Random Variables (Sec 5.1)       | Quiz 3, [Solution](math461-s21-quiz3sol.pdf)                    |
 |                               | Mar 5  | Expectation and Variance of Continuous RVs (Sec 5.2) | [HW 5](math461-s21-hw5.pdf), [Solution](math461-s21-hw5sol.pdf) |
 | [W7](math461-s21-note-w7.pdf) | Mar 8  | [Review](math461-s21-MT1.pdf)                        |                                                                 |
-|                               | Mar 10 | **Midterm 1** [Solution](math461-s21-mt1sol.pdf)     |                                                                 |
+|                               | Mar 10 | **Midterm 1**: [Solution](math461-s21-mt1sol.pdf)    |                                                                 |
 |                               | Mar 12 | The Uniform Random Variable (Sec 5.3)                |                                                                 |
 | [W8](math461-s21-note-w8.pdf) | Mar 15 | Normal Random Variables (Sec 5.4-7)                  |                                                                 |
 |                               | Mar 17 | Exponential Random Variables (Sec 5.4-7)             | Quiz 4                                                          |
