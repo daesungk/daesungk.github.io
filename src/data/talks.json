@@ -4,17 +4,17 @@
         "place" : "Wrocław University of Technology in Zoom",
         "date" : "Mar 2021", 
         "type" : "talk",
-        "link1name": "slide",
+        "link1name": "[slide]",
         "link1": "https://daesungk.github.io/resources/research/030521-pwr.pdf",
-        "link2name": "",
-        "link2": ""
+        "link2name": "[video]",
+        "link2": "https://www.youtube.com/watch?v=96MaNpzebA8"
     },
     {
         "seminar": "Geometric and functional inequalities and recent topics in nonlinear PDEs",
         "place" : "in Zoom",
         "date" : "Mar 2021", 
         "type" : "talk",
-        "link1name": "slide",
+        "link1name": "[slide]",
         "link1": "https://daesungk.github.io/resources/research/030121-gfi.pdf",
         "link2name": "",
         "link2": ""
@@ -24,10 +24,10 @@
         "place" : "in Zoom",
         "date" : "Oct 2020", 
         "type" : "talk",
-        "link1name": "note",
+        "link1name": "[note]",
         "link1": "https://daesungk.github.io/resources/research/202010-nonlocal-zoom.pdf",
-        "link2name": "",
-        "link2": ""
+        "link2name": "[video]",
+        "link2": "https://www.youtube.com/watch?v=eS6G8WTgGJ4"
     },
 
     {

@@ -10,9 +10,11 @@ function PublistFunction(data) {
                 <b>{item.node.jrnl}</b>, &nbsp;
                 {item.node.jrnlinfo}. &nbsp;
                 {item.node.collaborators} &nbsp;
+                <small>
                 <a href= {item.node.link1url}>{item.node.link1name}</a>&nbsp;
                 <a href= {item.node.link2url}>{item.node.link2name}</a>&nbsp;
                 <a href= {item.node.link3url}>{item.node.link3name}</a>
+                </small>
             </li>
         )
     );

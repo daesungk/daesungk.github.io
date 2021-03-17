@@ -9,8 +9,10 @@ function TalklistFunction(data) {
                 {item.node.seminar}, &nbsp;
                 {item.node.place}, &nbsp;
                 {item.node.date}.&nbsp;
+                <small>
                 <a href={item.node.link1}>{item.node.link1name}</a>&nbsp;
                 <a href={item.node.link2}>{item.node.link2name}</a>&nbsp;
+                </small>
             </li>
         )
     );
