@@ -56,7 +56,7 @@ posttype: "teaching"
 |                               | Mar 19 | Exponential Random Variables (Sec 5.4-7)             | [HW 6](math461-s21-hw6.pdf)                                     |
 | [W9](math461-s21-note-w9.pdf) | Mar 22 | Joint Distribution Functions (Sec 6.1)               |                                                                 |
 |                               | Mar 24 | **No class**                                         |                                                                 |
-|                               | Mar 26 | Independent Random Variables (Sec 6.2)               | HW 7                                                            |
+|                               | Mar 26 | Independent Random Variables (Sec 6.2)               | [HW 7](math461-s21-hw7.pdf)                                     |
 | 10                            | Mar 29 | Sums of Independent Random Variables (Sec 6.3)       |                                                                 |
 |                               | Mar 31 | Conditional Distribution I (Sec 6.4-5)               | Quiz 5                                                          |
 |                               | Apr 2  | Conditional Distribution II (Sec 6.4-5)              | HW 8                                                            |

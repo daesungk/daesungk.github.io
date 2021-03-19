@@ -2,6 +2,15 @@ module.exports = {
     siteMetadata: {
         title: `Daesung Kim`, 
     },
+    plugins: [ 
+        {   
+            resolve: `gatsby-plugin-google-analytics`, 
+            options: { 
+                trackingId: "UA-123277960-1", 
+                head: true, 
+            }, 
+        }, 
+    ],
     plugins: [
         `gatsby-transformer-remark`,
         `gatsby-transformer-json`,
