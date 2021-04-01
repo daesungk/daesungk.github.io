@@ -10,7 +10,7 @@ export default function Research() {
         <Layout>
         <Section title="Research Interest">
             <p>
-                My research interests lie at the interface of probability and analysis. I am particularly interested in the study of functional and geometric inequalities, stochastic representation of singular integrals and Fourier multipliers, extremal problems for nonlocal operators, and Stein's method.
+                My research interests lie at the interface of probability and analysis. I am particularly interested in the study of functional and geometric inequalities, singular integrals, fourier multipliers, nonlocal operators from stochastic analysis, and probability theory.
             </p>
         </Section>
         <Section title="Publications and Preprints">
