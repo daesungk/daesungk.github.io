@@ -58,12 +58,12 @@ posttype: "teaching"
 |                                 | Mar 24 | **No class**                                         |                                                                 |
 |                                 | Mar 26 | Joint Distribution Functions I (Sec 6.1)             | [HW 7](math461-s21-hw7.pdf), [Solution](math461-s21-hw7sol.pdf) |
 | [W10](math461-s21-note-w10.pdf) | Mar 29 | Joint Distribution Functions II (Sec 6.1)            |                                                                 |
-|                                 | Mar 31 | Independent Random Variables (Sec 6.2)               | Quiz 5                                                          |
+|                                 | Mar 31 | Independent Random Variables (Sec 6.2)               | Quiz 5, [Solution](math461-s21-quiz5sol.pdf)                    |
 |                                 | Apr 2  | Sums of Independent Random Variables (Sec 6.3)       |                                                                 |
 | [W11](math461-s21-note-w11.pdf) | Apr 5  | Conditional Distribution (Sec 6.4-5)                 | [HW 8](math461-s21-hw8.pdf)                                     |
 |                                 | Apr 7  | Joint Distribution of Functions of RVs (Sec 6.7)     |                                                                 |
-|                                 | Apr 9  | Sums of Random Variables (Sec 7.2)                   | HW 9                                                            |
-| [W12](math461-s21-note-w12.pdf) | Apr 12 | Covariance (Sec 7.4)                                 |                                                                 |
+|                                 | Apr 9  | Sums of Random Variables (Sec 7.2)                   |                                                                 |
+| [W12](math461-s21-note-w12.pdf) | Apr 12 | Covariance (Sec 7.4)                                 | [HW 9](math461-s21-hw9.pdf)                                     |
 |                                 | Apr 14 | Conditional Expectation I (Sec 7.5)                  | Quiz 6                                                          |
 |                                 | Apr 16 | Conditional Expectation II (Sec 7.5)                 | HW 10                                                           |
 | [W13](math461-s21-note-w13.pdf) | Apr 19 | Review                                               |                                                                 |
