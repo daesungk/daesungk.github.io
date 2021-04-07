@@ -60,7 +60,7 @@ posttype: "teaching"
 | [W10](math461-s21-note-w10.pdf) | Mar 29 | Joint Distribution Functions II (Sec 6.1)            |                                                                 |
 |                                 | Mar 31 | Independent Random Variables (Sec 6.2)               | Quiz 5, [Solution](math461-s21-quiz5sol.pdf)                    |
 |                                 | Apr 2  | Sums of Independent Random Variables (Sec 6.3)       |                                                                 |
-| [W11](math461-s21-note-w11.pdf) | Apr 5  | Conditional Distribution (Sec 6.4-5)                 | [HW 8](math461-s21-hw8.pdf)                                     |
+| [W11](math461-s21-note-w11.pdf) | Apr 5  | Conditional Distribution (Sec 6.4-5)                 | [HW 8](math461-s21-hw8.pdf), [Solution](math461-s21-hw8sol.pdf) |
 |                                 | Apr 7  | Joint Distribution of Functions of RVs (Sec 6.7)     |                                                                 |
 |                                 | Apr 9  | Sums of Random Variables (Sec 7.2)                   |                                                                 |
 | [W12](math461-s21-note-w12.pdf) | Apr 12 | Covariance (Sec 7.4)                                 | [HW 9](math461-s21-hw9.pdf)                                     |
