@@ -62,11 +62,11 @@ posttype: "teaching"
 |                                 | Apr 2  | Sums of Independent Random Variables (Sec 6.3)       |                                                                 |
 | [W11](math461-s21-note-w11.pdf) | Apr 5  | Conditional Distribution (Sec 6.4-5)                 | [HW 8](math461-s21-hw8.pdf), [Solution](math461-s21-hw8sol.pdf) |
 |                                 | Apr 7  | Joint Distribution of Functions of RVs (Sec 6.7)     |                                                                 |
-|                                 | Apr 9  | Sums of Random Variables (Sec 7.2)                   |                                                                 |
+|                                 | Apr 9  | Expectation of Functions of RVs (Sec 7.2)            |                                                                 |
 | [W12](math461-s21-note-w12.pdf) | Apr 12 | Covariance (Sec 7.4)                                 | [HW 9](math461-s21-hw9.pdf)                                     |
 |                                 | Apr 14 | Conditional Expectation I (Sec 7.5)                  | Quiz 6                                                          |
 |                                 | Apr 16 | Conditional Expectation II (Sec 7.5)                 |                                                                 |
-| [W13](math461-s21-note-w13.pdf) | Apr 19 | Review                                               | HW 10                                                           |
+| [W13](math461-s21-note-w13.pdf) | Apr 19 | Review                                               | [HW 10](math461-s21-hw10.pdf)                                   |
 |                                 | Apr 21 | **Midterm 2**                                        |                                                                 |
 |                                 | Apr 23 | Moment Generating Functions (Sec 7.7)                |                                                                 |
 | 14                              | Apr 26 | Chebyshev inequality and WLLN (Sec 8.2)              |                                                                 |
