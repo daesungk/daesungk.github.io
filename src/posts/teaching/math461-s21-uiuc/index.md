@@ -71,9 +71,9 @@ posttype: "teaching"
 |                                 | Apr 23 | Moment Generating Functions (Sec 7.7)                |                                                                 |
 | [W14](math461-s21-note-w14.pdf) | Apr 26 | Chebyshev inequality (Sec 8.2)                       |                                                                 |
 |                                 | Apr 28 | The Law of Large Numbers (Sec 8.2, 4)                | Quiz 7                                                          |
-|                                 | Apr 30 | Central Limit Theorem (Sec 8.3)                      | HW 11                                                           |
-| W15                             | May 3  | Review                                               |                                                                 |
-|                                 | May 5  | Review                                               | HW 12                                                           |
+|                                 | Apr 30 | Central Limit Theorem (Sec 8.3)                      |                                                                 |
+| W15                             | May 3  | Review                                               | HW 11                                                           |
+|                                 | May 5  | Review                                               |                                                                 |
 |                                 | TBA    | **Final**                                            |                                                                 |
 
 
