@@ -8,7 +8,7 @@ export default function Seminar({ data }) {
         <Layout>
         <Section title= "UIUC Probability Seminar Spring 2021">
         <p>
-            Tuesday at 2 pm in Zoom. Please email me (daesungk (at) illinois.edu) for information.
+            Usually on Tuesday at 2 pm (central time) in Zoom. Please email me (daesungk (at) illinois.edu) for information.
         </p>
         <table>
             <thead>

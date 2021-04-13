@@ -63,16 +63,16 @@ posttype: "teaching"
 | [W11](math461-s21-note-w11.pdf) | Apr 5  | Conditional Distribution (Sec 6.4-5)                 | [HW 8](math461-s21-hw8.pdf), [Solution](math461-s21-hw8sol.pdf) |
 |                                 | Apr 7  | Joint Distribution of Functions of RVs (Sec 6.7)     |                                                                 |
 |                                 | Apr 9  | Expectation of Functions of RVs (Sec 7.2)            |                                                                 |
-| [W12](math461-s21-note-w12.pdf) | Apr 12 | Covariance (Sec 7.4)                                 | [HW 9](math461-s21-hw9.pdf)                                     |
-|                                 | Apr 14 | Conditional Expectation I (Sec 7.5)                  | Quiz 6                                                          |
-|                                 | Apr 16 | Conditional Expectation II (Sec 7.5)                 |                                                                 |
+| [W12](math461-s21-note-w12.pdf) | Apr 12 | The Number of Events That Occur (Sec 7.3)            | [HW 9](math461-s21-hw9.pdf), [Solution](math461-s21-hw9sol.pdf) |
+|                                 | Apr 14 | Covariance (Sec 7.4)                                 | Quiz 6                                                          |
+|                                 | Apr 16 | Conditional Expectation (Sec 7.5)                    |                                                                 |
 | [W13](math461-s21-note-w13.pdf) | Apr 19 | Review                                               | [HW 10](math461-s21-hw10.pdf)                                   |
 |                                 | Apr 21 | **Midterm 2**                                        |                                                                 |
 |                                 | Apr 23 | Moment Generating Functions (Sec 7.7)                |                                                                 |
-| 14                              | Apr 26 | Chebyshev inequality and WLLN (Sec 8.2)              |                                                                 |
-|                                 | Apr 28 | Central Limit Theorem (Sec 8.3)                      | Quiz 7                                                          |
-|                                 | Apr 30 | Strong Law of Large Numbers (Sec 8.4)                | HW 11                                                           |
-| 15                              | May 3  | Review                                               |                                                                 |
+| [W14](math461-s21-note-w14.pdf) | Apr 26 | Chebyshev inequality (Sec 8.2)                       |                                                                 |
+|                                 | Apr 28 | The Law of Large Numbers (Sec 8.2, 4)                | Quiz 7                                                          |
+|                                 | Apr 30 | Central Limit Theorem (Sec 8.3)                      | HW 11                                                           |
+| W15                             | May 3  | Review                                               |                                                                 |
 |                                 | May 5  | Review                                               | HW 12                                                           |
 |                                 | TBA    | **Final**                                            |                                                                 |
 
