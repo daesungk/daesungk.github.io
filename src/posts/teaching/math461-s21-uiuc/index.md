@@ -64,7 +64,7 @@ posttype: "teaching"
 |                                 | Apr 7  | Joint Distribution of Functions of RVs (Sec 6.7)     |                                                                 |
 |                                 | Apr 9  | Expectation of Functions of RVs (Sec 7.2)            |                                                                 |
 | [W12](math461-s21-note-w12.pdf) | Apr 12 | The Number of Events That Occur (Sec 7.3)            | [HW 9](math461-s21-hw9.pdf), [Solution](math461-s21-hw9sol.pdf) |
-|                                 | Apr 14 | Covariance (Sec 7.4)                                 | Quiz 6                                                          |
+|                                 | Apr 14 | Covariance (Sec 7.4)                                 | Quiz 6, [Solution](math461-s21-quiz6sol.pdf)                    |
 |                                 | Apr 16 | Conditional Expectation (Sec 7.5)                    |                                                                 |
 | [W13](math461-s21-note-w13.pdf) | Apr 19 | Review                                               | [HW 10](math461-s21-hw10.pdf)                                   |
 |                                 | Apr 21 | **Midterm 2**                                        |                                                                 |
