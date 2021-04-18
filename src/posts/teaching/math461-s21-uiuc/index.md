@@ -72,8 +72,8 @@ posttype: "teaching"
 | [W14](math461-s21-note-w14.pdf) | Apr 26 | Chebyshev inequality (Sec 8.2)                       |                                                                 |
 |                                 | Apr 28 | The Law of Large Numbers (Sec 8.2, 4)                | Quiz 7                                                          |
 |                                 | Apr 30 | Central Limit Theorem (Sec 8.3)                      |                                                                 |
-| W15                             | May 3  | Review                                               | HW 11                                                           |
-|                                 | May 5  | Review                                               |                                                                 |
+| W15                             | May 3  | Review                                               |                                                                 |
+|                                 | May 5  | Review                                               | [HW 11](math461-s21-hw11.pdf)                                   |
 |                                 | TBA    | **Final**                                            |                                                                 |
 
 
