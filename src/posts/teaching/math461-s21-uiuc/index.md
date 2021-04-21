@@ -24,7 +24,7 @@ posttype: "teaching"
 ## Grading policy
 - HW: 20% (weekly, the lowest one HW will be dropped.)
 - Online quizzes: 20% (biweekly, in class, the loewst one quiz will be dropped.)
-- Midterms: 15% and 20% (tentatively Mar 10 and Apr 21, in class, the lower exam score will be 15% and the other 20%.)
+- Midterms: 15% and 20% (Mar 10 and Apr 21, in class, the lower exam score will be 15% and the other 20%.)
 - Final: 25%
 
 ## Tentative Schedule 
@@ -35,7 +35,7 @@ posttype: "teaching"
 |                                 | Jan 29 | Basic Combinatorics III (Sec 1.4-6)                  |                                                                    |
 | [W2](math461-s21-note-w2.pdf)   | Feb 1  | Axioms of Probability I (Sec 2.2-3)                  |                                                                    |
 |                                 | Feb 3  | Axioms of Probability II (Sec 2.4)                   | Quiz 1, [Solution](math461-s21-quiz1sol.pdf)                       |
-|                                 | Feb 5  | Sample sapces having equally likely (Sec 2.5)        | [HW 1](math461-s21-hw1.pdf), [Solution](math461-s21-hw1sol.pdf)    |
+|                                 | Feb 5  | Sample spaces having equally likely (Sec 2.5)        | [HW 1](math461-s21-hw1.pdf), [Solution](math461-s21-hw1sol.pdf)    |
 | [W3](math461-s21-note-w3.pdf)   | Feb 8  | Conditional Probabilities (Sec 3.2)                  |                                                                    |
 |                                 | Feb 10 | Bayes's Formula (Sec 3.3)                            |                                                                    |
 |                                 | Feb 12 | Independent Events (Sec 3.4)                         | [HW 2](math461-s21-hw2.pdf), [Solution](math461-s21-hw2sol.pdf)    |

@@ -1,5 +1,15 @@
 [
     {
+        "seminar": "Special Session on Probabilistic and Diffusion Methods in Analysis and Geometry",
+        "place" : "Spring Central Virtual Sectional Meeting",
+        "date" : "Apr 2021", 
+        "type" : "talk",
+        "link1name": "",
+        "link1": "",
+        "link2name": "",
+        "link2": ""
+    },
+    {
         "seminar": "Theory of Markov Semigroups and Schrödinger Operators",
         "place" : "Wrocław University of Technology in Zoom",
         "date" : "Mar 2021", 
