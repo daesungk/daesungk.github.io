@@ -67,13 +67,13 @@ posttype: "teaching"
 |                                 | Apr 14 | Covariance (Sec 7.4)                                 | Quiz 6, [Solution](math461-s21-quiz6sol.pdf)                       |
 |                                 | Apr 16 | Conditional Expectation (Sec 7.5)                    |                                                                    |
 | [W13](math461-s21-note-w13.pdf) | Apr 19 | Review                                               | [HW 10](math461-s21-hw10.pdf), [Solution](math461-s21-hw10sol.pdf) |
-|                                 | Apr 21 | **Midterm 2**                                        |                                                                    |
+|                                 | Apr 21 | **Midterm 2**: [Solution](math461-s21-mt2sol.pdf)    |                                                                    |
 |                                 | Apr 23 | Moment Generating Functions (Sec 7.7)                |                                                                    |
 | [W14](math461-s21-note-w14.pdf) | Apr 26 | Chebyshev inequality (Sec 8.2)                       |                                                                    |
 |                                 | Apr 28 | The Law of Large Numbers (Sec 8.2, 4)                | Quiz 7                                                             |
 |                                 | Apr 30 | Central Limit Theorem (Sec 8.3)                      |                                                                    |
 | W15                             | May 3  | Review                                               |                                                                    |
 |                                 | May 5  | Review                                               | [HW 11](math461-s21-hw11.pdf)                                      |
-|                                 | TBA    | **Final**                                            |                                                                    |
+|                                 |        | **Final**: [Info](math461-s21-finalann.pdf)          |                                                                    |
 
 
