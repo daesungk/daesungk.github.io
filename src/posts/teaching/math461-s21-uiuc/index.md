@@ -70,7 +70,7 @@ posttype: "teaching"
 |                                 | Apr 21    | **Midterm 2**: [Solution](math461-s21-mt2sol.pdf)           |                                                                    |
 |                                 | Apr 23    | Moment Generating Functions (Sec 7.7)                       |                                                                    |
 | [W14](math461-s21-note-w14.pdf) | Apr 26    | Markov's and Chebyshev's inequalities (Sec 8.2)             |                                                                    |
-|                                 | Apr 28    | Other inequalities (Sec 8.5)                                | Quiz 7                                                             |
+|                                 | Apr 28    | Other inequalities (Sec 8.5)                                | Quiz 7, [Solution](math461-s21-quiz7sol.pdf)                       |
 |                                 | Apr 30    | The Law of Large Numbers (Sec 8.2, 4)                       |                                                                    |
 | W15                             | May 3     | Central Limit Theorem (Sec 8.3)                             |                                                                    |
 |                                 | May 5     | Review                                                      | [HW 11](math461-s21-hw11.pdf)                                      |
