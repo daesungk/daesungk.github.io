@@ -6,9 +6,9 @@ import { Link, graphql } from "gatsby"
 export default function Seminar({ data }) {
     return (
         <Layout>
-        <Section title= "UIUC Probability Seminar Fall 2021">
+        <Section title= "UIUC Probability Seminar Spring 2021">
         <p>
-            Usually on Tuesday at 2 pm (central time). Please email me (daesungk (at) illinois.edu) for information.
+            Usually on Tuesday at 2 pm (central time) in Zoom. Please email me (daesungk (at) illinois.edu) for information.
         </p>
         <table>
             <thead>
@@ -43,7 +43,6 @@ export default function Seminar({ data }) {
         <Section title="Previous Seminars">
             <ul>
                 <li><Link to="/seminar-f20/">Fall 2020</Link></li>
-                <li><Link to="/seminar-s21/">Spring 2021</Link></li>
             </ul>
         </Section>
         </Layout>
@@ -52,7 +51,7 @@ export default function Seminar({ data }) {
 
 export const query = graphql`
     query { 
-    allMarkdownRemark(filter: {frontmatter: {seminar: {eq: "UIUC Probability Seminar Fall 2021" }}}, sort: {fields: frontmatter___date, order: ASC}) {
+    allMarkdownRemark(filter: {frontmatter: {seminar: {eq: "UIUC Probability Seminar Spring 2021" }}}, sort: {fields: frontmatter___date, order: ASC}) {
             edges { 
                 node { 
                     frontmatter { 
