@@ -25,7 +25,7 @@ export default function Layout({ children }) {
         <div 
             css={css` 
                 margin: 0 auto; 
-                max-width: 960px; 
+                max-width: 800px; 
                 padding: ${rhythm(2)}; 
                 padding-top: ${rhythm(1.5)}; 
                 `} 
@@ -57,7 +57,7 @@ export default function Layout({ children }) {
                 font-size: 12px;
                 `}
         >
-            &copy;  2020 Daesung Kim
+            &copy;  2021 Daesung Kim
         </span>
         </div>
     )

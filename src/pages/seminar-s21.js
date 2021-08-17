@@ -40,11 +40,6 @@ export default function Seminar({ data }) {
             </tbody>
         </table>
         </Section>
-        <Section title="Previous Seminars">
-            <ul>
-                <li><Link to="/seminar-f20/">Fall 2020</Link></li>
-            </ul>
-        </Section>
         </Layout>
     ) 
 };
