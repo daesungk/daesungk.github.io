@@ -15,6 +15,11 @@ export default function Research() {
         </Section>
         <Section title="Publications and Preprints">
             <PubList/>
+            <ul>
+            <li>
+                PhD Thesis: Stability for functional and geometric inequalities and a stochastic representation of fractional integrals and nonlocal operators (2019) <small> <a href="https://daesungk.github.io/resources/research/thesis-daesungk.pdf">[pdf]</a></small>
+            </li>
+            </ul>
         </Section>
         <Section title="Talks">
             <TalksList/>
