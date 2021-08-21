@@ -8,25 +8,30 @@ export default function Seminar({ data }) {
         <Layout>
         <Section title= "UIUC Probability Seminar Fall 2021">
         <p>
-            Usually on Tuesday at 2 pm (central time). Please email me (daesungk (at) illinois.edu) for information.
+            Usually on Tuesday  at 2 pm (central time), 347 Altgeld Hall.
+            Please email me (daesungk (at) illinois.edu) for information.
+            UIUC Seminar Calendar is <a href="https://calendar.math.illinois.edu">here</a>.
         </p>
         <table>
             <thead>
                 <tr>
-                    <th> Date </th>
-                    <th> Speaker </th>
-                    <th> Title </th>
+                    <th width="15%"> Date </th>
+                    <th width="20%"> Speaker </th>
+                    <th width="65%"> Title </th>
                 </tr>
             </thead>
             <tbody>
                 {data.allMarkdownRemark.edges.map(({ node }) => (
                 <tr>
                     <td> {node.frontmatter.date} </td>
-                    <td> {node.frontmatter.speaker} ({node.frontmatter.affiliation}) </td>
+                    <td> {node.frontmatter.speaker}
+                        <br/> <small>
+                            ({node.frontmatter.affiliation})
+                        </small> 
+                    </td>
                     <td> 
                         {node.frontmatter.title} 
-                        <br/>
-                        <small>
+                        <br/> <small>
                             {node.excerpt}
                             <Link
                                 to={node.fields.slug}

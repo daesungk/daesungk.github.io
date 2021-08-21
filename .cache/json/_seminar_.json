@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[]}},"pageContext":{}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"affiliation":"Seoul National University","date":"2021-08-24 14:00","speaker":"Panki Kim","title":"Heat kernel upper bounds for symmetric Markov semigroups","seminar":"UIUC Probability Seminar Fall 2021","posttype":"seminar"},"fields":{"slug":"/2021-08-24-pkim/"},"excerpt":"It is well known that Nash-type inequalities for symmetric Dirichlet forms are equivalent to on-diagonal heat kernel upper bounds for the…"}}]}},"pageContext":{}}

@@ -19,6 +19,7 @@ export default function Research() {
             <li>
                 PhD Thesis: Stability for functional and geometric inequalities and a stochastic representation of fractional integrals and nonlocal operators (2019) <small> <a href="https://daesungk.github.io/resources/research/thesis-daesungk.pdf">[pdf]</a></small>
             </li>
+            <li>My papers on arXiv can be found <a href="https://arxiv.org/a/kim_d_6.html">here</a>.</li>
             </ul>
         </Section>
         <Section title="Talks">
