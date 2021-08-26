@@ -8,9 +8,9 @@ posttype: "teaching"
 ---
 ## Course Information
 
-- Instructor: Daesung Kim ([daesungk (at) illinois.edu](mailto:daesungk@illinois.edu))
+- Instructor: Daesung Kim ([daesungk (at) illinois.edu](mailto:daesungk@illinois.edu)), 247B Illini Hall
 - Time and Place: MWF 12-12:50am (Section X13/X14), 165 Noyes Laboratory
-- Office Hour: TBA
+- Office Hour: Mon 1pm, or by appointment (either Zoom or in-person) 
 - Textbook: [Vectors and Transformations in Plane Geometry](https://www.amazon.com/Vectors-Transformations-Geometry-Philippe-Tondeur/dp/0914098284) by Philippe Tondeur 
 - [Syllabus](math403-f21-syllabus.pdf)
 - Moodle: [https://learn.illinois.edu/course/view.php?id=60699](https://learn.illinois.edu/course/view.php?id=60699) 
@@ -65,7 +65,7 @@ posttype: "teaching"
 |       | 12/3     |                                                     | HW 10       |
 | W16   | 12/6     |                                                     |             |
 |       | 12/8     |                                                     |             |
-| Final | TBA      |                                                     |             |
+| Final | 12/10    |                                                     |             |
 
 <style>
 table {
