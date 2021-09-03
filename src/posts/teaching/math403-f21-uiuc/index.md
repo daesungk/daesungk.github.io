@@ -23,12 +23,12 @@ posttype: "teaching"
 | [W1](lec-1.pdf) | 8/23     | Course Overview; Section 1.1-3     |                                |
 |                 | 8/25     | Equation of a line (Sec 1.4-5)     |                                |
 |                 | 8/27     | Parallelograms (Sec 1.6)           |                                |
-| W2              | 8/30     | Centroid I (Sec 1.7)               |                                |
+| [W2](lec-2.pdf) | 8/30     | Centroid I (Sec 1.7)               |                                |
 |                 | 9/1      | Centroid II (Sec 1.8, 10)          | [Quiz 1 Solution](q-1-sol.pdf) |
 |                 | 9/3      | Baricentric coordinates (Sec 1.11) | [HW 1](hw-1.pdf)               |
 | W3              | 9/6      | **Labor Day (No Class)**           |                                |
 |                 | 9/8      |                                    | Quiz 2                         |
-|                 | 9/10     |                                    | HW 2                           |
+|                 | 9/10     |                                    | [HW 2](hw-2.pdf)               |
 | W4              | 9/13     |                                    |                                |
 |                 | 9/15     |                                    | Quiz 3                         |
 |                 | 9/17     |                                    | HW 3                           |
