@@ -27,7 +27,7 @@ posttype: "teaching"
 |                 | 9/1      | Centroid of a finitely many points (Sec 1.8) | [Quiz 1 Solution](q-1-sol.pdf)             |
 |                 | 9/3      | Centroid of mass-points (Sec 1.10)           | [HW 1](hw-1.pdf), [Solution](hw-1-sol.pdf) |
 | [W3](lec-3.pdf) | 9/6      | **Labor Day (No Class)**                     |                                            |
-|                 | 9/8      | Baricentric coordinates (Sec 1.11)           | Quiz 2                                     |
+|                 | 9/8      | Baricentric coordinates (Sec 1.11)           | [Quiz 2 Solution](q-2-sol.pdf)             |
 |                 | 9/10     | Theorem of Ceva (Sec 1.12)                   | [HW 2](hw-2.pdf)                           |
 | W4              | 9/13     |                                              |                                            |
 |                 | 9/15     |                                              | Quiz 3                                     |
