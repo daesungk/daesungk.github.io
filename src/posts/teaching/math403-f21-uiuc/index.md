@@ -31,7 +31,7 @@ posttype: "teaching"
 |                 | 9/10     | Theorem of Ceva (Sec 1.12)                   | [HW 2](hw-2.pdf)                           |
 | W4              | 9/13     |                                              |                                            |
 |                 | 9/15     |                                              | Quiz 3                                     |
-|                 | 9/17     |                                              | HW 3                                       |
+|                 | 9/17     |                                              | [HW 3](hw-3.pdf)                           |
 | W5              | 9/20     |                                              |                                            |
 |                 | 9/22     | **Midterm 1**                                |                                            |
 |                 | 9/24     |                                              |                                            |
