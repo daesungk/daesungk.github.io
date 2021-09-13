@@ -29,10 +29,10 @@ posttype: "teaching"
 | [W3](lec-3.pdf) | 9/6      | **Labor Day (No Class)**                     |                                            |
 |                 | 9/8      | Barycentric coordinates (Sec 1.11)           | [Quiz 2 Solution](q-2-sol.pdf)             |
 |                 | 9/10     | Theorem of Ceva (Sec 1.12)                   | [HW 2](hw-2.pdf), [Solution](hw-2-sol.pdf) |
-| W4              | 9/13     | Theorem of Menelaus (Sec 1.12)               |                                            |
-|                 | 9/15     | Theorems of Desargues and Pappus             | Quiz 3                                     |
+| [W4](lec-4.pdf) | 9/13     | Theorem of Menelaus (Sec 1.12)               |                                            |
+|                 | 9/15     | Theorem of Pappus (Sec 1.13)                 | Quiz 3                                     |
 |                 | 9/17     | Translation (Sec 2.1)                        | [HW 3](hw-3.pdf)                           |
-| W5              | 9/20     |                                              |                                            |
+| W5              | 9/20     | Review                                       |                                            |
 |                 | 9/22     | **Midterm 1**                                |                                            |
 |                 | 9/24     |                                              |                                            |
 | W6              | 9/27     |                                              |                                            |
