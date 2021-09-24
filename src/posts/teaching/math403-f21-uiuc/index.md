@@ -18,54 +18,54 @@ posttype: "teaching"
 - Prerequisite: MATH 241; MATH 347 or 348, or equivalent
 
 ## Tentative Schedule 
-| Note            | Date     | Topic                                        | Assignments                                |
-| ---             | ---      | ---                                          | ---                                        |
-| [W1](lec-1.pdf) | 8/23     | Course Overview; Section 1.1-3               |                                            |
-|                 | 8/25     | Equation of a line (Sec 1.4-5)               |                                            |
-|                 | 8/27     | Parallelograms (Sec 1.6)                     |                                            |
-| [W2](lec-2.pdf) | 8/30     | Centroid of a triangle (Sec 1.7)             |                                            |
-|                 | 9/1      | Centroid of a finitely many points (Sec 1.8) | [Quiz 1 Solution](q-1-sol.pdf)             |
-|                 | 9/3      | Centroid of mass-points (Sec 1.10)           | [HW 1](hw-1.pdf), [Solution](hw-1-sol.pdf) |
-| [W3](lec-3.pdf) | 9/6      | **Labor Day (No Class)**                     |                                            |
-|                 | 9/8      | Barycentric coordinates (Sec 1.11)           | [Quiz 2 Solution](q-2-sol.pdf)             |
-|                 | 9/10     | Theorem of Ceva (Sec 1.12)                   | [HW 2](hw-2.pdf), [Solution](hw-2-sol.pdf) |
-| [W4](lec-4.pdf) | 9/13     | Theorem of Menelaus (Sec 1.12)               |                                            |
-|                 | 9/15     | Theorem of Pappus (Sec 1.13)                 | [Quiz 3 Solution](q-3-sol.pdf)             |
-|                 | 9/17     | Translation (Sec 2.1)                        | [HW 3](hw-3.pdf), [Solution](hw-3-sol.pdf) |
-| W5              | 9/20     | Review                                       |                                            |
-|                 | 9/22     | **Midterm 1** [Info](e-1-info.pdf)           |                                            |
-|                 | 9/24     |                                              |                                            |
-| W6              | 9/27     |                                              |                                            |
-|                 | 9/29     |                                              | Quiz 4                                     |
-|                 | 10/1     |                                              | HW 4                                       |
-| W7              | 10/4     |                                              |                                            |
-|                 | 10/6     |                                              | Quiz 5                                     |
-|                 | 10/8     |                                              | HW 5                                       |
-| W8              | 10/11    |                                              |                                            |
-|                 | 10/13    |                                              | Quiz 6                                     |
-|                 | 10/15    |                                              | HW 6                                       |
-| W9              | 10/18    |                                              |                                            |
-|                 | 10/20    | **Midterm 2**                                |                                            |
-|                 | 10/22    |                                              |                                            |
-| W10             | 10/25    |                                              |                                            |
-|                 | 10/27    |                                              | Quiz 7                                     |
-|                 | 10/29    |                                              | HW 7                                       |
-| W11             | 11/1     |                                              |                                            |
-|                 | 11/3     |                                              | Quiz 8                                     |
-|                 | 11/5     |                                              | HW 8                                       |
-| W12             | 11/8     |                                              |                                            |
-|                 | 11/10    |                                              | Quiz 9                                     |
-|                 | 11/12    |                                              | HW 9                                       |
-| W13             | 11/15    |                                              |                                            |
-|                 | 11/17    | **Midterm 3**                                |                                            |
-|                 | 11/19    |                                              |                                            |
-| W14             | 11/22-26 | **Fall Break**                               |                                            |
-| W15             | 11/29    |                                              |                                            |
-|                 | 12/1     |                                              | Quiz 10                                    |
-|                 | 12/3     |                                              | HW 10                                      |
-| W16             | 12/6     |                                              |                                            |
-|                 | 12/8     |                                              |                                            |
-| Final           | 12/10    |                                              |                                            |
+| Note            | Date     | Topic                                                       | Assignments                                |
+| ---             | ---      | ---                                                         | ---                                        |
+| [W1](lec-1.pdf) | 8/23     | Course Overview; Section 1.1-3                              |                                            |
+|                 | 8/25     | Equation of a line (Sec 1.4-5)                              |                                            |
+|                 | 8/27     | Parallelograms (Sec 1.6)                                    |                                            |
+| [W2](lec-2.pdf) | 8/30     | Centroid of a triangle (Sec 1.7)                            |                                            |
+|                 | 9/1      | Centroid of a finitely many points (Sec 1.8)                | [Quiz 1 Solution](q-1-sol.pdf)             |
+|                 | 9/3      | Centroid of mass-points (Sec 1.10)                          | [HW 1](hw-1.pdf), [Solution](hw-1-sol.pdf) |
+| [W3](lec-3.pdf) | 9/6      | **Labor Day (No Class)**                                    |                                            |
+|                 | 9/8      | Barycentric coordinates (Sec 1.11)                          | [Quiz 2 Solution](q-2-sol.pdf)             |
+|                 | 9/10     | Theorem of Ceva (Sec 1.12)                                  | [HW 2](hw-2.pdf), [Solution](hw-2-sol.pdf) |
+| [W4](lec-4.pdf) | 9/13     | Theorem of Menelaus (Sec 1.12)                              |                                            |
+|                 | 9/15     | Theorem of Pappus (Sec 1.13)                                | [Quiz 3 Solution](q-3-sol.pdf)             |
+|                 | 9/17     | Translation (Sec 2.1)                                       | [HW 3](hw-3.pdf), [Solution](hw-3-sol.pdf) |
+| [W5](lec-5.pdf) | 9/20     | Review                                                      |                                            |
+|                 | 9/22     | **Midterm 1** [Info](e-1-info.pdf), [Solution](e-1-sol.pdf) |                                            |
+|                 | 9/24     | Central dilatation (Sec 2.2)                                |                                            |
+| W6              | 9/27     |                                                             |                                            |
+|                 | 9/29     |                                                             | Quiz 4                                     |
+|                 | 10/1     |                                                             | [HW 4](hw-4.pdf)                           |
+| W7              | 10/4     |                                                             |                                            |
+|                 | 10/6     |                                                             | Quiz 5                                     |
+|                 | 10/8     |                                                             | HW 5                                       |
+| W8              | 10/11    |                                                             |                                            |
+|                 | 10/13    |                                                             | Quiz 6                                     |
+|                 | 10/15    |                                                             | HW 6                                       |
+| W9              | 10/18    |                                                             |                                            |
+|                 | 10/20    | **Midterm 2**                                               |                                            |
+|                 | 10/22    |                                                             |                                            |
+| W10             | 10/25    |                                                             |                                            |
+|                 | 10/27    |                                                             | Quiz 7                                     |
+|                 | 10/29    |                                                             | HW 7                                       |
+| W11             | 11/1     |                                                             |                                            |
+|                 | 11/3     |                                                             | Quiz 8                                     |
+|                 | 11/5     |                                                             | HW 8                                       |
+| W12             | 11/8     |                                                             |                                            |
+|                 | 11/10    |                                                             | Quiz 9                                     |
+|                 | 11/12    |                                                             | HW 9                                       |
+| W13             | 11/15    |                                                             |                                            |
+|                 | 11/17    | **Midterm 3**                                               |                                            |
+|                 | 11/19    |                                                             |                                            |
+| W14             | 11/22-26 | **Fall Break**                                              |                                            |
+| W15             | 11/29    |                                                             |                                            |
+|                 | 12/1     |                                                             | Quiz 10                                    |
+|                 | 12/3     |                                                             | HW 10                                      |
+| W16             | 12/6     |                                                             |                                            |
+|                 | 12/8     |                                                             |                                            |
+| Final           | 12/10    |                                                             |                                            |
 
 <style>
 table {
