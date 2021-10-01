@@ -35,12 +35,12 @@ posttype: "teaching"
 | [W5](lec-5.pdf) | 9/20     | Review                                                      |                                            |
 |                 | 9/22     | **Midterm 1** [Info](e-1-info.pdf), [Solution](e-1-sol.pdf) |                                            |
 |                 | 9/24     | Central dilatation (Sec 2.2)                                |                                            |
-| W6              | 9/27     |                                                             |                                            |
-|                 | 9/29     |                                                             | Quiz 4                                     |
-|                 | 10/1     |                                                             | [HW 4](hw-4.pdf)                           |
-| W7              | 10/4     |                                                             |                                            |
-|                 | 10/6     |                                                             | Quiz 5                                     |
-|                 | 10/8     |                                                             | HW 5                                       |
+| [W6](lec-6.pdf) | 9/27     | Translations and Central dilatation (Sec 2.1-2)             |                                            |
+|                 | 9/29     | Central dilatation (Sec 2.2)                                | [Quiz 4 Solution](q-4-sol.pdf)             |
+|                 | 10/1     | Applications and Central reflections (Sec 2.2-3)            | [HW 4](hw-4.pdf)                           |
+| W7              | 10/4     | Groups (Sec 2.6)                                            |                                            |
+|                 | 10/6     | Groups of transformations (Sec 2.4-5)                       | Quiz 5                                     |
+|                 | 10/8     |                                                             | [HW 5](hw-5.pdf)                           |
 | W8              | 10/11    |                                                             |                                            |
 |                 | 10/13    |                                                             | Quiz 6                                     |
 |                 | 10/15    |                                                             | HW 6                                       |
