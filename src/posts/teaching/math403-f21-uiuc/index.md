@@ -37,14 +37,14 @@ posttype: "teaching"
 |                 | 9/24     | Central dilatation (Sec 2.2)                                |                                            |
 | [W6](lec-6.pdf) | 9/27     | Translations and Central dilatation (Sec 2.1-2)             |                                            |
 |                 | 9/29     | Central dilatation (Sec 2.2)                                | [Quiz 4 Solution](q-4-sol.pdf)             |
-|                 | 10/1     | Applications and Central reflections (Sec 2.2-3)            | [HW 4](hw-4.pdf)                           |
-| W7              | 10/4     | Groups (Sec 2.6)                                            |                                            |
-|                 | 10/6     | Groups of transformations (Sec 2.4-5)                       | Quiz 5                                     |
-|                 | 10/8     |                                                             | [HW 5](hw-5.pdf)                           |
-| W8              | 10/11    |                                                             |                                            |
+|                 | 10/1     | Applications and Central reflections (Sec 2.2-3)            | [HW 4](hw-4.pdf), [Solution](hw-4-sol.pdf) |
+| W7              | 10/4     | Groups I (Sec 2.6)                                          |                                            |
+|                 | 10/6     | Groups II (Sec 2.6)                                         | [Quiz 5 Solution](q-5-sol.pdf)             |
+|                 | 10/8     | Groups of transformations (Sec 2.4-5)                       | [HW 5](hw-5.pdf)                           |
+| W8              | 10/11    | Symmetry groups                                             |                                            |
 |                 | 10/13    |                                                             | Quiz 6                                     |
-|                 | 10/15    |                                                             | HW 6                                       |
-| W9              | 10/18    |                                                             |                                            |
+|                 | 10/15    |                                                             | [HW 6](hw-6.pdf)                           |
+| W9              | 10/18    | Review                                                      |                                            |
 |                 | 10/20    | **Midterm 2**                                               |                                            |
 |                 | 10/22    |                                                             |                                            |
 | W10             | 10/25    |                                                             |                                            |

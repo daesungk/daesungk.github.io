@@ -10,7 +10,7 @@ export default function Seminar({ data }) {
         <p>
             Usually on Tuesday  at 2 pm (central time), 347 Altgeld Hall.
             Please email me (daesungk (at) illinois.edu) for information.
-            UIUC Seminar Calendar is <a href="https://calendar.math.illinois.edu">here</a>.
+            UIUC Seminar Calendar is <a href="https://calendars.illinois.edu/list/7079">here</a>.
         </p>
         <table>
             <thead>
