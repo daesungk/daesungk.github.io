@@ -44,7 +44,7 @@ posttype: "teaching"
 | [W8](lec-8.pdf)   | 10/11    | Groups of transformations (Sec 2.4-5)                       | [HW 5](hw-5.pdf), [Solution](hw-5-sol.pdf) |
 |                   | 10/13    | Scalar products and orthogonality (Sec 3.1-2)               | [Quiz 6 Solution](q-6-sol.pdf)             |
 |                   | 10/15    | Circumcenters and Orthocenters (Sec 3.2)                    | [HW 6](hw-6.pdf)                           |
-| W9                | 10/18    | Review [Practice problems][e-2-prep.pdf]                    |                                            |
+| W9                | 10/18    | Review [Practice problems](e-2-prep.pdf)                    |                                            |
 |                   | 10/20    | **Midterm 2** [Info](e-2-info.pdf)                          |                                            |
 |                   | 10/22    |                                                             |                                            |
 | W10               | 10/25    |                                                             |                                            |
