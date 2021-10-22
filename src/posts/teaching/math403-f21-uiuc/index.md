@@ -45,11 +45,11 @@ posttype: "teaching"
 |                   | 10/13    | Scalar products and orthogonality (Sec 3.1-2)               | [Quiz 6 Solution](q-6-sol.pdf)             |
 |                   | 10/15    | Circumcenters (Sec 3.2)                                     | [HW 6](hw-6.pdf), [Solution](hw-6-sol.pdf) |
 | [W9](lec-9.pdf)   | 10/18    | Review [Practice problems](e-2-prep.pdf)                    |                                            |
-|                   | 10/20    | **Midterm 2** [Info](e-2-info.pdf)                          |                                            |
+|                   | 10/20    | **Midterm 2** [Info](e-2-info.pdf), [Solution](e-2-sol.pdf) |                                            |
 |                   | 10/22    | Orthocenters (Sec 3.2)                                      |                                            |
 | W10               | 10/25    | Circles (Sec 3.3)                                           |                                            |
 |                   | 10/27    | Cauchy-Schwarz inequality (Sec 3.4)                         | Quiz 7                                     |
-|                   | 10/29    | Projections (Sec 3.5)                                       | HW 7                                       |
+|                   | 10/29    | Projections (Sec 3.5)                                       | [HW 7](hw-7.pdf)                           |
 | W11               | 11/1     | Angles and Equation of a line (Sec 3.6-7)                   |                                            |
 |                   | 11/3     |                                                             | Quiz 8                                     |
 |                   | 11/5     |                                                             | HW 8                                       |
