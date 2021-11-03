@@ -48,11 +48,11 @@ posttype: "teaching"
 |                   | 10/20    | **Midterm 2** [Info](e-2-info.pdf), [Solution](e-2-sol.pdf) |                                            |
 |                   | 10/22    | Orthocenters (Sec 3.2)                                      |                                            |
 | [W10](lec-10.pdf) | 10/25    | Circles (Sec 3.3)                                           |                                            |
-|                   | 10/27    | Nine-Point Circle Theorem (Sec 3.3)                         | [Quiz 7 Solution](q-7-sol.pdf)             |
-|                   | 10/29    | Cauchy-Schwarz inequality (Sec 3.4)                         | [HW 7](hw-7.pdf)                           |
-| W11               | 11/1     | Projections (Sec 3.5)                                       |                                            |
-|                   | 11/3     | Angles and Equation of a line (Sec 3.6-7)                   | Quiz 8                                     |
-|                   | 11/5     |                                                             | [HW 8](hw-8.pdf)                           |
+|                   | 10/27    | Nine-Point Circle Theorem I (Sec 3.3)                       | [Quiz 7 Solution](q-7-sol.pdf)             |
+|                   | 10/29    | Nine-Point Circle Theorem II (Sec 3.3)                      | [HW 7](hw-7.pdf), [Solution](hw-7-sol.pdf) |
+| W11               | 11/1     | Cauchy-Schwarz inequality (Sec 3.4)                         |                                            |
+|                   | 11/3     | Projections (Sec 3.5)                                       | Quiz 8                                     |
+|                   | 11/5     | Angles and Equation of a line (Sec 3.6-7)                   | [HW 8](hw-8.pdf)                           |
 | W12               | 11/8     |                                                             |                                            |
 |                   | 11/10    |                                                             | Quiz 9                                     |
 |                   | 11/12    |                                                             | HW 9                                       |

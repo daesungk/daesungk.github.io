@@ -1,7 +1,17 @@
 [
     {
-        "seminar": "Special Session on Probabilistic and Diffusion Methods in Analysis and Geometry",
-        "place" : "Spring Central Virtual Sectional Meeting",
+        "seminar": "Probability Seminar",
+        "place" : "University of Illinois at Urbana–Champaign",
+        "date" : "Oct 2021", 
+        "type" : "talk",
+        "link1name": "",
+        "link1": "",
+        "link2name": "",
+        "link2": ""
+    },
+    {
+        "seminar": "AMS Spring Central Sectional Meeting, Special session on Probabilistic and diffusion methods in analysis and geometry",
+        "place" : "University of Cincinnati, in Zoom",
         "date" : "Apr 2021", 
         "type" : "talk",
         "link1name": "",
@@ -11,7 +21,7 @@
     },
     {
         "seminar": "Theory of Markov Semigroups and Schrödinger Operators",
-        "place" : "Wrocław University of Technology in Zoom",
+        "place" : "Wrocław University of Technology, in Zoom",
         "date" : "Mar 2021", 
         "type" : "talk",
         "link1name": "[slide]",
@@ -21,7 +31,7 @@
     },
     {
         "seminar": "Geometric and functional inequalities and recent topics in nonlinear PDEs",
-        "place" : "in Zoom",
+        "place" : "Purdue University, in Zoom",
         "date" : "Mar 2021", 
         "type" : "talk",
         "link1name": "[slide]",
@@ -41,7 +51,7 @@
     },
 
     {
-        "seminar": "Minisymposium at International Conference on Elliptic and Parabolic Problems",
+        "seminar": "International Conference on Elliptic and Parabolic Problems, Minisymposium",
         "place" : "Gaeta, Italy",
         "date" : "May 2019", 
         "type" : "talk",
@@ -52,8 +62,8 @@
     },
 
     {
-        "seminar": "AMS sectional meeting Special session on Stochastic processes",
-        "place" : "Hartford",
+        "seminar": "AMS Spring Eastern Sectional Meeting, Special session on Stochastic processes",
+        "place" : "University of Connecticut, Hartford",
         "date" : "April 2019", 
         "type" : "talk",
         "link1name": "",
