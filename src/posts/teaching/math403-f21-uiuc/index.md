@@ -55,7 +55,7 @@ posttype: "teaching"
 |                      | 11/5     | Angles and Equation of a line (Sec 3.6-7)                   | [HW 8](hw-8.pdf)                           |
 | [W12](lec-12.pdf)    | 11/8     | Isometries (Sec 4.1)                                        |                                            |
 |                      | 11/10    | Isometry Group (Sec 4.2)                                    | Quiz 9                                     |
-|                      | 11/12    | Fixed points of Isometries (Sec 4.2)                        | HW 9                                       |
+|                      | 11/12    | Fixed points of Isometries (Sec 4.2)                        | [HW 9](hw-9.pdf)                           |
 | [W13](lec-13.pdf)    | 11/15    | Review                                                      |                                            |
 |                      | 11/17    | **Midterm 3**                                               |                                            |
 |                      | 11/19    | Reflection (Sec 4.3)                                        |                                            |
