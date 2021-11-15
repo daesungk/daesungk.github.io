@@ -54,8 +54,8 @@ posttype: "teaching"
 |                   | 11/3     | Projections (Sec 3.5)                                        | [Quiz 8 Solution](q-8-sol.pdf)             |
 |                   | 11/5     | Angles and Equation of a line (Sec 3.6-7)                    | [HW 8](hw-8.pdf), [Solution](hw-8-sol.pdf) |
 | [W12](lec-12.pdf) | 11/8     | Isometries (Sec 4.1)                                         |                                            |
-|                   | 11/10    | Isometry Group (Sec 4.2)                                     | Quiz 9                                     |
-|                   | 11/12    | Fixed points of Isometries (Sec 4.2)                         | [HW 9](hw-9.pdf)                           |
+|                   | 11/10    | Isometry Group (Sec 4.2)                                     | [Quiz 9 Solution](q-9-sol.pdf)             |
+|                   | 11/12    | Fixed points of Isometries (Sec 4.2)                         | [HW 9](hw-9.pdf), [Solution](hw-9-sol.pdf) |
 | [W13](lec-13.pdf) | 11/15    | Review  [Practice problems](e-3-prep.pdf)                    |                                            |
 |                   | 11/17    | **Midterm 3**  [Info](e-3-info.pdf)                          |                                            |
 |                   | 11/19    | Reflection (Sec 4.3)                                         |                                            |
