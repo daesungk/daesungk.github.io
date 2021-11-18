@@ -8,7 +8,6 @@ exports.components = {
   "component---src-pages-seminar-js": () => import("./../../../src/pages/seminar.js" /* webpackChunkName: "component---src-pages-seminar-js" */),
   "component---src-pages-seminar-s-21-js": () => import("./../../../src/pages/seminar-s21.js" /* webpackChunkName: "component---src-pages-seminar-s-21-js" */),
   "component---src-pages-teaching-js": () => import("./../../../src/pages/teaching.js" /* webpackChunkName: "component---src-pages-teaching-js" */),
-  "component---src-templates-notes-post-js": () => import("./../../../src/templates/notes-post.js" /* webpackChunkName: "component---src-templates-notes-post-js" */),
   "component---src-templates-seminar-post-js": () => import("./../../../src/templates/seminar-post.js" /* webpackChunkName: "component---src-templates-seminar-post-js" */),
   "component---src-templates-teaching-post-js": () => import("./../../../src/templates/teaching-post.js" /* webpackChunkName: "component---src-templates-teaching-post-js" */)
 }

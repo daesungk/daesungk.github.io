@@ -2,7 +2,7 @@
 coursename: "Euclidean Geometry"
 coursenumber: "MATH 403"
 semester: "Fall 2021"
-date: "2021-08"
+date: "2021-08-01"
 university: "UIUC"
 posttype: "teaching"
 ---

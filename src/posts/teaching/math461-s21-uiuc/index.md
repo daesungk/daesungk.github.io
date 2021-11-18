@@ -2,7 +2,7 @@
 coursename: "Probability Theory"
 coursenumber: "MATH 461"
 semester: "Spring 2021"
-date: "2021-01"
+date: "2021-01-01"
 university: "UIUC"
 posttype: "teaching"
 ---
