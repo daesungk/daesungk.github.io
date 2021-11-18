@@ -1,1 +1,0 @@
-module.exports = require("/Users/daesungk/Documents/daesungk.github.io/src/utils/typography")
