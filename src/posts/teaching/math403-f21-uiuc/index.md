@@ -57,7 +57,7 @@ posttype: "teaching"
 |                   | 11/10    | Isometry Group (Sec 4.2)                                     | [Quiz 9 Solution](q-9-sol.pdf)             |
 |                   | 11/12    | Fixed points of Isometries (Sec 4.2)                         | [HW 9](hw-9.pdf), [Solution](hw-9-sol.pdf) |
 | [W13](lec-13.pdf) | 11/15    | Review  [Practice problems](e-3-prep.pdf)                    |                                            |
-|                   | 11/17    | **Midterm 3**  [Info](e-3-info.pdf)                          |                                            |
+|                   | 11/17    | **Midterm 3**  [Info](e-3-info.pdf), [Solution](e-3-sol.pdf) |                                            |
 |                   | 11/19    | Reflection (Sec 4.3)                                         |                                            |
 | W14               | 11/22-26 | **Fall Break**                                               |                                            |
 | [W15](lec-15.pdf) | 11/29    | Central Reflection, Unique fixed points (Sec 4.4-6)          |                                            |
