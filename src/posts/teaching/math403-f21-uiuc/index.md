@@ -57,15 +57,15 @@ posttype: "teaching"
 |                   | 11/10    | Isometry Group (Sec 4.2)                                     | [Quiz 9 Solution](q-9-sol.pdf)             |
 |                   | 11/12    | Fixed points of Isometries (Sec 4.2)                         | [HW 9](hw-9.pdf), [Solution](hw-9-sol.pdf) |
 | [W13](lec-13.pdf) | 11/15    | Review  [Practice problems](e-3-prep.pdf)                    |                                            |
-|                   | 11/17    | **Midterm 3**  [Info](e-3-info.pdf), [Solution](e-3-sol.pdf) |                                            |
+|                   | 11/17    | **Midterm 3** [Info](e-3-info.pdf), [Solution](e-3-sol.pdf)  |                                            |
 |                   | 11/19    | Reflection (Sec 4.3)                                         |                                            |
 | W14               | 11/22-26 | **Fall Break**                                               |                                            |
 | [W15](lec-15.pdf) | 11/29    | Central Reflection, Unique fixed points (Sec 4.4-6)          |                                            |
 |                   | 12/1     | Translation, Rotation (Sec. 4.7-8)                           | Quiz 10                                    |
-|                   | 12/3     | Glide reflection, Classification (Sec 4.9-10)                | HW 10                                      |
-| W16               | 12/6     | Review                                                       |                                            |
+|                   | 12/3     | Glide reflection, Classification (Sec 4.9-10)                |                                            |
+| W16               | 12/6     | Review                                                       | [HW 10](hw-10.pdf)                         |
 |                   | 12/8     | Review                                                       |                                            |
-|                   | 12/10    | **Final Exam**                                               |                                            |
+|                   | 12/10    | **Final Exam at 9am-10:40am** [Info](e-4-info.pdf)           |                                            |
 
 <style>
 table {
