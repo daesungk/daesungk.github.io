@@ -2,13 +2,11 @@
 coursename: "Probability Theory"
 coursenumber: "MATH 461"
 semester: "Spring 2022"
-date: "2021-01-01"
+date: "2022-01-01"
 university: "UIUC"
 posttype: "teaching"
 ---
 
-- [Campuswire-register]() - 6729
-- [Campuswire](https://campuswire.com/)
 ## Course Information 
 - Instructor: Daesung Kim ([daesungk (at) illinois.edu](mailto:daesungk@illinois.edu))
 - Time and Place: MWF 1-1:50pm (Section E13), Burrill Hall 140
@@ -97,11 +95,11 @@ table th:first-of-type {
     text-align: center;
 }
 table th:nth-of-type(2) {
-    width: 10%;
+    width: 15%;
     text-align: center;
 }
 table th:nth-of-type(3) {
-    width: 50%;
+    width: 45%;
     text-align: center;
 }
 table th:nth-of-type(4) {
