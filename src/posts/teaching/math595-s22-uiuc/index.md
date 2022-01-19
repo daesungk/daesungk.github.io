@@ -11,7 +11,7 @@ posttype: "teaching"
 - Instructor: Daesung Kim ([daesungk (at) illinois.edu](mailto:daesungk@illinois.edu))
 - Time and Place: MWF 10-10:50pm, Henry Administration Bldg 137
 - Office Hour: TBA
-- [Syllabus](syllabus.pdf)
+- [Syllabus](math595-syllabus.pdf)
 
 
 ## Tentative Schedule 
