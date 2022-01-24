@@ -29,7 +29,7 @@ posttype: "teaching"
 | ---          | ---       | ---                                                  | ---            |
 | [W1](w1.pdf) | Jan 19    | Basic Combinatorics I (Sec 1.1-3)                    |                |
 |              | Jan 21    | Basic Combinatorics II (Sec 1.4-6)                   |                |
-| W2           | Jan 24    | Basic Combinatorics III (Sec 1.4-6)                  |                |
+| [W2](w2.pdf) | Jan 24    | Basic Combinatorics III (Sec 1.4-6)                  |                |
 |              | Jan 26    | Axioms of Probability I (Sec 2.2-3)                  |                |
 |              | Jan 28    | Axioms of Probability II (Sec 2.4)                   | [HW1](hw1.pdf) |
 | W3           | Jan 31    | Sample spaces having equally likely (Sec 2.5)        |                |
