@@ -15,7 +15,7 @@ export default function Home() {
         <Section title="Contact Information">
             <p>
 				Email: <a href="mailto:daesungk@illinois.edu">daesungk (at) illinois.edu</a> <br/> 
-                Office: 247B Illini Hall
+                Office: CAB 70 (Computing application building)
             </p>
         </Section>
         </Layout>

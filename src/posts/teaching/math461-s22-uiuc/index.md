@@ -9,13 +9,16 @@ posttype: "teaching"
 
 ## Course Information 
 - Instructor: Daesung Kim ([daesungk (at) illinois.edu](mailto:daesungk@illinois.edu))
+- Office: CAB (Computing application building) 70
 - Time and Place: MWF 1-1:50pm (Section E13), Burrill Hall 140
-- Office Hour: TBA
+- Office Hour: 2-3pm on Mon, Wed, or by appointment
+- TA: Phuong Le (phuong2@illinois.edu)
 - Textbook: [Sheldon Ross, A First Course in Probability, 9th Edition, ISBN: 9780321794772.](https://www.amazon.com/First-Course-Probability-9th/dp/032179477X)
 - Supplementary textbook: [Introduction to Probability](http://probabilitybook.net), Blitzstein and Hwang
 - [Syllabus](syllabus.pdf), [Course overview](overview.pdf) 
 - Moodle: [https://learn.illinois.edu/course/view.php?id=66496](https://learn.illinois.edu/course/view.php?id=66496)
 - Campuswire: [https://campuswire.com/p/G3B720AB4](https://campuswire.com/p/G3B720AB4) (Passcode can be found in Moodle)
+- PrairieLearn (for quizzes): [https://www.prairielearn.org/pl/course_instance/129088](https://www.prairielearn.org/pl/course_instance/129088)
 - Prerequisite: Math 241 or the equivalent. We will use important topics from calculus, such as infinite series with positive terms (most calculations involve the geometric series and series derived from it), improper integrals and double integrals (change of variables formula, manipulating Gaussian integrals).
 
 ## Grading Policy
