@@ -35,10 +35,10 @@ posttype: "teaching"
 | [W2](w2.pdf) | Jan 24    | Basic Combinatorics III (Sec 1.4-6)                  |                |
 |              | Jan 26    | Axioms of Probability I (Sec 2.2-3)                  |                |
 |              | Jan 28    | Axioms of Probability II (Sec 2.4)                   | [HW1](hw1.pdf) |
-| W3           | Jan 31    | Sample spaces having equally likely (Sec 2.5)        |                |
+| [W3](w3.pdf) | Jan 31    | Sample spaces having equally likely (Sec 2.5)        |                |
 |              | Feb 2     | Conditional Probabilities (Sec 3.2)                  |                |
-|              | Feb 4     | Bayes's Formula (Sec 3.3)                            | HW2            |
-| W4           | Feb 7     | Independent Events (Sec 3.4)                         |                |
+|              | Feb 4     | Bayes's Formula (Sec 3.3)                            | [HW2](hw2.pdf) |
+| [W4](w4.pdf) | Feb 7     | Independent Events (Sec 3.4)                         |                |
 |              | Feb 9     | Random Variables (Sec 4.1-2, 10)                     |                |
 |              | Feb 11    | Expectation (Sec 4.3, 4, 6)                          | HW3            |
 | W5           | Feb 14    | Variance (Sec 4.5)                                   |                |
