@@ -21,8 +21,8 @@ posttype: "teaching"
 |      | Jan 21    | Elementary proof of non-sharp HLS                   |
 | W2   | Jan 24    | Semigroup proof of non-sharp HLS                    |
 |      | Jan 26    | Rearrangement inequalities                          |
-|      | Jan 28    |                                                     |
-| W3   | Jan 31    |                                                     |
+|      | Jan 28    | Polya-Szego inequality                              |
+| W3   | Jan 31    | Rearrangement inequalities                          |
 |      | Feb 2     |                                                     |
 |      | Feb 4     |                                                     |
 | W4   | Feb 7     |                                                     |
@@ -40,7 +40,7 @@ posttype: "teaching"
 | W8   | Mar 7     |                                                     |
 |      | Mar 9     |                                                     |
 |      | Mar 11    |                                                     |
-| W9   | Mar 12-20 |                                                     |
+| W9   | Mar 12-20 | **Spring Break**                                    |
 | W10  | Mar 21    |                                                     |
 |      | Mar 23    |                                                     |
 |      | Mar 25    |                                                     |
