@@ -42,11 +42,11 @@ posttype: "teaching"
 |              | Feb 9     | Bayes's Formula (Sec 3.3), Independent Events (Sec 3.4)         |                                         |
 |              | Feb 11    | Random Variables (Sec 4.1-2, 10)                                | [HW3](hw3.pdf), [Solution](hw3-sol.pdf) |
 | [W5](w5.pdf) | Feb 14    | Expectation (Sec 4.3, 4, 6)                                     |                                         |
-|              | Feb 16    | Variance (Sec 4.5), Bernoulli RVs (Sec 4.6)                     | Quiz2                                   |
-|              | Feb 18    | Binomial RVs and Poisson RVs (Sec 4.6-7)                        | [HW4](hw4.pdf)                          |
-| [W6](w6.pdf) | Feb 21    | Other discrete RVs (sec 4.8)                                    |                                         |
+|              | Feb 16    | Variance (Sec 4.5)                                              | Quiz2, [Solution](quiz2-sol.pdf)        |
+|              | Feb 18    | Bernoulli RVs and Binomial RVs (Sec 4.6)                        | [HW4](hw4.pdf)                          |
+| [W6](w6.pdf) | Feb 21    | Poisson RVs (Sec 4.7)                                           |                                         |
 |              | Feb 23    | Other discrete RVs (sec 4.8)                                    |                                         |
-|              | Feb 25    | Intro to continuous random variables (sec 5.1)                  | HW5                                     |
+|              | Feb 25    | Intro to continuous random variables (sec 5.1)                  | [HW5](hw5.pdf)                          |
 | W7           | Feb 28    | Review                                                          |                                         |
 |              | Mar 2     | **Midterm 1**                                                   |                                         |
 |              | Mar 4     | Expectation and variance of continuous RVs (sec 5.2)            |                                         |
