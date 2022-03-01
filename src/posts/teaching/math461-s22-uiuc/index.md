@@ -46,11 +46,11 @@ posttype: "teaching"
 |              | Feb 18    | Bernoulli RVs and Binomial RVs (Sec 4.6)                        | [HW4](hw4.pdf), [Solution](hw4-sol.pdf) |
 | [W6](w6.pdf) | Feb 21    | Poisson RVs (Sec 4.7)                                           |                                         |
 |              | Feb 23    | Other discrete RVs (sec 4.8)                                    |                                         |
-|              | Feb 25    | Intro to continuous random variables (sec 5.1)                  | [HW5](hw5.pdf)                          |
-| W7           | Feb 28    | Review [Handout](e-1-prac.pdf)                                  |                                         |
+|              | Feb 25    | Intro to continuous random variables (sec 5.1)                  | [HW5](hw5.pdf), [Solution](hw5-sol.pdf) |
+| [W7](w7.pdf) | Feb 28    | Review [Handout](e-1-prac.pdf), [Solution](e-1-prac-sol.pdf)    |                                         |
 |              | Mar 2     | **Midterm 1**                                                   |                                         |
 |              | Mar 4     | Expectation and variance of continuous RVs (sec 5.2)            |                                         |
-| W8           | Mar 7     | The uniform random variable (sec 5.3)                           |                                         |
+| [W8](w8.pdf) | Mar 7     | The uniform random variable (sec 5.3)                           |                                         |
 |              | Mar 9     | Normal random variables (sec 5.4-7)                             | Quiz3                                   |
 |              | Mar 11    | Exponential random variables (sec 5.4-7)                        | HW6                                     |
 | W9           | Mar 12-20 | **Spring Break**                                                |                                         |
