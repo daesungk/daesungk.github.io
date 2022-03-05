@@ -47,8 +47,8 @@ posttype: "teaching"
 | [W6](w6.pdf) | Feb 21    | Poisson RVs (Sec 4.7)                                           |                                         |
 |              | Feb 23    | Other discrete RVs (sec 4.8)                                    |                                         |
 |              | Feb 25    | Intro to continuous random variables (sec 5.1)                  | [HW5](hw5.pdf), [Solution](hw5-sol.pdf) |
-| [W7](w7.pdf) | Feb 28    | Review [Handout](e-1-prac.pdf), [Solution](e-1-prac-sol.pdf)    | [Midterm 1 Solution](e-1-sol.pdf)       |
-|              | Mar 2     | **Midterm 1**                                                   |                                         |
+| [W7](w7.pdf) | Feb 28    | Review [Handout](e-1-prac.pdf), [Solution](e-1-prac-sol.pdf)    |                                         |
+|              | Mar 2     | **Midterm 1** [Solution](e-1-sol.pdf)                           |                                         |
 |              | Mar 4     | Expectation and variance of continuous RVs (sec 5.2)            |                                         |
 | [W8](w8.pdf) | Mar 7     | The uniform random variable (sec 5.3)                           |                                         |
 |              | Mar 9     | Normal random variables (sec 5.4-7)                             | Quiz3                                   |
