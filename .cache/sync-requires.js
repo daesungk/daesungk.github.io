@@ -8,6 +8,7 @@ exports.components = {
   "component---src-pages-index-js": hot(preferDefault(require("/Users/daesungk/Documents/daesungk.github.io/src/pages/index.js"))),
   "component---src-pages-research-js": hot(preferDefault(require("/Users/daesungk/Documents/daesungk.github.io/src/pages/research.js"))),
   "component---src-pages-seminar-f-20-js": hot(preferDefault(require("/Users/daesungk/Documents/daesungk.github.io/src/pages/seminar-f20.js"))),
+  "component---src-pages-seminar-f-21-js": hot(preferDefault(require("/Users/daesungk/Documents/daesungk.github.io/src/pages/seminar-f21.js"))),
   "component---src-pages-seminar-js": hot(preferDefault(require("/Users/daesungk/Documents/daesungk.github.io/src/pages/seminar.js"))),
   "component---src-pages-seminar-s-21-js": hot(preferDefault(require("/Users/daesungk/Documents/daesungk.github.io/src/pages/seminar-s21.js"))),
   "component---src-pages-teaching-js": hot(preferDefault(require("/Users/daesungk/Documents/daesungk.github.io/src/pages/teaching.js"))),

@@ -6,7 +6,7 @@ import { Link, graphql } from "gatsby"
 export default function Seminar({ data }) {
     return (
         <Layout>
-        <Section title= "UIUC Probability Seminar Fall 2021">
+        <Section title= "UIUC Probability Seminar Spring 2022">
         <p>
             Usually on Tuesday  at 2 pm (central time), 347 Altgeld Hall.
             Please email me (daesungk (at) illinois.edu) for information.
@@ -49,6 +49,7 @@ export default function Seminar({ data }) {
             <ul>
                 <li><Link to="/seminar-f20/">Fall 2020</Link></li>
                 <li><Link to="/seminar-s21/">Spring 2021</Link></li>
+                <li><Link to="/seminar-f21/">Fall 2021</Link></li>
             </ul>
         </Section>
         </Layout>
