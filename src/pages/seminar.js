@@ -58,7 +58,7 @@ export default function Seminar({ data }) {
 
 export const query = graphql`
     query { 
-    allMarkdownRemark(filter: {frontmatter: {seminar: {eq: "UIUC Probability Seminar Fall 2021" }}}, sort: {fields: frontmatter___date, order: ASC}) {
+    allMarkdownRemark(filter: {frontmatter: {seminar: {eq: "UIUC Probability Seminar Spring 2022" }}}, sort: {fields: frontmatter___date, order: ASC}) {
             edges { 
                 node { 
                     frontmatter { 
