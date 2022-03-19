@@ -55,10 +55,10 @@ posttype: "teaching"
 |                | Mar 11    | Normal random variables (sec 5.4-7)                             | [HW6](hw6.pdf)                          |
 | W9             | Mar 12-20 | **Spring Break**                                                |                                         |
 | [W10](w10.pdf) | Mar 21    | Exponential random variables (sec 5.4-7)                        |                                         |
-|                | Mar 23    | Other random variables (sec 5.4-7)                              | Quiz4                                   |
+|                | Mar 23    | Other random variables (sec 5.4-7)                              |                                         |
 |                | Mar 25    | Joint distribution functions (sec 6.1)                          | [HW7](hw7.pdf)                          |
 | [W11](w11.pdf) | Mar 28    | Independent random variables (sec 6.2)                          |                                         |
-|                | Mar 30    | Sums of independent random variables (sec 6.3)                  |                                         |
+|                | Mar 30    | Sums of independent random variables (sec 6.3)                  | Quiz4                                   |
 |                | Apr 1     | Conditional distribution (sec 6.4-5)                            | HW8                                     |
 | W12            | Apr 4     | Joint distribution of functions of RVs (sec 6.7)                |                                         |
 |                | Apr 6     | Expectation of functions of RVs (sec 7.2)                       | Quiz5                                   |
