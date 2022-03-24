@@ -52,15 +52,15 @@ posttype: "teaching"
 |                | Mar 4     | Intro to continuous random variables (sec 5.1)                  |                                         |
 | [W8](w8.pdf)   | Mar 7     | Expectation and variance of continuous RVs (sec 5.2)            |                                         |
 |                | Mar 9     | The uniform random variable (sec 5.3)                           | Quiz3, [Solution](quiz3-sol.pdf)        |
-|                | Mar 11    | Normal random variables (sec 5.4-7)                             | [HW6](hw6.pdf)                          |
+|                | Mar 11    | Normal random variables (sec 5.4-7)                             | [HW6](hw6.pdf), [Solution](hw6-sol.pdf) |
 | W9             | Mar 12-20 | **Spring Break**                                                |                                         |
 | [W10](w10.pdf) | Mar 21    | Exponential random variables (sec 5.4-7) [slide](lec22.pdf)     |                                         |
-|                | Mar 23    | Other random variables (sec 5.4-7)                              |                                         |
+|                | Mar 23    | Gamma random variables (sec 5.4-7)                              |                                         |
 |                | Mar 25    | Joint distribution functions (sec 6.1)                          | [HW7](hw7.pdf)                          |
 | [W11](w11.pdf) | Mar 28    | Independent random variables (sec 6.2)                          |                                         |
 |                | Mar 30    | Sums of independent random variables (sec 6.3)                  | Quiz4                                   |
-|                | Apr 1     | Conditional distribution (sec 6.4-5)                            | HW8                                     |
-| W12            | Apr 4     | Joint distribution of functions of RVs (sec 6.7)                |                                         |
+|                | Apr 1     | Conditional distribution (sec 6.4-5)                            | [HW8](hw8.pdf)                          |
+| [W12](w12.pdf) | Apr 4     | Joint distribution of functions of RVs (sec 6.7)                |                                         |
 |                | Apr 6     | Expectation of functions of RVs (sec 7.2)                       | Quiz5                                   |
 |                | Apr 8     | The number of events that occur (sec 7.3)                       | HW9                                     |
 | W13            | Apr 11    | Review                                                          |                                         |
@@ -68,7 +68,7 @@ posttype: "teaching"
 |                | Apr 15    | Covariance (sec 7.4)                                            |                                         |
 | W14            | Apr 18    | Conditional expectation (sec 7.5)                               |                                         |
 |                | Apr 20    | Moment generating functions (sec 7.7)                           | Quiz6                                   |
-|                | Apr 22    | Markov's and chebyshev's inequalities (sec 8.2)                 | HW10                                    |
+|                | Apr 22    | Markov's and Chebyshev's inequalities (sec 8.2)                 | HW10                                    |
 | W15            | Apr 25    | Other inequalities (sec 8.5)                                    |                                         |
 |                | Apr 27    | The law of large numbers (sec 8.2, 4)                           |                                         |
 |                | Apr 29    | Central limit theorem (sec 8.3)                                 | HW11                                    |
