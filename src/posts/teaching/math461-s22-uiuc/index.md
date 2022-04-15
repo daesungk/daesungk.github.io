@@ -62,19 +62,20 @@ posttype: "teaching"
 |                | Apr 1     | Sums of independent random variables (sec 6.3)                        | [HW8](hw8.pdf), [Solution](hw8-sol.pdf) |
 | [W12](w12.pdf) | Apr 4     | Conditional distribution (sec 6.4-5)                                  |                                         |
 |                | Apr 6     | Joint distribution and expectation of functions of RVs (sec 6.7, 7.2) | Quiz5, [Solution](quiz5-sol.pdf)        |
-|                | Apr 8     | Expectation of functions of RVs (sec 7.2-3)                           | [HW9](hw9.pdf)                          |
-| [W13](w13.pdf) | Apr 11    | Review [Handout](e-2-prac.pdf)                                        |                                         |
+|                | Apr 8     | Expectation of functions of RVs (sec 7.2-3)                           | [HW9](hw9.pdf), [Solution](hw9-sol.pdf) |
+| [W13](w13.pdf) | Apr 11    | Review [Handout](e-2-prac.pdf), [Solution](e-2-prac-sol.pdf)          |                                         |
 |                | Apr 13    | **Midterm 2**                                                         |                                         |
 |                | Apr 15    | Covariance (sec 7.4)                                                  |                                         |
-| W14            | Apr 18    | Conditional expectation (sec 7.5)                                     |                                         |
-|                | Apr 20    | Moment generating functions (sec 7.7)                                 | Quiz6                                   |
-|                | Apr 22    | Markov's and Chebyshev's inequalities (sec 8.2)                       | HW10                                    |
-| W15            | Apr 25    | Other inequalities (sec 8.5)                                          |                                         |
-|                | Apr 27    | The law of large numbers (sec 8.2, 4)                                 |                                         |
+| [W14](w14.pdf) | Apr 18    | Conditional expectation (sec 7.5)                                     |                                         |
+|                | Apr 20    | Moment generating functions (sec 7.7)                                 |                                         |
+|                | Apr 22    | Markov's and Chebyshev's inequalities (sec 8.2)                       | [HW10](hw10.pdf)                        |
+| [W15](w15.pdf) | Apr 25    | Other inequalities (sec 8.5)                                          |                                         |
+|                | Apr 27    | The law of large numbers (sec 8.2, 4)                                 | Quiz6                                   |
 |                | Apr 29    | Central limit theorem (sec 8.3)                                       | HW11                                    |
 | W16            | May 2     | Review                                                                |                                         |
 |                | May 4     | Review                                                                |                                         |
-|                | TBA       | **Final Exam**                                                        |                                         |
+| Final Week     | May 6-12  | **Final Take-home Exam**                                              |                                         |
+|                | May 13    | **Final PrairieLearn Exam**                                           |                                         |
 
 
 <style>

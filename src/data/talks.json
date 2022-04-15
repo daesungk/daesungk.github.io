@@ -1,5 +1,25 @@
 [
     {
+        "seminar": "Probability Seminar",
+        "place" : "Seoul National University",
+        "date" : "May 2022", 
+        "type" : "talk",
+        "link1name": "",
+        "link1": "",
+        "link2name": "",
+        "link2": ""
+    },
+    {
+        "seminar": "Undergraduate Seminar",
+        "place" : "University of Illinois at Urbana-Champaign",
+        "date" : "April 2022", 
+        "type" : "talk",
+        "link1name": "",
+        "link1": "",
+        "link2name": "",
+        "link2": ""
+    },
+    {
         "seminar": "AMS Spring Central Virtual Sectional Meeting, Special session on the Interface Between Nonlinear PDEs, Harmonic Analysis, and Quantitative Geometric and Functional Inequalities",
         "place" : "",
         "date" : "Mar 2022", 
