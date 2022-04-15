@@ -65,7 +65,7 @@ posttype: "teaching"
 |                | Apr 8     | Expectation of functions of RVs (sec 7.2-3)                           | [HW9](hw9.pdf), [Solution](hw9-sol.pdf) |
 | [W13](w13.pdf) | Apr 11    | Review [Handout](e-2-prac.pdf), [Solution](e-2-prac-sol.pdf)          |                                         |
 |                | Apr 13    | **Midterm 2**                                                         |                                         |
-|                | Apr 15    | Covariance (sec 7.4)                                                  |                                         |
+|                | Apr 15    | Covariance (sec 7.4) [lecturenote](lec-041522.pdf)                    |                                         |
 | [W14](w14.pdf) | Apr 18    | Conditional expectation (sec 7.5)                                     |                                         |
 |                | Apr 20    | Moment generating functions (sec 7.7)                                 |                                         |
 |                | Apr 22    | Markov's and Chebyshev's inequalities (sec 8.2)                       | [HW10](hw10.pdf)                        |
