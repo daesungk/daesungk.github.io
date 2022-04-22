@@ -64,7 +64,7 @@ posttype: "teaching"
 |                | Apr 6     | Joint distribution and expectation of functions of RVs (sec 6.7, 7.2) | Quiz5, [Solution](quiz5-sol.pdf)        |
 |                | Apr 8     | Expectation of functions of RVs (sec 7.2-3)                           | [HW9](hw9.pdf), [Solution](hw9-sol.pdf) |
 | [W13](w13.pdf) | Apr 11    | Review [Handout](e-2-prac.pdf), [Solution](e-2-prac-sol.pdf)          |                                         |
-|                | Apr 13    | **Midterm 2**                                                         |                                         |
+|                | Apr 13    | **Midterm 2** [Solution](e-2-sol.pdf)                                 |                                         |
 |                | Apr 15    | Covariance (sec 7.4) [lecturenote](lec-041522.pdf)                    |                                         |
 | [W14](w14.pdf) | Apr 18    | Conditional expectation (sec 7.5)                                     |                                         |
 |                | Apr 20    | Moment generating functions (sec 7.7)                                 |                                         |
