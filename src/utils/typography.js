@@ -7,3 +7,4 @@ sternGroveTheme.baseLineHeight = '1.5'
 const typography = new Typography(sternGroveTheme)
 export const { scale, rhythm, options } = typography
 export default typography
+

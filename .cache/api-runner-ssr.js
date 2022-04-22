@@ -1,4 +1,10 @@
 var plugins = [{
+      plugin: require('/Users/daesungk/Documents/daesungk.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"UA-123277960-1","head":true,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0,"enableWebVitalsTracking":false},
+    },{
+      plugin: require('/Users/daesungk/Documents/daesungk.github.io/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
+      options: {"plugins":[],"fonts":["Roboto","limelight","source sans pro:300,400,400i,700"],"display":"swap"},
+    },{
       plugin: require('/Users/daesungk/Documents/daesungk.github.io/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
     }]
