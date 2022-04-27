@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         title: `Daesung Kim`, 
     },
-    plugins: [ 
+    plugins: [
         {   
             resolve: `gatsby-plugin-google-analytics`, 
             options: { 
@@ -10,8 +10,17 @@ module.exports = {
                 head: true, 
             }, 
         }, 
-    ],
-    plugins: [
+        {
+              resolve: `gatsby-plugin-google-fonts`,
+              options: {
+                fonts: [
+                  `Roboto`,
+                  `limelight`,
+                  `source sans pro\:300,400,400i,700` // you can also specify font weights and styles
+                ],
+                display: 'swap'
+              }
+        },
         `gatsby-transformer-remark`,
         `gatsby-transformer-json`,
         {

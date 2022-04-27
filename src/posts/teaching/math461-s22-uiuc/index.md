@@ -28,6 +28,7 @@ posttype: "teaching"
 - Final: 35%
 
 ## Tentative Schedule 
+<<<<<<< HEAD
 | Note           | Date      | Topic                                                                 | Assignments                               |
 | ---            | ---       | ---                                                                   | ---                                       |
 | [W1](w1.pdf)   | Jan 19    | Basic Combinatorics I (Sec 1.1-3) [slide](lec1.pdf)                   |                                           |
@@ -76,6 +77,56 @@ posttype: "teaching"
 |                | May 4     | Review                                                                | [HW11](hw11.pdf) - will not be graded     |
 | Final Week     | May 6-12  | **Final Take-home Exam**                                              |                                           |
 |                | May 13    | **Final PrairieLearn Exam**                                           |                                           |
+=======
+| Note           | Date      | Topic                                                                                | Assignments                             |
+| ---            | ---       | ---                                                                                  | ---                                     |
+| [W1](w1.pdf)   | Jan 19    | Basic Combinatorics I (Sec 1.1-3) [slide](lec1.pdf)                                  |                                         |
+|                | Jan 21    | Basic Combinatorics II (Sec 1.4-6) [slide](lec2.pdf)                                 |                                         |
+| [W2](w2.pdf)   | Jan 24    | Basic Combinatorics III (Sec 1.4-6)                                                  |                                         |
+|                | Jan 26    | Axioms of Probability I (Sec 2.2-3)                                                  |                                         |
+|                | Jan 28    | Axioms of Probability II (Sec 2.4)                                                   | [HW1](hw1.pdf), [Solution](hw1-sol.pdf) |
+| [W3](w3.pdf)   | Jan 31    | Axioms of Probability III (Sec 2.4)                                                  |                                         |
+|                | Feb 2     | Sample spaces having equally likely (Sec 2.5) [slide](lec5.pdf)                      | Quiz1, [Solution](quiz1-sol.pdf)        |
+|                | Feb 4     | Conditional Probabilities (Sec 3.2)                                                  | [HW2](hw2.pdf), [Solution](hw2-sol.pdf) |
+| [W4](w4.pdf)   | Feb 7     | Conditional Probabilities (Sec 3.2)                                                  |                                         |
+|                | Feb 9     | Bayes's Formula (Sec 3.3), Independent Events (Sec 3.4)                              |                                         |
+|                | Feb 11    | Random Variables (Sec 4.1-2, 10)                                                     | [HW3](hw3.pdf), [Solution](hw3-sol.pdf) |
+| [W5](w5.pdf)   | Feb 14    | Expectation (Sec 4.3, 4, 6)                                                          |                                         |
+|                | Feb 16    | Variance (Sec 4.5)                                                                   | Quiz2, [Solution](quiz2-sol.pdf)        |
+|                | Feb 18    | Bernoulli RVs and Binomial RVs (Sec 4.6)                                             | [HW4](hw4.pdf), [Solution](hw4-sol.pdf) |
+| [W6](w6.pdf)   | Feb 21    | Poisson RVs (Sec 4.7)                                                                |                                         |
+|                | Feb 23    | Other discrete RVs (sec 4.8)                                                         |                                         |
+|                | Feb 25    | Intro to continuous random variables (sec 5.1)                                       | [HW5](hw5.pdf), [Solution](hw5-sol.pdf) |
+| [W7](w7.pdf)   | Feb 28    | Review [Handout](e-1-prac.pdf), [Solution](e-1-prac-sol.pdf)                         |                                         |
+|                | Mar 2     | **Midterm 1** [Solution](e-1-sol.pdf)                                                |                                         |
+|                | Mar 4     | Intro to continuous random variables (sec 5.1)                                       |                                         |
+| [W8](w8.pdf)   | Mar 7     | Expectation and variance of continuous RVs (sec 5.2)                                 |                                         |
+|                | Mar 9     | The uniform random variable (sec 5.3)                                                | Quiz3, [Solution](quiz3-sol.pdf)        |
+|                | Mar 11    | Normal random variables (sec 5.4-7)                                                  | [HW6](hw6.pdf), [Solution](hw6-sol.pdf) |
+| W9             | Mar 12-20 | **Spring Break**                                                                     |                                         |
+| [W10](w10.pdf) | Mar 21    | Exponential random variables (sec 5.4-7) [slide](lec22.pdf)                          |                                         |
+|                | Mar 23    | Gamma random variables (sec 5.4-7)                                                   |                                         |
+|                | Mar 25    | Joint distribution functions (sec 6.1)                                               | [HW7](hw7.pdf), [Solution](hw7-sol.pdf) |
+| [W11](w11.pdf) | Mar 28    | Independent random variables I (sec 6.2)                                             |                                         |
+|                | Mar 30    | Independent random variables II (sec 6.2)                                            | Quiz4, [Solution](quiz4-sol.pdf)        |
+|                | Apr 1     | Sums of independent random variables (sec 6.3)                                       | [HW8](hw8.pdf), [Solution](hw8-sol.pdf) |
+| [W12](w12.pdf) | Apr 4     | Conditional distribution (sec 6.4-5)                                                 |                                         |
+|                | Apr 6     | Joint distribution and expectation of functions of RVs (sec 6.7, 7.2)                | Quiz5, [Solution](quiz5-sol.pdf)        |
+|                | Apr 8     | Expectation of functions of RVs (sec 7.2-3)                                          | [HW9](hw9.pdf), [Solution](hw9-sol.pdf) |
+| [W13](w13.pdf) | Apr 11    | Review [Handout](e-2-prac.pdf), [Solution](e-2-prac-sol.pdf)                         |                                         |
+|                | Apr 13    | **Midterm 2** [Solution](e-2-sol.pdf)                                                |                                         |
+|                | Apr 15    | Covariance (sec 7.4) [lecturenote](lec-041522.pdf)                                   |                                         |
+| [W14](w14.pdf) | Apr 18    | Conditional expectation (sec 7.5)                                                    |                                         |
+|                | Apr 20    | Conditional expectation (sec 7.5)                                                    |                                         |
+|                | Apr 22    | Moment generating functions, Markov's inequalities (sec 7.7, 8.2)                    | [HW10](hw10.pdf)                        |
+| [W15](w15.pdf) | Apr 25    | Markov's and Chebyshev's inequalities (sec 8.2,5)                                    |                                         |
+|                | Apr 27    | The law of large numbers (sec 8.2, 4)                                                | Quiz6                                   |
+|                | Apr 29    | Central limit theorem (sec 8.3)                                                      | [HW11](hw11.pdf)                        |
+| W16            | May 2     | Review                                                                               |                                         |
+|                | May 4     | Review                                                                               |                                         |
+| Final Week     | May 6-12  | **Final Take-home Exam**                                                             |                                         |
+|                | May 13    | **Final PrairieLearn Exam**                                                          |                                         |
+>>>>>>> c63a7b7f84ccb34f2d1da2f12c055f0af3e8aa3c
 
 
 <style>
