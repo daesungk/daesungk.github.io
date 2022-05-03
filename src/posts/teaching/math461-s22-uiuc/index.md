@@ -71,9 +71,9 @@ posttype: "teaching"
 |                | Apr 22    | Moment generating functions                                           | [HW10](hw10.pdf), [Solution](hw10-sol.pdf) |
 | [W15](w15.pdf) | Apr 25    | Markov's and Chebyshev's inequalities (sec 8.2,5)                     |                                            |
 |                | Apr 27    | Other inequalities (sec 8.5)                                          | Quiz6, [Solution](quiz6-sol.pdf)           |
-|                | Apr 29    | The law of large numbers (sec 8.2, 4)                                 | [HW11](hw11.pdf) - will not be graded      |
-| W16            | May 2     | Central limit theorem (sec 8.3)                                       |                                            |
-|                | May 4     | Review                                                                |                                            |
+|                | Apr 29    | Weak law of large numbers (sec 8.2, 4)                                | [HW11](hw11.pdf), [Solution](hw11-sol.pdf) |
+| W16            | May 2     | Strong law of large numbers (sec 8.2, 4)                              |                                            |
+|                | May 4     | Central limit theorem (sec 8.3)                                       |                                            |
 | Final Week     | May 6-12  | **Final Take-home Exam**                                              |                                            |
 |                | May 13    | **Final PrairieLearn Exam**                                           |                                            |
 
