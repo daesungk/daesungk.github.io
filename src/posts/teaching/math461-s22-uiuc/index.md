@@ -74,8 +74,8 @@ posttype: "teaching"
 |                | Apr 29    | Weak law of large numbers (sec 8.2, 4)                                | [HW11](hw11.pdf), [Solution](hw11-sol.pdf) |
 | W16            | May 2     | Strong law of large numbers (sec 8.2, 4)                              |                                            |
 |                | May 4     | Central limit theorem (sec 8.3)                                       |                                            |
-| Final Week     | May 6-12  | **Final Take-home Exam**                                              |                                            |
-|                | May 13    | **Final PrairieLearn Exam**                                           |                                            |
+| Final Week     | May 6-12  | **Final Take-home Exam** [Info](e-3-ann.pdf)                          |                                            |
+|                | May 13    | **Final PrairieLearn Exam** [Practice](e-3-th-prac.pdf)               |                                            |
 
 
 <style>
