@@ -1,5 +1,15 @@
 [
     {
+        "seminar": "Analysis, PDE and Probability Seminar",
+        "place" : "KIAS, South Korea",
+        "date" : "June 2022", 
+        "type" : "talk",
+        "link1name": "",
+        "link1": "",
+        "link2name": "",
+        "link2": ""
+    },
+    {
         "seminar": "Probability Seminar",
         "place" : "Seoul National University",
         "date" : "May 2022", 
