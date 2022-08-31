@@ -6,7 +6,7 @@ import { Link, graphql } from "gatsby"
 export default function Teaching({ data }) {
     return (
         <Layout>
-        <Section title="Teaching">
+        <Section title="Teaching at UIUC">
         <table>
             <tbody>
                 {data.allMarkdownRemark.edges.map(({ node }) => (

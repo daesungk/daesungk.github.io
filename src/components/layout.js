@@ -45,7 +45,6 @@ export default function Layout({ children }) {
                     <ListLink to="/">Home</ListLink>
                     <ListLink to="/research/">Research</ListLink>
                     <ListLink to="/teaching/">Teaching</ListLink> 
-                    <ListLink to="/seminar/">Seminar</ListLink> 
                 </ul>
             {children} 
         <span
