@@ -3,15 +3,29 @@ import Layout from "../components/layout"
 import Section from "../components/section"
 import {TalksList} from "../utils/talkslist.js"
 import {PubList} from "../utils/publist.js"
+import { Link, graphql } from "gatsby"
 
 
-export default function Research() {
+export default function Research({ data }) {
     return (
         <Layout>
         <Section title="Research Interest">
             <p>
-                My research interests lie at the interface of probability and analysis. I am particularly interested in the study of functional and geometric inequalities, singular integrals, fourier multipliers, nonlocal operators from stochastic analysis, and probability theory.
+                My research interest lies at the interface between probability and analysis.
+            <br/>
+                The goal is to understand and answer several quantitative questions from probability theory, harmonic analysis, and the study of functional and geometric inequalities. 
+            <br/>
+                In particular, I am interested in the following topics:
             </p>
+            <ul>
+                {data.allMarkdownRemark.edges.map(({ node }) => (
+                <li>
+                    <Link to={node.fields.slug} >
+                        {node.frontmatter.title}                
+                    </Link>
+                </li>
+                ))}
+            </ul>
         </Section>
         <Section title="Publications and Preprints">
             <PubList/>
@@ -30,3 +44,21 @@ export default function Research() {
 };
 
 
+export const query = graphql`
+    query {
+allMarkdownRemark(sort: {fields: frontmatter___date, order: ASC}, filter: {frontmatter: {posttype: {eq: "research"}}}) {
+    edges {
+      node {
+        frontmatter {
+          date
+          title
+          posttype
+        }
+        fields {
+          slug
+        }
+      }
+    }
+  }
+    }
+`

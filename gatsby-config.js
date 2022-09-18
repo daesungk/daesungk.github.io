@@ -33,6 +33,13 @@ module.exports = {
         {
             resolve: `gatsby-source-filesystem`,
             options: {
+                name: `research`,
+                path: `${__dirname}/src/posts/research`,
+            }, 
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
                 name: `teaching`,
                 path: `${__dirname}/src/posts/teaching`,
             }, 
@@ -45,12 +52,6 @@ module.exports = {
             }, 
         },
         `gatsby-plugin-emotion`,
-        { 
-            resolve: `gatsby-plugin-typography`, 
-            options: { 
-                pathToConfigModule: `src/utils/typography`, 
-            }, 
-        }, 
         {
             resolve: `gatsby-transformer-remark`,
             options: {

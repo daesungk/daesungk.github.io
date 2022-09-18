@@ -1,13 +1,13 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/forEach.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isArray.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isFunction.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isNumber.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isObject.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isString.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/reduce.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/set.js"), (function webpackLoadOptionalExternalModule() { try { return require("path"); } catch(e) {} }()), require("react"), require("react-dom/server"));
+		module.exports = factory(require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js"), (function webpackLoadOptionalExternalModule() { try { return require("path"); } catch(e) {} }()), require("react"), require("react-dom/server"));
 	else if(typeof define === 'function' && define.amd)
-		define("lib", ["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/forEach.js", "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isArray.js", "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isFunction.js", "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isNumber.js", "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isObject.js", "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isString.js", "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js", "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/reduce.js", "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/set.js", "path", "react", "react-dom/server"], factory);
+		define("lib", ["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js", "path", "react", "react-dom/server"], factory);
 	else if(typeof exports === 'object')
-		exports["lib"] = factory(require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/forEach.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isArray.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isFunction.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isNumber.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isObject.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isString.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/reduce.js"), require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/set.js"), (function webpackLoadOptionalExternalModule() { try { return require("path"); } catch(e) {} }()), require("react"), require("react-dom/server"));
+		exports["lib"] = factory(require("/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js"), (function webpackLoadOptionalExternalModule() { try { return require("path"); } catch(e) {} }()), require("react"), require("react-dom/server"));
 	else
-		root["lib"] = factory(root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/forEach.js"], root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isArray.js"], root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isFunction.js"], root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isNumber.js"], root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isObject.js"], root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isString.js"], root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js"], root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/reduce.js"], root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/set.js"], root["path"], root["react"], root["react-dom/server"]);
-})(this, function(__WEBPACK_EXTERNAL_MODULE_lodash_forEach__, __WEBPACK_EXTERNAL_MODULE_lodash_isArray__, __WEBPACK_EXTERNAL_MODULE_lodash_isFunction__, __WEBPACK_EXTERNAL_MODULE_lodash_isNumber__, __WEBPACK_EXTERNAL_MODULE_lodash_isObject__, __WEBPACK_EXTERNAL_MODULE_lodash_isString__, __WEBPACK_EXTERNAL_MODULE_lodash_merge__, __WEBPACK_EXTERNAL_MODULE_lodash_reduce__, __WEBPACK_EXTERNAL_MODULE_lodash_set__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__) {
+		root["lib"] = factory(root["/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js"], root["path"], root["react"], root["react-dom/server"]);
+})(this, function(__WEBPACK_EXTERNAL_MODULE_lodash_merge__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -121,12 +121,6 @@ var plugins = [{
     "plugins": [],
     "fonts": ["Roboto", "limelight", "source sans pro:300,400,400i,700"],
     "display": "swap"
-  }
-}, {
-  plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-typography/gatsby-ssr */ "./node_modules/gatsby-plugin-typography/gatsby-ssr.js"),
-  options: {
-    "plugins": [],
-    "pathToConfigModule": "src/utils/typography"
   }
 }]; // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
@@ -390,17 +384,6 @@ exports.wrapPageElement = true;
  */
 
 exports.wrapRootElement = true;
-
-/***/ }),
-
-/***/ "./.cache/caches/gatsby-plugin-typography/typography.js":
-/*!**************************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-typography/typography.js ***!
-  \**************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! ./src/utils/typography */ "./src/utils/typography.js");
 
 /***/ }),
 
@@ -2768,19 +2751,6 @@ function expand(str, isTop) {
 
 /***/ }),
 
-/***/ "./node_modules/compass-vertical-rhythm/dist/index.js":
-/*!************************************************************!*\
-  !*** ./node_modules/compass-vertical-rhythm/dist/index.js ***!
-  \************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-var e=__webpack_require__(/*! convert-css-length */ "./node_modules/convert-css-length/dist/index.js"),n=__webpack_require__(/*! parse-unit */ "./node_modules/parse-unit/index.js"),t=function(e){return n(e)[1]},i=function(e){return n(e)[0]},r={baseFontSize:"16px",baseLineHeight:1.5,rhythmUnit:"rem",defaultRhythmBorderWidth:"1px",defaultRhythmBorderStyle:"solid",roundToNearestHalfLine:!0,minLinePadding:"2px"},a=function(n,t){var r,a=e(t.baseFontSize),o=i(a(n,"px")),s=i(t.baseLineHeightInPx),u=i(a(t.minLinePadding,"px"));return(r=t.roundToNearestHalfLine?Math.ceil(2*o/s)/2:Math.ceil(o/s))*s-o<2*u&&(r+=t.roundToNearestHalfLine?.5:1),r},o=function(n){var r=e(n.baseFontSize);return function(e,a,o){null==e&&(e=1),null==a&&(a=n.baseFontSize),null==o&&(o=0);var s=e*i(n.baseLineHeightInPx)-o+"px",u=r(s,n.rhythmUnit,a);return"px"===t(u)&&(u=Math.floor(i(u))+t(u)),parseFloat(i(u).toFixed(5))+t(u)}};module.exports=function(n){var s=JSON.parse(JSON.stringify(r)),u=Object.assign({},s,n),h=e(u.baseFontSize);if(t(u.baseLineHeight)){i(h(u.baseFontSize,"px"));u.baseLineHeightInPx=h(u.baseLineHeight,"px")}else u.baseLineHeightInPx=i(u.baseFontSize)*u.baseLineHeight+"px";return{rhythm:o(u),establishBaseline:function(){return function(n){e(n.baseFontSize);return{fontSize:i(n.baseFontSize)/16*100+"%",lineHeight:n.baseLineHeight.toString()}}(u)},linesForFontSize:function(e){return a(e,u)},adjustFontSizeTo:function(n,r,s){return null==r&&(r="auto"),function(n,r,s,u){null==s&&(s=u.baseFontSize),"%"===t(n)&&(n=i(u.baseFontSize)*(i(n)/100)+"px");var h=e(u.baseFontSize);n=h(n,"px",s=h(s,"px"));var l=o(u);return"auto"===r&&(r=a(n,u)),{fontSize:h(n,u.rhythmUnit,s),lineHeight:l(r,s)}}(n,r,s,u)}}};
-//# sourceMappingURL=index.js.map
-
-
-/***/ }),
-
 /***/ "./node_modules/concat-map/index.js":
 /*!******************************************!*\
   !*** ./node_modules/concat-map/index.js ***!
@@ -2800,44 +2770,6 @@ module.exports = function (xs, fn) {
 
 var isArray = Array.isArray || function (xs) {
     return Object.prototype.toString.call(xs) === '[object Array]';
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/convert-css-length/dist/index.js":
-/*!*******************************************************!*\
-  !*** ./node_modules/convert-css-length/dist/index.js ***!
-  \*******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-var e=__webpack_require__(/*! parse-unit */ "./node_modules/parse-unit/index.js"),r=function(r){return e(r)[0]};module.exports=function(n){return null==n&&(n=n),function(u,i,t,f){null==t&&(t=n),null==f&&(f=t);var l=function(r){return e(r)[1]}(u);if(l===i)return u;var o=r(u);if("px"!==l)if("em"===l)o=r(u)*r(t);else if("rem"===l)o=r(u)*r(n);else{if("ex"!==l)return u;o=r(u)*r(t)*2}var a=o;if("px"!==i)if("em"===i)a=o/r(f);else if("rem"===i)a=o/r(n);else{if("ex"!==i)return u;a=o/r(f)/2}return parseFloat(a.toFixed(5))+i}};
-//# sourceMappingURL=index.js.map
-
-
-/***/ }),
-
-/***/ "./node_modules/decamelize/index.js":
-/*!******************************************!*\
-  !*** ./node_modules/decamelize/index.js ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-module.exports = function (str, sep) {
-	if (typeof str !== 'string') {
-		throw new TypeError('Expected a string');
-	}
-
-	sep = typeof sep === 'undefined' ? '_' : sep;
-
-	return str
-		.replace(/([a-z\d])([A-Z])/g, '$1' + sep + '$2')
-		.replace(/([A-Z]+)([A-Z][a-z\d]+)/g, '$1' + sep + '$2')
-		.toLowerCase();
 };
 
 
@@ -3022,126 +2954,6 @@ exports.onRenderBody = function (_ref, options) {
 
 /***/ }),
 
-/***/ "./node_modules/gatsby-plugin-typography/gatsby-ssr.js":
-/*!*************************************************************!*\
-  !*** ./node_modules/gatsby-plugin-typography/gatsby-ssr.js ***!
-  \*************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js");
-
-var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-
-var _reactTypography = __webpack_require__(/*! react-typography */ "./node_modules/react-typography/dist/index.js");
-
-var _typographyPluginCacheEndpoint = _interopRequireDefault(__webpack_require__(/*! typography-plugin-cache-endpoint */ "./.cache/caches/gatsby-plugin-typography/typography.js"));
-
-exports.onRenderBody = function (_ref, pluginOptions) {
-  var setHeadComponents = _ref.setHeadComponents;
-  var googleFont = [].concat(pluginOptions.omitGoogleFont ? [] : /*#__PURE__*/_react.default.createElement(_reactTypography.GoogleFont, {
-    key: "GoogleFont",
-    typography: _typographyPluginCacheEndpoint.default
-  }));
-  setHeadComponents([/*#__PURE__*/_react.default.createElement(_reactTypography.TypographyStyle, {
-    key: "TypographyStyle",
-    typography: _typographyPluginCacheEndpoint.default
-  })].concat(googleFont));
-}; // Move Typography.js styles to the top of the head section so they're loaded first
-// and don't accidentally overwrite other styles. Typography.js is meant to
-// be a configurable CSS reset so should always load first.
-
-
-exports.onPreRenderHTML = function (_ref2) {
-  var getHeadComponents = _ref2.getHeadComponents,
-      replaceHeadComponents = _ref2.replaceHeadComponents;
-  var headComponents = getHeadComponents();
-  headComponents.sort(function (x, y) {
-    if (x && x.key === "TypographyStyle") {
-      return -1;
-    } else if (y && y.key === "TypographyStyle") {
-      return 1;
-    }
-
-    return 0;
-  });
-  replaceHeadComponents(headComponents);
-};
-
-/***/ }),
-
-/***/ "./node_modules/gray-percentage/index.js":
-/*!***********************************************!*\
-  !*** ./node_modules/gray-percentage/index.js ***!
-  \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-function isNumeric(n) {
-  return !isNaN(parseFloat(n)) && isFinite(n);
-}
-
-
-module.exports = function(lightness, hue, darkBackground) {
-  if (typeof hue === "undefined") {
-    hue = 0;
-  }
-  if (typeof darkBackground === "undefined") {
-    darkBackground = false;
-  }
-
-  // Convert named hues into numeric lightness value.
-  if (hue === "cool") {
-    hue = 237;
-  }
-  else if (hue === "slate") {
-    hue = 122;
-  }
-  else if (hue === "warm") {
-    hue = 69;
-  }
-
-  if (!isNumeric(hue)) {
-    throw new Error("Hue is not a number");
-  }
-
-  if (!isNumeric(lightness)) {
-    throw new Error("Lightness is not a number");
-  }
-
-  if (lightness > 100) {
-    lightness = 100;
-  }
-  if (lightness < 0) {
-    lightness = 0;
-  }
-
-  var saturation = 0;
-  if (hue !== 0) {
-    var a = 19.92978;
-    var b = -0.3651759;
-    var c = 0.001737214;
-    saturation = a + b * lightness + c * Math.pow(lightness, 2);
-  }
-
-  var opacity = 0
-  if (darkBackground) {
-    opacity = lightness / 100
-    lightness = '100%,'
-  } else {
-    opacity = (100 - lightness) / 100
-    lightness = '0%,'
-  }
-
-  return "hsla(" + hue + "," + saturation + "%," + lightness + opacity + ")";
-};
-
-
-/***/ }),
-
 /***/ "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js":
 /*!**********************************************************************************!*\
   !*** ./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
@@ -3253,96 +3065,6 @@ function hoistNonReactStatics(targetComponent, sourceComponent, blacklist) {
 }
 
 module.exports = hoistNonReactStatics;
-
-
-/***/ }),
-
-/***/ "./node_modules/lodash.isnumber/index.js":
-/*!***********************************************!*\
-  !*** ./node_modules/lodash.isnumber/index.js ***!
-  \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-/**
- * lodash 3.0.3 (Custom Build) <https://lodash.com/>
- * Build: `lodash modularize exports="npm" -o ./`
- * Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>
- * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
- * Copyright 2009-2016 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
- * Available under MIT license <https://lodash.com/license>
- */
-
-/** `Object#toString` result references. */
-var numberTag = '[object Number]';
-
-/** Used for built-in method references. */
-var objectProto = Object.prototype;
-
-/**
- * Used to resolve the [`toStringTag`](http://ecma-international.org/ecma-262/6.0/#sec-object.prototype.tostring)
- * of values.
- */
-var objectToString = objectProto.toString;
-
-/**
- * Checks if `value` is object-like. A value is object-like if it's not `null`
- * and has a `typeof` result of "object".
- *
- * @static
- * @memberOf _
- * @category Lang
- * @param {*} value The value to check.
- * @returns {boolean} Returns `true` if `value` is object-like, else `false`.
- * @example
- *
- * _.isObjectLike({});
- * // => true
- *
- * _.isObjectLike([1, 2, 3]);
- * // => true
- *
- * _.isObjectLike(_.noop);
- * // => false
- *
- * _.isObjectLike(null);
- * // => false
- */
-function isObjectLike(value) {
-  return !!value && typeof value == 'object';
-}
-
-/**
- * Checks if `value` is classified as a `Number` primitive or object.
- *
- * **Note:** To exclude `Infinity`, `-Infinity`, and `NaN`, which are classified
- * as numbers, use the `_.isFinite` method.
- *
- * @static
- * @memberOf _
- * @category Lang
- * @param {*} value The value to check.
- * @returns {boolean} Returns `true` if `value` is correctly classified, else `false`.
- * @example
- *
- * _.isNumber(3);
- * // => true
- *
- * _.isNumber(Number.MIN_VALUE);
- * // => true
- *
- * _.isNumber(Infinity);
- * // => true
- *
- * _.isNumber('3');
- * // => false
- */
-function isNumber(value) {
-  return typeof value == 'number' ||
-    (isObjectLike(value) && objectToString.call(value) == numberTag);
-}
-
-module.exports = isNumber;
 
 
 /***/ }),
@@ -4281,59 +4003,6 @@ function regExpEscape (s) {
 
 /***/ }),
 
-/***/ "./node_modules/modularscale/dist/index.js":
-/*!*************************************************!*\
-  !*** ./node_modules/modularscale/dist/index.js ***!
-  \*************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// Generated by CoffeeScript 1.9.1
-var isNumber, ratios;
-
-isNumber = __webpack_require__(/*! lodash.isnumber */ "./node_modules/lodash.isnumber/index.js");
-
-ratios = {
-  "minor second": 16 / 15,
-  "major second": 9 / 8,
-  "minor third": 6 / 5,
-  "major third": 4 / 3,
-  "diminished fourth": Math.sqrt(2),
-  "perfect fifth": 3 / 2,
-  "minor sixth": 8 / 5,
-  "golden": 1.61803398875,
-  "phi": 1.61803398875,
-  "major sixth": 5 / 3,
-  "minor seventh": 16 / 9,
-  "major seventh": 15 / 8,
-  "octave": 2,
-  "major tenth": 5 / 2,
-  "major eleventh": 8 / 3,
-  "major twelfth": 3,
-  "double octave": 4
-};
-
-module.exports = function(value, ratio) {
-  var r;
-  if (value == null) {
-    value = 0;
-  }
-  if (ratio == null) {
-    ratio = "golden";
-  }
-  if (isNumber(ratio)) {
-    r = ratio;
-  } else if (ratios[ratio] != null) {
-    r = ratios[ratio];
-  } else {
-    r = ratios['golden'];
-  }
-  return Math.pow(r, value);
-};
-
-
-/***/ }),
-
 /***/ "./node_modules/object-assign/index.js":
 /*!*********************************************!*\
   !*** ./node_modules/object-assign/index.js ***!
@@ -4433,26 +4102,6 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 	return to;
 };
 
-
-/***/ }),
-
-/***/ "./node_modules/parse-unit/index.js":
-/*!******************************************!*\
-  !*** ./node_modules/parse-unit/index.js ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = function parseUnit(str, out) {
-    if (!out)
-        out = [ 0, '' ]
-
-    str = String(str)
-    var num = parseFloat(str, 10)
-    out[0] = num
-    out[1] = str.match(/[\d.\-\+]*\s*(.*)/)[1] || ''
-    return out
-}
 
 /***/ }),
 
@@ -5433,128 +5082,6 @@ if (false) {} else {
 
 /***/ }),
 
-/***/ "./node_modules/react-typography/dist/GoogleFont.js":
-/*!**********************************************************!*\
-  !*** ./node_modules/react-typography/dist/GoogleFont.js ***!
-  \**********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _react = __webpack_require__(/*! react */ "react");
-
-var _react2 = _interopRequireDefault(_react);
-
-var _propTypes = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
-
-var _propTypes2 = _interopRequireDefault(_propTypes);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-var GoogleFont = function GoogleFont(props) {
-  // Create family + styles string
-  var fontsStr = "";
-  if (props.typography.options.googleFonts) {
-    var fonts = props.typography.options.googleFonts.map(function (font) {
-      var str = "";
-      str += font.name.split(" ").join("+");
-      str += ":";
-      str += font.styles.join(",");
-
-      return str;
-    });
-
-    fontsStr = fonts.join("|");
-
-    if (fontsStr) {
-      return _react2.default.createElement("link", {
-        href: "//fonts.googleapis.com/css?family=" + fontsStr,
-        rel: "stylesheet",
-        type: "text/css"
-      });
-    }
-    return null;
-  }
-};
-
-GoogleFont.propTypes = {
-  typography: _propTypes2.default.object.isRequired
-};
-
-GoogleFont.displayName = "GoogleFont";
-
-module.exports = GoogleFont;
-
-/***/ }),
-
-/***/ "./node_modules/react-typography/dist/TypographyStyle.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/react-typography/dist/TypographyStyle.js ***!
-  \***************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _react = __webpack_require__(/*! react */ "react");
-
-var _react2 = _interopRequireDefault(_react);
-
-var _propTypes = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
-
-var _propTypes2 = _interopRequireDefault(_propTypes);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-var TypographyStyle = function TypographyStyle(props) {
-  return _react2.default.createElement("style", {
-    id: "typography.js",
-    dangerouslySetInnerHTML: {
-      __html: props.typography.toString()
-    }
-  });
-};
-
-TypographyStyle.propTypes = {
-  typography: _propTypes2.default.object.isRequired
-};
-
-TypographyStyle.displayName = "TypographyStyle";
-
-module.exports = TypographyStyle;
-
-/***/ }),
-
-/***/ "./node_modules/react-typography/dist/index.js":
-/*!*****************************************************!*\
-  !*** ./node_modules/react-typography/dist/index.js ***!
-  \*****************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _GoogleFont = __webpack_require__(/*! ./GoogleFont */ "./node_modules/react-typography/dist/GoogleFont.js");
-
-var _GoogleFont2 = _interopRequireDefault(_GoogleFont);
-
-var _TypographyStyle = __webpack_require__(/*! ./TypographyStyle */ "./node_modules/react-typography/dist/TypographyStyle.js");
-
-var _TypographyStyle2 = _interopRequireDefault(_TypographyStyle);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-module.exports = {
-  GoogleFont: _GoogleFont2.default,
-  TypographyStyle: _TypographyStyle2.default
-};
-
-/***/ }),
-
 /***/ "./node_modules/stylis/dist/stylis.mjs":
 /*!*********************************************!*\
   !*** ./node_modules/stylis/dist/stylis.mjs ***!
@@ -5636,268 +5163,6 @@ var e="-ms-";var r="-moz-";var a="-webkit-";var c="comm";var n="rule";var t="dec
 
 /***/ }),
 
-/***/ "./node_modules/typography-breakpoint-constants/dist/index.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/typography-breakpoint-constants/dist/index.js ***!
-  \********************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-var LARGER_DISPLAY_WIDTH = exports.LARGER_DISPLAY_WIDTH = "1600px";
-var LARGE_DISPLAY_WIDTH = exports.LARGE_DISPLAY_WIDTH = "1280px";
-var DEFAULT_WIDTH = exports.DEFAULT_WIDTH = "980px";
-var TABLET_WIDTH = exports.TABLET_WIDTH = "768px";
-var MOBILE_WIDTH = exports.MOBILE_WIDTH = "480px";
-
-var LARGER_DISPLAY_MEDIA_QUERY = exports.LARGER_DISPLAY_MEDIA_QUERY = "@media only screen and (max-width:1600px)";
-var LARGE_DISPLAY_MEDIA_QUERY = exports.LARGE_DISPLAY_MEDIA_QUERY = "@media only screen and (max-width:1280px)";
-var DEFAULT_MEDIA_QUERY = exports.DEFAULT_MEDIA_QUERY = "@media only screen and (max-width:980px)";
-var TABLET_MEDIA_QUERY = exports.TABLET_MEDIA_QUERY = "@media only screen and (max-width:768px)";
-var MOBILE_MEDIA_QUERY = exports.MOBILE_MEDIA_QUERY = "@media only screen and (max-width:480px)";
-
-var MIN_LARGER_DISPLAY_MEDIA_QUERY = exports.MIN_LARGER_DISPLAY_MEDIA_QUERY = "@media (min-width:1600px)";
-var MIN_LARGE_DISPLAY_MEDIA_QUERY = exports.MIN_LARGE_DISPLAY_MEDIA_QUERY = "@media (min-width:1280px)";
-var MIN_DEFAULT_MEDIA_QUERY = exports.MIN_DEFAULT_MEDIA_QUERY = "@media (min-width:980px)";
-var MIN_TABLET_MEDIA_QUERY = exports.MIN_TABLET_MEDIA_QUERY = "@media (min-width:768px)";
-var MIN_MOBILE_MEDIA_QUERY = exports.MIN_MOBILE_MEDIA_QUERY = "@media (min-width:480px)";
-
-/***/ }),
-
-/***/ "./node_modules/typography-normalize/dist/index.js":
-/*!*********************************************************!*\
-  !*** ./node_modules/typography-normalize/dist/index.js ***!
-  \*********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-/* eslint-disable */
-/*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
-exports.default = "html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}[hidden],template{display:none}a{background-color:transparent;}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit;font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,optgroup,select,textarea{font:inherit;margin:0}optgroup{font-weight:700}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-input-placeholder{color:inherit;opacity:.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}";
-
-/***/ }),
-
-/***/ "./node_modules/typography-theme-stern-grove/dist/index.js":
-/*!*****************************************************************!*\
-  !*** ./node_modules/typography-theme-stern-grove/dist/index.js ***!
-  \*****************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-
-var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
-
-var _grayPercentage = __webpack_require__(/*! gray-percentage */ "./node_modules/gray-percentage/index.js");
-
-var _grayPercentage2 = _interopRequireDefault(_grayPercentage);
-
-var _typographyBreakpointConstants = __webpack_require__(/*! typography-breakpoint-constants */ "./node_modules/typography-breakpoint-constants/dist/index.js");
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
-
-var theme = {
-  title: "Stern Grove",
-  baseFontSize: "18px",
-  baseLineHeight: 5 / 3,
-  googleFonts: [{
-    name: "Montserrat",
-    styles: ["400"]
-  }],
-  headerFontFamily: ["Montserrat", "sans-serif"],
-  bodyFontFamily: ["Georgia", "Cambria", "serif"],
-  headerColor: "hsla(0,0%,0%,0.5)",
-  bodyColor: "hsla(0,0%,0%,0.87)",
-  headerWeight: 400,
-  bodyWeight: 400,
-  boldWeight: 700,
-  overrideStyles: function overrideStyles(_ref, options) {
-    var _ref2;
-
-    var adjustFontSizeTo = _ref.adjustFontSizeTo,
-        scale = _ref.scale,
-        rhythm = _ref.rhythm;
-    return _ref2 = {
-      a: {
-        color: "#07e",
-        textDecoration: "none"
-      },
-      "a:hover,a:active": {
-        color: "#e32"
-      },
-      blockquote: _extends({}, scale(1 / 5), {
-        background: (0, _grayPercentage2.default)(97),
-        color: (0, _grayPercentage2.default)(31),
-        paddingLeft: rhythm(14 / 16),
-        paddingRight: rhythm(1 / 2),
-        paddingTop: rhythm(1 / 2),
-        paddingBottom: rhythm(1 / 2),
-        marginLeft: 0,
-        marginRight: 0,
-        borderLeft: rhythm(2 / 16) + " solid " + (0, _grayPercentage2.default)(80)
-      }),
-      "blockquote > :last-child": {
-        marginBottom: 0
-      },
-      "blockquote cite": _extends({}, adjustFontSizeTo(options.baseFontSize), {
-        color: options.bodyColor,
-        fontWeight: options.bodyWeight
-      }),
-      "blockquote cite:before": {
-        content: '"— "'
-      },
-      ul: {
-        listStyle: "disc"
-      }
-    }, _defineProperty(_ref2, _typographyBreakpointConstants.MOBILE_MEDIA_QUERY, {
-      "ul,ol": {
-        marginLeft: rhythm(1)
-      },
-      blockquote: {
-        marginLeft: rhythm(-3 / 4),
-        marginRight: rhythm(-3 / 4),
-        paddingLeft: rhythm(11 / 16),
-        paddingRight: rhythm(3 / 4)
-      }
-    }), _defineProperty(_ref2, "h1,h2,h3,h4,h5,h6", {
-      marginTop: rhythm(2)
-    }), _defineProperty(_ref2, "h6", {
-      fontStyle: "italic"
-    }), _ref2;
-  }
-};
-
-exports.default = theme;
-
-/***/ }),
-
-/***/ "./node_modules/typography/dist/index.js":
-/*!***********************************************!*\
-  !*** ./node_modules/typography/dist/index.js ***!
-  \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-var e=__webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js"),t=__webpack_require__(/*! compass-vertical-rhythm */ "./node_modules/compass-vertical-rhythm/dist/index.js"),i=__webpack_require__(/*! modularscale */ "./node_modules/modularscale/dist/index.js"),o=__webpack_require__(/*! gray-percentage */ "./node_modules/gray-percentage/index.js"),r=__webpack_require__(/*! lodash/set */ "lodash/set"),n=__webpack_require__(/*! lodash/forEach */ "lodash/forEach"),a=__webpack_require__(/*! lodash/isNumber */ "lodash/isNumber"),l=__webpack_require__(/*! lodash/isString */ "lodash/isString"),d=__webpack_require__(/*! lodash/isFunction */ "lodash/isFunction"),u=__webpack_require__(/*! lodash/isArray */ "lodash/isArray"),s=__webpack_require__(/*! lodash/merge */ "lodash/merge"),h=__webpack_require__(/*! lodash/reduce */ "lodash/reduce"),g=__webpack_require__(/*! typography-normalize */ "./node_modules/typography-normalize/dist/index.js"),c=__webpack_require__(/*! decamelize */ "./node_modules/decamelize/index.js"),f=__webpack_require__(/*! lodash/isObject */ "lodash/isObject");function m(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var p=m(e),y=m(t),b=m(i),S=m(o),F=m(r),v=m(n),B=m(a),k=m(l),x=m(d),z=m(u),q=m(s),j=m(h),L=m(g),W=m(c),T=m(f);function M(){return(M=Object.assign||function(e){for(var t=1;t<arguments.length;t++){var i=arguments[t];for(var o in i)Object.prototype.hasOwnProperty.call(i,o)&&(e[o]=i[o])}return e}).apply(this,arguments)}var C=function(e,t,i){var o;return void 0===e&&(e={}),o=z.default(t)?t:[t],v.default(o,function(t){v.default(i,function(i,o){F.default(e,t+"."+o,i)})}),e},O=["inherit","default","serif","sans-serif","monospace","fantasy","cursive","-apple-system"],R=function(e){return-1!==O.indexOf(e)?e:"'"+e+"'"},H=function e(t){return j.default(t,function(t,i,o){return t+=o+"{",v.default(i,function(i,o){if(T.default(i)){var r={};r[o]=i,t+=e(r)}else{var n=W.default(o,"-")+":"+i+";";["Webkit","ms","Moz","O"].forEach(function(e){o.slice(0,e.length)===e&&(n="-"+n)}),t+=n}}),t+="}"},"")},N=function(e,t,i){var o=H(i);return t.includeNormalize&&(o=""+L.default+o),o};module.exports=function(e){var t=p.default({},{baseFontSize:"16px",baseLineHeight:1.45,headerLineHeight:1.1,scaleRatio:2,googleFonts:[],headerFontFamily:["-apple-system","BlinkMacSystemFont","Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue","sans-serif"],bodyFontFamily:["georgia","serif"],headerColor:"inherit",bodyColor:"hsla(0,0%,0%,0.8)",headerWeight:"bold",bodyWeight:"normal",boldWeight:"bold",includeNormalize:!0,blockMarginBottom:1},e),i=y.default(t);return i.scale=function(e){var o=parseInt(t.baseFontSize,10),r=b.default(e,t.scaleRatio)*o+"px";return i.adjustFontSizeTo(r)},M({options:t},i,{createStyles:function(){return this.toString()},toJSON:function(){return function(e,t){var i,o={},r=e.establishBaseline();o=C(o,"html",{font:r.fontSize+"/"+r.lineHeight+" "+t.bodyFontFamily.map(R).join(","),boxSizing:"border-box",overflowY:"scroll"}),o=C(o,["*","*:before","*:after"],{boxSizing:"inherit"}),o=C(o,"body",{color:t.bodyColor,fontFamily:t.bodyFontFamily.map(R).join(","),fontWeight:t.bodyWeight,wordWrap:"break-word",fontKerning:"normal",MozFontFeatureSettings:'"kern", "liga", "clig", "calt"',msFontFeatureSettings:'"kern", "liga", "clig", "calt"',WebkitFontFeatureSettings:'"kern", "liga", "clig", "calt"',fontFeatureSettings:'"kern", "liga", "clig", "calt"'}),o=C(o,"img",{maxWidth:"100%"}),i=B.default(t.blockMarginBottom)?e.rhythm(t.blockMarginBottom):k.default(t.blockMarginBottom)?t.blockMarginBottom:e.rhythm(1),o=C(o,["h1","h2","h3","h4","h5","h6","hgroup","ul","ol","dl","dd","p","figure","pre","table","fieldset","blockquote","form","noscript","iframe","img","hr","address"],{marginLeft:0,marginRight:0,marginTop:0,paddingBottom:0,paddingLeft:0,paddingRight:0,paddingTop:0,marginBottom:i}),o=C(o,"blockquote",{marginRight:e.rhythm(1),marginBottom:i,marginLeft:e.rhythm(1)}),o=C(o,["b","strong","dt","th"],{fontWeight:t.boldWeight}),o=C(o,"hr",{background:S.default(80),border:"none",height:"1px",marginBottom:"calc("+i+" - 1px)"}),o=C(o,["ol","ul"],{listStylePosition:"outside",listStyleImage:"none",marginLeft:e.rhythm(1)}),o=C(o,"li",{marginBottom:"calc("+i+" / 2)"}),o=C(o,["ol li","ul li"],{paddingLeft:0}),o=C(o,["li > ol","li > ul"],{marginLeft:e.rhythm(1),marginBottom:"calc("+i+" / 2)",marginTop:"calc("+i+" / 2)"}),o=C(o,["blockquote *:last-child","li *:last-child","p *:last-child"],{marginBottom:0}),o=C(o,["li > p"],{marginBottom:"calc("+i+" / 2)"}),o=C(o,["code","kbd","pre","samp"],M({},e.adjustFontSizeTo("85%"))),(o=C(o,["abbr","acronym"],{borderBottom:"1px dotted "+S.default(50),cursor:"help"}))["abbr[title]"]={borderBottom:"1px dotted "+S.default(50),cursor:"help",textDecoration:"none"},o=C(o,["table"],M({},e.adjustFontSizeTo(t.baseFontSize),{borderCollapse:"collapse",width:"100%"})),o=C(o,["thead"],{textAlign:"left"}),o=C(o,["td,th"],{textAlign:"left",borderBottom:"1px solid "+S.default(88),fontFeatureSettings:'"tnum"',MozFontFeatureSettings:'"tnum"',msFontFeatureSettings:'"tnum"',WebkitFontFeatureSettings:'"tnum"',paddingLeft:e.rhythm(2/3),paddingRight:e.rhythm(2/3),paddingTop:e.rhythm(.5),paddingBottom:"calc("+e.rhythm(.5)+" - 1px)"}),o=C(o,"th:first-child,td:first-child",{paddingLeft:0}),o=C(o,"th:last-child,td:last-child",{paddingRight:0}),o=C(o,["h1","h2","h3","h4","h5","h6"],{color:t.headerColor,fontFamily:t.headerFontFamily.map(R).join(","),fontWeight:t.headerWeight,textRendering:"optimizeLegibility"});var n=e.scale(1),a=e.scale(.6),l=e.scale(.4),d=e.scale(0),u=e.scale(-.2),s=e.scale(-.3);return v.default([n,a,l,d,u,s],function(e,i){o=F.default(o,"h"+(i+1)+".fontSize",e.fontSize),o=F.default(o,"h"+(i+1)+".lineHeight",t.headerLineHeight)}),z.default(t.plugins)&&(o=j.default(t.plugins,function(i,o){return q.default(i,o(e,t,i))},o)),t.overrideStyles&&x.default(t.overrideStyles)&&(o=q.default(o,t.overrideStyles(e,t,o))),t.overrideThemeStyles&&x.default(t.overrideThemeStyles)&&(o=q.default(o,t.overrideThemeStyles(e,t,o))),o}(i,t)},toString:function(){return N(0,t,this.toJSON())},injectStyles:function(){if("undefined"!=typeof document)if(document.getElementById("typography.js"))document.getElementById("typography.js").innerHTML=this.toString();else{var e=document.createElement("style");e.id="typography.js",e.innerHTML=this.toString();var t=document.head;t.firstChild?t.insertBefore(e,t.firstChild):t.appendChild(e)}}})};
-//# sourceMappingURL=index.js.map
-
-
-/***/ }),
-
-/***/ "./src/utils/typography.js":
-/*!*********************************!*\
-  !*** ./src/utils/typography.js ***!
-  \*********************************/
-/*! exports provided: scale, rhythm, options, default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "scale", function() { return scale; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rhythm", function() { return rhythm; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "options", function() { return options; });
-/* harmony import */ var typography__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! typography */ "./node_modules/typography/dist/index.js");
-/* harmony import */ var typography__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(typography__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var typography_theme_stern_grove__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! typography-theme-stern-grove */ "./node_modules/typography-theme-stern-grove/dist/index.js");
-/* harmony import */ var typography_theme_stern_grove__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(typography_theme_stern_grove__WEBPACK_IMPORTED_MODULE_1__);
-
-
-typography_theme_stern_grove__WEBPACK_IMPORTED_MODULE_1___default.a.baseFontSize = '15px';
-typography_theme_stern_grove__WEBPACK_IMPORTED_MODULE_1___default.a.baseLineHeight = '1.5';
-const typography = new typography__WEBPACK_IMPORTED_MODULE_0___default.a(typography_theme_stern_grove__WEBPACK_IMPORTED_MODULE_1___default.a);
-const {
-  scale,
-  rhythm,
-  options
-} = typography;
-/* harmony default export */ __webpack_exports__["default"] = (typography);
-
-/***/ }),
-
-/***/ "lodash/forEach":
-/*!************************************************************************************************!*\
-  !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/forEach.js" ***!
-  \************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_forEach__;
-
-/***/ }),
-
-/***/ "lodash/isArray":
-/*!************************************************************************************************!*\
-  !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isArray.js" ***!
-  \************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isArray__;
-
-/***/ }),
-
-/***/ "lodash/isFunction":
-/*!***************************************************************************************************!*\
-  !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isFunction.js" ***!
-  \***************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isFunction__;
-
-/***/ }),
-
-/***/ "lodash/isNumber":
-/*!*************************************************************************************************!*\
-  !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isNumber.js" ***!
-  \*************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isNumber__;
-
-/***/ }),
-
-/***/ "lodash/isObject":
-/*!*************************************************************************************************!*\
-  !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isObject.js" ***!
-  \*************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isObject__;
-
-/***/ }),
-
-/***/ "lodash/isString":
-/*!*************************************************************************************************!*\
-  !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/isString.js" ***!
-  \*************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isString__;
-
-/***/ }),
-
 /***/ "lodash/merge":
 /*!**********************************************************************************************!*\
   !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/merge.js" ***!
@@ -5906,28 +5171,6 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isString__;
 /***/ (function(module, exports) {
 
 module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_merge__;
-
-/***/ }),
-
-/***/ "lodash/reduce":
-/*!***********************************************************************************************!*\
-  !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/reduce.js" ***!
-  \***********************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_reduce__;
-
-/***/ }),
-
-/***/ "lodash/set":
-/*!********************************************************************************************!*\
-  !*** external "/Users/daesungkim/Documents/daesungk.github.io/node_modules/lodash/set.js" ***!
-  \********************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_set__;
 
 /***/ }),
 
