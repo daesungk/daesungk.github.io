@@ -4,6 +4,7 @@ import Section from "../components/section"
 import {TalksList} from "../utils/talkslist.js"
 import {PubList} from "../utils/publist.js"
 import { Link, graphql } from "gatsby"
+import "katex/dist/katex.min.css"
 
 
 export default function Research({ data }) {

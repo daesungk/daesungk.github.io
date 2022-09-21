@@ -1,5 +1,6 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
+import "katex/dist/katex.min.css"
 
 function TalklistFunction(data) {
     const ItemArray = [];

@@ -17,7 +17,7 @@
         "jrnl": "J. Math. Anal. Appl.",
         "jrnlinfo": "480 (2019), no. 1, 123383",
         "date": "2019-12-01", 
-        "collaborators": "(with Rodrigo Banuelos)",
+        "collaborators": "(with Rodrigo Bañuelos)",
         "link1name": "[arxiv]",
         "link1url": "https://arxiv.org/abs/1702.06573",
         "link2name": "[journal]",
@@ -67,10 +67,11 @@
         "link3name": " ",
         "link3url": " "
     },
+
     {
         "title": "Fluctuation results for size of the vacant set for random walks on discrete torus",
-        "jrnl": "submitted",
-        "jrnlinfo": "(2021)",
+        "jrnl": "arXiv preprint",
+        "jrnlinfo": "submitted, (2021)",
         "date": "2021-08-16", 
         "collaborators": "(with Partha Dey)",
         "link1name": "[arxiv]",
@@ -79,5 +80,20 @@
         "link2url": " ",
         "link3name": " ",
         "link3url": " "
+    },
+
+    {
+        "title": "Sharp $\\ell^p$ inequalities for discrete singular integrals",
+        "jrnl": "arXiv preprint",
+        "jrnlinfo": "(2022)",
+        "date": "2022-09-20", 
+        "collaborators": "(with Rodrigo Bañuelos, Mateusz Kwaśnicki)",
+        "link1name": "[arxiv]",
+        "link1url": "https://arxiv.org/abs/2209.09737",
+        "link2name": " ",
+        "link2url": " ",
+        "link3name": " ",
+        "link3url": " "
+
     }
 ]
