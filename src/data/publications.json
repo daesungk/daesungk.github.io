@@ -85,7 +85,7 @@
     {
         "title": "Sharp $\\ell^p$ inequalities for discrete singular integrals",
         "jrnl": "arXiv preprint",
-        "jrnlinfo": "submitted, (2022)",
+        "jrnlinfo": "(2022)",
         "date": "2022-09-20", 
         "collaborators": "(with Rodrigo Bañuelos, Mateusz Kwaśnicki)",
         "link1name": "[arxiv]",
@@ -94,34 +94,6 @@
         "link2url": " ",
         "link3name": " ",
         "link3url": " "
-    },
 
-    {
-        "title": "Collaboration of random walks on graphs",
-        "jrnl": "in preparation",
-        "jrnlinfo": "(2022)",
-        "date": "2022-10-10", 
-        "collaborators": "(with Partha Dey, Grigory Terlov)",
-        "link1name": "",
-        "link1url": "",
-        "link2name": " ",
-        "link2url": " ",
-        "link3name": " ",
-        "link3url": " "
-    },
-
-    {
-        "title": "Curie–Weiss model under $\\ell^p$-constraint",
-        "jrnl": "in preparation",
-        "jrnlinfo": "(2022)",
-        "date": "2022-10-11", 
-        "collaborators": "(with Partha Dey)",
-        "link1name": "",
-        "link1url": "",
-        "link2name": " ",
-        "link2url": " ",
-        "link3name": " ",
-        "link3url": " "
     }
-
 ]
