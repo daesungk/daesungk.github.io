@@ -14,9 +14,8 @@ main {
 }
 
 body {
-  color:#eee;
+  color:#444;
   line-height: 1.5;
-  background-color: #121212;
 }
 
 th, td{
@@ -28,12 +27,12 @@ li {
 }
 
 a {
-    color:#5AC8FAFF; 
+    color:#FB6B6B; 
     text-decoration:none;
 }
 
 a:hover {
-    color:#ccc; 
+    color:#777; 
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -49,17 +48,17 @@ h1 {
 /* Section Title */
 h2 {
   @include text-2xl;
-  color:#ccc; 
+  color:#999; 
   font-size:20px; 
   font-weight:400;
-  border-bottom: 1px dashed #ccc;
+  border-bottom: 1px dashed #999;
   text-decoration: none;
 }
 
 /* Title */
 h3 {
   @include text-xl;
-  color:#eee; 
+  color:#FA5C3F; 
   font-size:24px; 
   font-weight:600;
 }

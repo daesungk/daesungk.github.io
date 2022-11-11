@@ -1,15 +1,5 @@
 [
     {
-        "seminar": "Stochastic Seminar",
-        "place" : "Georgia Institute of Technology",
-        "date" : "November 2022", 
-        "type" : "talk",
-        "link1name": "",
-        "link1": "",
-        "link2name": "",
-        "link2": ""
-    },
-    {
         "seminar": "Analysis, PDE and Probability Seminar",
         "place" : "KIAS, South Korea",
         "date" : "June 2022", 
