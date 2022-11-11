@@ -1,3 +1,4 @@
+
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
   font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji;
@@ -14,8 +15,9 @@ main {
 }
 
 body {
-  color:#444;
+  color:#eee;
   line-height: 1.5;
+  background-color: #121212;
 }
 
 th, td{
@@ -27,12 +29,12 @@ li {
 }
 
 a {
-    color:#FB6B6B; 
+    color:#5AC8FAFF; 
     text-decoration:none;
 }
 
 a:hover {
-    color:#777; 
+    color:#ccc; 
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -48,17 +50,17 @@ h1 {
 /* Section Title */
 h2 {
   @include text-2xl;
-  color:#999; 
+  color:#ccc; 
   font-size:20px; 
   font-weight:400;
-  border-bottom: 1px dashed #999;
+  border-bottom: 1px dashed #ccc;
   text-decoration: none;
 }
 
 /* Title */
 h3 {
   @include text-xl;
-  color:#FA5C3F; 
+  color:#eee; 
   font-size:24px; 
   font-weight:600;
 }
