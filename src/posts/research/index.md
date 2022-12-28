@@ -8,9 +8,9 @@ My research interest lies at the interface between probability and analysis.
 The goal is to understand and answer several quantitative questions from probability theory, harmonic analysis, and the study of functional and geometric inequalities.
 In particular, I am interested in the following topics:
 
-- [Stochastic Representations for Harmonic Analysis](/stochastic)
-- [Stability of Functional and Geometric Inequality](/stability)
-- [Limiting Behaviors of Discrete Probability Models](/discrete)
+- [Stochastic Representations for Harmonic Analysis](stochastic)
+- [Stability of Functional and Geometric Inequality](stability)
+- [Limiting Behaviors of Discrete Probability Models](discrete)
 
 PhD Thesis: *Stability for functional and geometric inequalities and a stochastic representation of fractional integrals and nonlocal operators* (2019) [[PDF]](thesis-daesungk.pdf)
 
