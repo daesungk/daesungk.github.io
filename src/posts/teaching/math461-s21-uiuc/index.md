@@ -45,36 +45,36 @@ posttype: "teaching"
 | W5         | Feb 22    | Variance (Sec 4.5)                                   |             |
 |            | Feb 24    | Bernoulli and Binomial RVs (Sec 4.6)                 |             |
 |            | Feb 26    | Poisson RVs (Sec 4.7)                                | HW 4        |
-| W6         | mar 1     | other discrete rvs (sec 4.8)                         |             |
-|            | mar 3     | other discrete rvs (sec 4.8)                         | quiz 3      |
-|            | mar 5     | intro to continuous random variables (sec 5.1)       | hw 5        |
-| r7         | mar 8     | review                                               |             |
-|            | mar 10    | **midterm 1**                                        |             |
-|            | mar 12    | expectation and variance of continuous rvs (sec 5.2) |             |
-| w8         | mar 15    | the uniform random variable (sec 5.3)                |             |
-|            | mar 17    | normal random variables (sec 5.4-7)                  | quiz 4      |
-|            | mar 19    | exponential random variables (sec 5.4-7)             | hw 6        |
-| w9         | mar 22    | other random variables (sec 5.4-7)                   |             |
-|            | mar 24    | **no class**                                         |             |
-|            | mar 26    | joint distribution functions i (sec 6.1)             | hw 7        |
-| w10        | mar 29    | joint distribution functions ii (sec 6.1)            |             |
-|            | mar 31    | independent random variables (sec 6.2)               | quiz 5      |
-|            | apr 2     | sums of independent random variables (sec 6.3)       |             |
-| w11        | apr 5     | conditional distribution (sec 6.4-5)                 | hw 8        |
-|            | apr 7     | joint distribution of functions of rvs (sec 6.7)     |             |
-|            | apr 9     | expectation of functions of rvs (sec 7.2)            |             |
-| w12        | apr 12    | the number of events that occur (sec 7.3)            | hw 9        |
-|            | apr 14    | covariance (sec 7.4)                                 | quiz 6      |
-|            | apr 16    | conditional expectation (sec 7.5)                    |             |
-| w13        | apr 19    | review                                               | hw 10       |
-|            | apr 21    | **midterm 2**                                        |             |
-|            | apr 23    | moment generating functions (sec 7.7)                |             |
-| w14        | apr 26    | markov's and chebyshev's inequalities (sec 8.2)      |             |
-|            | apr 28    | other inequalities (sec 8.5)                         | quiz 7      |
-|            | apr 30    | the law of large numbers (sec 8.2, 4)                |             |
-| w15        | may 3     | central limit theorem (sec 8.3)                      |             |
-|            | may 5     | review                                               | hw 11       |
-| final week | may 7-12  | **final take-home exam**                             |             |
-|            | may 13-14 | **final prairielearn exam**                          |             |
+| W6         | Mar 1     | Other discrete rvs (sec 4.8)                         |             |
+|            | Mar 3     | Other discrete rvs (sec 4.8)                         | quiz 3      |
+|            | Mar 5     | Intro to continuous random variables (sec 5.1)       | hw 5        |
+| W7         | Mar 8     | Review                                               |             |
+|            | Mar 10    | **Midterm 1**                                        |             |
+|            | Mar 12    | Expectation and variance of continuous rvs (sec 5.2) |             |
+| W8         | Mar 15    | The uniform random variable (sec 5.3)                |             |
+|            | Mar 17    | Normal random variables (sec 5.4-7)                  | quiz 4      |
+|            | Mar 19    | Exponential random variables (sec 5.4-7)             | hw 6        |
+| W9         | Mar 22    | Other random variables (sec 5.4-7)                   |             |
+|            | Mar 24    | **No class**                                         |             |
+|            | Mar 26    | Joint distribution functions i (sec 6.1)             | hw 7        |
+| W10        | Mar 29    | Joint distribution functions ii (sec 6.1)            |             |
+|            | Mar 31    | Independent random variables (sec 6.2)               | quiz 5      |
+|            | Apr 2     | Sums of independent random variables (sec 6.3)       |             |
+| W11        | Apr 5     | Conditional distribution (sec 6.4-5)                 | hw 8        |
+|            | Apr 7     | Joint distribution of functions of rvs (sec 6.7)     |             |
+|            | Apr 9     | Expectation of functions of rvs (sec 7.2)            |             |
+| W12        | Apr 12    | The number of events that occur (sec 7.3)            | hw 9        |
+|            | Apr 14    | Covariance (sec 7.4)                                 | quiz 6      |
+|            | Apr 16    | Conditional expectation (sec 7.5)                    |             |
+| W13        | Apr 19    | Review                                               | hw 10       |
+|            | Apr 21    | **Midterm 2**                                        |             |
+|            | Apr 23    | Moment generating functions (sec 7.7)                |             |
+| W14        | Apr 26    | Markov's and chebyshev's inequalities (sec 8.2)      |             |
+|            | Apr 28    | Other inequalities (sec 8.5)                         | quiz 7      |
+|            | Apr 30    | The law of large numbers (sec 8.2, 4)                |             |
+| W15        | May 3     | Central limit theorem (sec 8.3)                      |             |
+|            | May 5     | Review                                               | hw 11       |
+| Final week | May 7-12  | **Final take-home exam**                             |             |
+|            | May 13-14 | **Final prairielearn exam**                          |             |
 
 

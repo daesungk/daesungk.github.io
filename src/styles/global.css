@@ -1,7 +1,7 @@
 
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
-  font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji;
+  font-family: Roboto, system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji;
 }
 
 code, kbd, pre {
@@ -17,7 +17,7 @@ main {
 body {
   color:#eee;
   line-height: 1.5;
-  background-color: #333333;
+  background-color: #333;
 }
 
 th, td{
