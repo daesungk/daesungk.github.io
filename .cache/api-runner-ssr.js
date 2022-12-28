@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/Users/daesungkim/Documents/daesungk.github.io_test/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/daesungkim/Documents/daesungk.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-123277960-1","head":true,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0,"enableWebVitalsTracking":false},
     },{
-      plugin: require('/Users/daesungkim/Documents/daesungk.github.io_test/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
+      plugin: require('/Users/daesungkim/Documents/daesungk.github.io/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
       options: {"plugins":[],"fonts":["Roboto","limelight","source sans pro:300,400,400i,700"],"display":"swap"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
