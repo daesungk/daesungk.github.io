@@ -64,7 +64,7 @@ exports.createPages = async ({ graphql, actions }) => {
         else{
             createPage({
                 path: node.fields.slug,
-                component: path.resolve(`./src/templates/notes-post.js`),
+                component: path.resolve(`./src/templates/blank.js`),
                 context: {
                     slug: node.fields.slug, 
                 }, 

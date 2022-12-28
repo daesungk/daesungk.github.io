@@ -44,7 +44,7 @@ export default function Layout({ children }) {
                     <ListLink to="/">Home</ListLink>
                     <ListLink to="/research/">Research</ListLink>
                     <ListLink to="/teaching/">Teaching</ListLink> 
-                    <li style={{ display: `inline-block`, marginRight: `1rem` }}> <a href="http://daesungk.github.io/resources/cv-dkim.pdf" target="_blank" rel="noreferrer">CV</a></li>
+                    <ListLink to="/curriculumvitae/">CV</ListLink> 
                 </ul>
             {children} 
         <div id="footer" style={{"padding-top": "40px"}}>

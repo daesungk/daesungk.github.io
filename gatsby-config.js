@@ -26,29 +26,8 @@ module.exports = {
         {
             resolve: `gatsby-source-filesystem`,
             options: {
-                name: `seminar`,
-                path: `${__dirname}/src/posts/seminar`,
-            }, 
-        },
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `research`,
-                path: `${__dirname}/src/posts/research`,
-            }, 
-        },
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `teaching`,
-                path: `${__dirname}/src/posts/teaching`,
-            }, 
-        },
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `data`,
-                path: `${__dirname}/src/data`,
+                name: `post`,
+                path: `${__dirname}/src/posts`,
             }, 
         },
         `gatsby-plugin-emotion`,

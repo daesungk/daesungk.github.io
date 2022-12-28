@@ -5,15 +5,11 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---src-pages-index-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/pages/index.js"))),
-  "component---src-pages-research-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/pages/research.js"))),
-  "component---src-pages-seminar-f-20-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/pages/seminar-f20.js"))),
-  "component---src-pages-seminar-f-21-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/pages/seminar-f21.js"))),
-  "component---src-pages-seminar-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/pages/seminar.js"))),
-  "component---src-pages-seminar-s-21-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/pages/seminar-s21.js"))),
-  "component---src-pages-teaching-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/pages/teaching.js"))),
-  "component---src-templates-research-post-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/templates/research-post.js"))),
-  "component---src-templates-seminar-post-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/templates/seminar-post.js"))),
-  "component---src-templates-teaching-post-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io/src/templates/teaching-post.js")))
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io_test/.cache/dev-404-page.js"))),
+  "component---src-pages-index-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io_test/src/pages/index.js"))),
+  "component---src-templates-blank-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io_test/src/templates/blank.js"))),
+  "component---src-templates-research-post-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io_test/src/templates/research-post.js"))),
+  "component---src-templates-seminar-post-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io_test/src/templates/seminar-post.js"))),
+  "component---src-templates-teaching-post-js": hot(preferDefault(require("/Users/daesungkim/Documents/daesungk.github.io_test/src/templates/teaching-post.js")))
 }
 
