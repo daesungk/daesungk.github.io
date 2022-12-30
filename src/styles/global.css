@@ -1,7 +1,7 @@
 
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
-  font-family: Roboto, system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji;
+  font-family: source sans pro, Roboto, system-ui, segoe ui,Helvetica,Arial,sans-serif;
 }
 
 code, kbd, pre {

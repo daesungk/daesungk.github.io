@@ -61,6 +61,15 @@ exports.createPages = async ({ graphql, actions }) => {
                 }, 
             });
         }
+        else if (node.frontmatter.posttype === "blog") {
+            createPage({
+                path: node.fields.slug,
+                component: path.resolve(`./src/templates/blog-post.js`),
+                context: {
+                    slug: node.fields.slug, 
+                }, 
+            });
+        }
         else{
             createPage({
                 path: node.fields.slug,
