@@ -4,10 +4,6 @@ html, button, input, select, textarea,
   font-family: source sans pro, Roboto, system-ui, segoe ui,Helvetica,Arial,sans-serif;
 }
 
-code, kbd, pre {
-  font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace;
-}
-
 main {
   margin-left: auto;
   margin-right: auto;
@@ -47,35 +43,58 @@ h1 {
   @include text-3xl;
 }
 
-/* Section Title */
 h2 {
   @include text-2xl;
-  color:#ccc; 
-  font-size:20px; 
-  font-weight:400;
+}
+
+h3 {
+  @include text-xl;
+  font-style: italic;
+  font-weight: 700;
+}
+
+h4 {
+  @include text-xl;
+  color: #FFA400;
+  font-weight: 700;
+}
+
+
+/* Section Title */
+h5 {
+  color:#eee; 
+  font-size:22px; 
+  font-weight:700;
   border-bottom: 1px dashed #ccc;
   text-decoration: none;
 }
 
-/* Title */
-h3 {
+/* Homepage Title */
+h6 {
   @include text-xl;
   color:#eee; 
   font-size:24px; 
   font-weight:600;
 }
-
-h4 {
-  @include text-lg;
+em, strong {
+  color: #86ED26;
 }
 
-h5 {
-  @include text-base;
+blockquote {
+  background: #555;
+  border-left: 5px solid #ccc;
+  margin: 1.5em 0px;
+  padding: 0em 10px;
 }
 
-h6 {
-  @include text-sm;
+code, pre, kbd  {
+  font-family: Monaco, monospace;
+  background-color: #222;
+  padding: 0.2em;
+  word-break: normal;
+  border-radius: 5px;
 }
+
 
 figure {
   margin: 0;

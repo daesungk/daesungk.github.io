@@ -3,7 +3,7 @@ import React from "react"
 export default function Section(props) { 
     return (
         <div style={{"float" : "left", "width" : "100%"}}>
-            <h2>{props.title}</h2>
+            <h5>{props.title}</h5>
             {props.children}
         </div>
     )

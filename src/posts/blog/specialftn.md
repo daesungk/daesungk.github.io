@@ -3,12 +3,12 @@ title: Special functions
 date: 2022-12-31
 posttype: blog
 ---
-# Special functions
+## Special functions
 
-## Gamma functions
+### Gamma functions
 
 **Definition** 
 
-## Beta functions
+### Beta functions
 
 

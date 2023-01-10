@@ -8,9 +8,9 @@ export default function TeachingPost({data}) {
     const post = data.markdownRemark
     return (
     <Layout>
-        <h2>
+        <h5>
             {post.frontmatter.title}
-        </h2>
+        </h5>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>
   )

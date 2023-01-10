@@ -5,7 +5,7 @@ import { css } from "@emotion/react"
 export default function Aboutme(props) { 
     return (
         <div>
-            <h2>{props.title}</h2>
+            <h5>{props.title}</h5>
             <div  
             css={css`
                 display: inline-block;

@@ -1,6 +1,5 @@
 import React from "react"
 import Layout from "../components/layout"
-import Section from "../components/section"
 import { Link, graphql } from "gatsby"
 
 export default function Seminar({ data }) {
@@ -14,19 +13,19 @@ export default function Seminar({ data }) {
                 {data.allMarkdownRemark.edges.map(({ node }) => (
                 <tr>
                     <td> 
-                        <big>
+                        <big><b>
                         <Link to={node.fields.slug} >
                             {node.frontmatter.title} 
                         </Link>
-                        </big>
+                        </b></big>
                         <br/> <small>
                             {node.excerpt}
                         </small>
                     </td>
                     <td width="15%" valign="top" align="right"> 
-                        <em>
+                        <i>
                             {node.frontmatter.date} 
-                        </em>
+                        </i>
                     </td>
                 </tr>
                 ))}

@@ -8,10 +8,10 @@ export default function TeachingPost({data}) {
     const post = data.markdownRemark
     return (
     <Layout>
-        <h2>
+        <h5>
             {post.frontmatter.coursenumber}: {post.frontmatter.coursename} &nbsp;
             <small>({post.frontmatter.semester})</small>        
-        </h2>
+        </h5>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>
   )

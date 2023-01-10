@@ -2,12 +2,12 @@
 title: "Teaching"
 ---
 
-## Teaching at GaTech
+##### Teaching at GaTech
 |             |                                                          |
 | ---         | ---                                                      |
 | Spring 2023 | [MATH 1554: Linear algebra](math1554-s23)               |
 
-## Teaching at UIUC
+##### Teaching at UIUC
 
 |             |                                                                               |
 | ---         | ---                                                                           |
