@@ -10,7 +10,7 @@ posttype: "teaching"
 - Instructor: Daesung Kim ([dkim3009 (at) gatech.edu](mailto:dkim3009@gatech.edu))
 - Office: Skiles 023
 - Time and Place: Section A, MWF 8:25am, Howey Physics L3 / Section C, MWF 9:30am, Howey Physics L2
-- Office Hour: TBA
+- Office Hour: Wed 11am-12pm at Skiles 023 / Thu 11am-12pm in Zoom (Zoom link is available in Canvas)
 - Textbook: Lay, Linear Algebra and its Applications, 5th Edition
 - [Syllabus](https://gatech.instructure.com/courses/114544/pages/common-syllabus-spring-2023), [Course overview](https://sbarone7.math.gatech.edu/ma1554_course_overview.pdf) 
 - Textbook and Homework: https://www.mymathlab.com 
