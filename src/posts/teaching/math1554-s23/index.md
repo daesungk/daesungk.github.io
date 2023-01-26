@@ -24,7 +24,7 @@ posttype: "teaching"
 - [Chapter 5 and 6](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)
 - [Chapter 7 Concepts](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf)
 
-<b>Annotated Notes</b> (Last update: 2023-01-23)
+<b>Annotated Notes</b> (Last update: 2023-01-26)
 
 |           | Chapter 1,2                     | Chapter 3-5 | Chapter 5, 6 | Chapter 7 Concepts |
 | :---:     | :---:                           | :---:       | :---:        | :---:              |
