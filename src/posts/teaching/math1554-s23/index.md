@@ -26,11 +26,10 @@ posttype: "teaching"
 
 <b>Annotated Notes</b> (Last update: 2023-01-30)
 
-|           | Chapter 1,2                     | Chapter 3-5 | Chapter 5, 6 | Chapter 7 Concepts |
-| :---:     | :---:                           | :---:       | :---:        | :---:              |
-| Section A | [download](secA-Chap12.pdf)     |             |              |                    |
-| Section C | [download](secC-Chap12.pdf)     |             |              |                    |
-
+|           | Ch. 1,2                | MT1 Review                | Ch. 3-5 | Ch. 5, 6 | Ch. 7 |
+| :---:     | :---:                  | :---:                     | :---:   | :---:    | :---: |
+| Section A | [pdf](secA-Chap12.pdf) | [pdf](secA-MT1reveiw.pdf) |         |          |       |
+| Section C | [pdf](secC-Chap12.pdf) | [pdf](secC-MT1reveiw.pdf) |         |          |       |
 
 ### Course Schedule
 | Week  | Date        | MON          | WED                  | FRI      |
