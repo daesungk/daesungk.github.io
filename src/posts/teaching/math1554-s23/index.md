@@ -28,8 +28,8 @@ posttype: "teaching"
 
 |           | Ch. 1,2                | MT1 Review                | Ch. 3-5 | Ch. 5, 6 | Ch. 7 |
 | :---:     | :---:                  | :---:                     | :---:   | :---:    | :---: |
-| Section A | [pdf](secA-Chap12.pdf) | [pdf](secA-MT1reveiw.pdf) |         |          |       |
-| Section C | [pdf](secC-Chap12.pdf) | [pdf](secC-MT1reveiw.pdf) |         |          |       |
+| Section A | [pdf](secA-Chap12.pdf) | [pdf](secA-MT1review.pdf) |         |          |       |
+| Section C | [pdf](secC-Chap12.pdf) | [pdf](secC-MT1review.pdf) |         |          |       |
 
 ### Course Schedule
 | Week  | Date        | MON          | WED                  | FRI      |
