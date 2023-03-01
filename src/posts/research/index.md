@@ -27,8 +27,8 @@ My papers on arXiv can be found [here](https://arxiv.org/a/kim_d_6.html).
 ##### Preprints
 1. *Fluctuation results for size of the vacant set for random walks on discrete torus*, submitted, (2021).  (with Partha Dey)     [[arxiv]](https://arxiv.org/abs/2108.06450)
 2. *Sharp $\ell^p$ inequalities for discrete singular integrals*, submitted, (2022).  (with Rodrigo Bañuelos, Mateusz Kwaśnicki)  [[arxiv]](https://arxiv.org/abs/2209.09737)
-3. *Collaboration of random walks on graphs*,  in preparation,  (2022).  (with Partha Dey, Grigory Terlov)     
-4. *Curie–Weiss model under $\ell^p$-constraint*,  in preparation,  (2022).  (with Partha Dey)     
+3. *Collaboration of random walks on graphs*,  preprint,  (2023).  (with Partha Dey, Grigory Terlov) [[arxiv]](https://arxiv.org/abs/2302.14241)
+4. *Curie–Weiss model under $\ell^p$-constraint*,  in preparation,  (2023).  (with Partha Dey)     
 
 
 
