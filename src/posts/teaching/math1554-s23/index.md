@@ -24,7 +24,7 @@ posttype: "teaching"
 - [Chapter 5 and 6](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)
 - [Chapter 7 Concepts](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf)
 
-<b>Annotated Notes</b> (Last update: 2023-04-05)
+<b>Annotated Notes</b> (Last update: 2023-04-07)
 
 |           | Ch. 1,2                | MT1 Review          | Ch. 3-5                | MT2 Review          | Ch. 5, 6               | MT3 Review          | Ch. 7                 | Final Review |
 | :---:     | :---:                  | :---:               | :---:                  | :---:               | :---:                  | :---:               | :---:                 | :---:        |
