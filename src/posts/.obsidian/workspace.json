@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aad3c0f0c8dba703",
+        "id": "a487324b7f1811cb",
         "type": "tabs",
         "children": [
           {
-            "id": "6809757555a39351",
+            "id": "28c40d10ba5d8c31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teaching/math1554-s23/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teaching/math1554-s23/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teaching/math1554-s23/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "teaching/math1554-s23/index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6809757555a39351",
+  "active": "28c40d10ba5d8c31",
   "lastOpenFiles": [
-    "teaching/math403-f21-uiuc/index.md",
-    "teaching/math461-s21-uiuc/index.md",
+    "curriculumvitae/index.md",
+    "blog/markdown.md",
     "teaching/math1554-s23/index.md",
-    "seminar/2020-09-22-ebates.md",
-    "research/thesis-daesungk.pdf",
-    "research/index.md",
+    "teaching/index.md",
+    "blog/specialftn.md",
     "research/discrete/index.md",
-    "curriculumvitae/index.md"
+    "research/index.md",
+    "teaching/math403-f21-uiuc/e-1-info.pdf",
+    "research/thesis-daesungk.pdf",
+    "curriculumvitae/cv-dkim.pdf"
   ]
 }
