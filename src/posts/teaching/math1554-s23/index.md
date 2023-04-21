@@ -24,12 +24,12 @@ posttype: "teaching"
 - [Chapter 5 and 6](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)
 - [Chapter 7 Concepts](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf)
 
-<b>Annotated Notes</b> (Last update: 2023-04-19)
+<b>Annotated Notes</b> (Last update: 2023-04-20)
 
-|           | Ch. 1,2                | MT1 Review          | Ch. 3-5                | MT2 Review          | Ch. 5, 6               | MT3 Review          | Ch. 7                 | Final Review |
-| :---:     | :---:                  | :---:               | :---:                  | :---:               | :---:                  | :---:               | :---:                 | :---:        |
-| Section A | [pdf](secA-Chap12.pdf) | [pdf](secA-MT1.pdf) | [pdf](secA-Chap35.pdf) | [pdf](secA-MT2.pdf) | [pdf](secA-Chap56.pdf) | [pdf](secA-MT3.pdf) | [pdf](secA-Chap7.pdf) |              |
-| Section C | [pdf](secC-Chap12.pdf) | [pdf](secC-MT1.pdf) | [pdf](secC-Chap35.pdf) | [pdf](secC-MT2.pdf) | [pdf](secC-Chap56.pdf) | [pdf](secC-MT3.pdf) | [pdf](secC-Chap7.pdf) |              |
+|           | Ch. 1,2                | MT1 Review          | Ch. 3-5                | MT2 Review          | Ch. 5, 6               | MT3 Review          | Ch. 7                 | Final Review                |
+| :---:     | :---:                  | :---:               | :---:                  | :---:               | :---:                  | :---:               | :---:                 | :---:                       |
+| Section A | [pdf](secA-Chap12.pdf) | [pdf](secA-MT1.pdf) | [pdf](secA-Chap35.pdf) | [pdf](secA-MT2.pdf) | [pdf](secA-Chap56.pdf) | [pdf](secA-MT3.pdf) | [pdf](secA-Chap7.pdf) | [pdf](secA-Finalreview.pdf) |
+| Section C | [pdf](secC-Chap12.pdf) | [pdf](secC-MT1.pdf) | [pdf](secC-Chap35.pdf) | [pdf](secC-MT2.pdf) | [pdf](secC-Chap56.pdf) | [pdf](secC-MT3.pdf) | [pdf](secC-Chap7.pdf) | [pdf](secC-Finalreview.pdf) |
 
 ### Course Schedule
 | Week  | Date        | MON          | WED                  | FRI      |
