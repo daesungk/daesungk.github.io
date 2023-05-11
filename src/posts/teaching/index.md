@@ -3,14 +3,15 @@ title: "Teaching"
 ---
 
 ##### Teaching at GaTech
-|             |                                                          |
-| ---         | ---                                                      |
-| Spring 2023 | [MATH 1554: Linear algebra](math1554-s23)               |
+|             |                                                                        |
+| ---         | ---                                                                    |
+| Summer 2023 | [MATH 3215: Introduction to Probability and Statistics](math3215-sm23) |
+| Spring 2023 | [MATH 1554: Linear algebra](math1554-s23)                              |
 
 ##### Teaching at UIUC
 
-|             |                                                                               |
-| ---         | ---                                                                           |
+|             |                                                                              |
+| ---         | ---                                                                          |
 | Spring 2022 | [MATH 595: Topic in Functional and Geometric Inequalities](math595-s22-uiuc) |
 | Spring 2022 | [MATH 461: Probability Theory](math461-s22-uiuc)                             |
 | Fall 2021   | [MATH 403: Euclidean Geometry](math403-f21-uiuc)                             |
