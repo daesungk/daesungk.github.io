@@ -6,16 +6,16 @@ university: "GaTech"
 posttype: "teaching"
 ---
 
-### Course Information
+## Course Information
 - Instructor: Daesung Kim ([dkim3009 (at) gatech.edu](mailto:dkim3009@gatech.edu))
 - Office: Skiles 023
 - Time and Place: TTH 9:30am - 11:40am, J. Erskine Lo 183 
 - Office Hour: MW 10:30-11:30am in Zoom, or by appointment 
 - Textbook: Probability and Statistical Inference, 10th Edition, by Robert Hogg, Elliot Tanis, Dale Zimmerman [Amazon link](https://www.amazon.com/Probability-Statistical-Inference-10th-Robert/dp/013518939X/ref=sr_1_1?crid=39JDK8C3NXWKO&keywords=Probability+and+Statistical+Inference&qid=1683810320&s=books&sprefix=probability+and+statistical+inference%2Cstripbooks%2C67&sr=1-1)
 - [Syllabus](syllabus.pdf)
-- Course Website: https://canvas.gatech.edu
+- Canvas: https://canvas.gatech.edu
 
-### Lecture slides
+## Lecture slides
 (Last update: 2023-05-11)
 
 | Chapter     | Blank | Annotated |
