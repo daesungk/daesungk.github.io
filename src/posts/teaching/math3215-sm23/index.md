@@ -13,19 +13,20 @@ posttype: "teaching"
 - Office Hour: MW 10:30-11:30am in Zoom, or by appointment 
 - Textbook: Probability and Statistical Inference, 10th Edition, by Robert Hogg, Elliot Tanis, Dale Zimmerman [Amazon link](https://www.amazon.com/Probability-Statistical-Inference-10th-Robert/dp/013518939X/ref=sr_1_1?crid=39JDK8C3NXWKO&keywords=Probability+and+Statistical+Inference&qid=1683810320&s=books&sprefix=probability+and+statistical+inference%2Cstripbooks%2C67&sr=1-1)
 - [Syllabus](syllabus.pdf)
+- [Course Overview](m3215-overview.pdf)
 - Canvas: https://canvas.gatech.edu
 
 ## Lecture slides
-(Last update: 2023-05-11)
+(Last update: 2023-05-15)
 
-| Chapter     | Blank | Annotated |
-| -           | -     | -         |
-| Chapter 1   |       |           |
-| Chapter 2   |       |           |
-| Chapter 3   |       |           |
-| Chapter 4   |       |           |
-| Chapter 5   |       |           |
-| Chapter 6-8 |       |           |
+| Chapter     | Blank                        | Annotated              |
+| -           | -                            | -                      |
+| Chapter 1   | [pdf](m3215-chap1-blank.pdf) | [pdf](m3215-chap1.pdf) |
+| Chapter 2   |                              |                        |
+| Chapter 3   |                              |                        |
+| Chapter 4   |                              |                        |
+| Chapter 5   |                              |                        |
+| Chapter 6-8 |                              |                        |
 
 ## Grading Policy
 
