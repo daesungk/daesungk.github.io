@@ -17,12 +17,12 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ## Lecture slides
-(Last update: 2023-05-18)
+(Last update: 2023-05-23)
 
 | Chapter     | Blank                        | Annotated              |
 | -           | -                            | -                      |
 | Chapter 1   | [pdf](m3215-chap1-blank.pdf) | [pdf](m3215-chap1.pdf) |
-| Chapter 2   |                              |                        |
+| Chapter 2   | [pdf](m3215-chap2-blank.pdf) | [pdf](m3215-chap2.pdf) |
 | Chapter 3   |                              |                        |
 | Chapter 4   |                              |                        |
 | Chapter 5   |                              |                        |
