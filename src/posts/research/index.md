@@ -34,6 +34,8 @@ My papers on arXiv can be found [here](https://arxiv.org/a/kim_d_6.html).
 
 ##### Talks
 
+1. Probability seminar,  Purdue University,  May 2023.   
+1. Probability seminar,  University of Illinois at Urbana–Champaign,  May 2023.   
 1. Stochastic Seminar,  Georgia Institute of Technology,  November 2022.   
 2. Analysis, PDE and Probability Seminar,  KIAS, South Korea,  June 2022.   
 3. Probability Seminar,  Seoul National University,  May 2022.   
