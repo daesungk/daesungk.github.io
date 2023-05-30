@@ -17,16 +17,19 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ## Lecture slides
-(Last update: 2023-05-25)
+(Last update: 2023-05-30)
 
 | Chapter     | Blank                        | Annotated                |
 | -           | -                            | -                        |
 | Chapter 1   | [pdf](m3215-chap1-blank.pdf) | [pdf](m3215-chap1.pdf)   |
 | Chapter 2   | [pdf](m3215-chap2-blank.pdf) | [pdf](m3215-chap2-1.pdf) |
-| Chapter 3   |                              |                          |
+| Chapter 3   | [pdf](m3215-chap3-blank.pdf) | [pdf](m3215-chap3.pdf)   |
 | Chapter 4   |                              |                          |
 | Chapter 5   |                              |                          |
 | Chapter 6-8 |                              |                          |
+
+## Practice Exams
+- [Midterm 1](m3215-prexam1.pdf) 
 
 ## Grading Policy
 
