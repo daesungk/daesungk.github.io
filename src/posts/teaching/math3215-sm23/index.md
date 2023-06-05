@@ -29,7 +29,7 @@ posttype: "teaching"
 | Chapter 6-8 |                              |                          |
 
 ## Practice Exams
-- [Midterm 1](m3215-prexam1.pdf), [Solution](m3215-prexam1-sol.pdf)
+- [Practice for Midterm 1](m3215-prexam1.pdf), [Solution for Practice](m3215-prexam1-sol-1.pdf)
 
 ## Grading Policy
 
