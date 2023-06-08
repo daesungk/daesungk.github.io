@@ -55,7 +55,7 @@ posttype: "teaching"
 
 <style>
 table, th, td {
-  border: 1px solid #eee;
+  border: 1px solid #777;
   border-collapse: collapse;
 }
 </style>

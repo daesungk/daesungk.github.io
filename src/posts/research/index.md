@@ -59,6 +59,6 @@ My papers on arXiv can be found [here](https://arxiv.org/a/kim_d_6.html).
 
 <style>
 em, strong {
-  color: #fff;
+  color: #333;
 }
 </style>
