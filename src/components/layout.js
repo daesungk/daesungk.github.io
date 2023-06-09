@@ -29,18 +29,22 @@ export default function Layout({ children }) {
                 padding-top: 50px; 
                 `} 
         >
+        <div>
                 <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}> 
-                    <h6 css={css` margin-bottom: 50px; display: inline; font-style: normal; `} >
+                    <h6 css={css` margin-bottom: 0px; display: inline; font-style: normal; `} >
                         {data.site.siteMetadata.title}
                     </h6> 
                 </Link> 
-                <ul css={css` margin-bottom: 50px; display: inline; font-style: normal; float: right; `} > 
+                <ul css={css` margin-bottom: 0px; display: inline; font-style: normal; float: right; `} > 
                     <ListLink to="/">Home</ListLink>
                     <ListLink to="/research/">Research</ListLink>
                     <ListLink to="/teaching/">Teaching</ListLink> 
                     <ListLink to="/curriculumvitae/">CV</ListLink> 
                 </ul>
+        </div>
+        <div style={{"padding-top" : "0px"}}>
             {children} 
+        </div>
         <div id="footer" style={{"padding-top": "40px"}}>
             &copy;  2022 Daesung Kim
         </div>
