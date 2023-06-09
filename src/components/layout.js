@@ -26,21 +26,15 @@ export default function Layout({ children }) {
                 margin: 0 auto; 
                 max-width: 700px; 
                 padding: 0px; 
-                padding-top: 0px; 
+                padding-top: 50px; 
                 `} 
         >
                 <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}> 
-                    <h6
-                        css={css` 
-                            margin-bottom: 0px; 
-                            display: inline; 
-                            font-style: normal; 
-                        `}
-                    >
+                    <h6 css={css` margin-bottom: 50px; display: inline; font-style: normal; `} >
                         {data.site.siteMetadata.title}
                     </h6> 
                 </Link> 
-                <ul style={{ listStyle: `none`, float: `right` }}> 
+                <ul css={css` margin-bottom: 50px; display: inline; font-style: normal; float: right; `} > 
                     <ListLink to="/">Home</ListLink>
                     <ListLink to="/research/">Research</ListLink>
                     <ListLink to="/teaching/">Teaching</ListLink> 
