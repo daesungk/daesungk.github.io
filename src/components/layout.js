@@ -25,14 +25,14 @@ export default function Layout({ children }) {
             css={css` 
                 margin: 0 auto; 
                 max-width: 700px; 
-                padding: 50px; 
-                padding-top: 50px; 
+                padding: 0px; 
+                padding-top: 0px; 
                 `} 
         >
                 <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}> 
                     <h6
                         css={css` 
-                            margin-bottom: 50px; 
+                            margin-bottom: 0px; 
                             display: inline; 
                             font-style: normal; 
                         `}
