@@ -23,7 +23,7 @@ posttype: "teaching"
 | -           | -                            | -                        |
 | Chapter 1   | [pdf](m3215-chap1-blank.pdf) | [pdf](m3215-chap1.pdf)   |
 | Chapter 2   | [pdf](m3215-chap2-blank.pdf) | [pdf](m3215-chap2-1.pdf) |
-| Chapter 3   | [pdf](m3215-chap3-blank.pdf) | [pdf](m3215-chap3.pdf)   |
+| Chapter 3   | [pdf](m3215-chap3-blank.pdf) | [pdf](m3215-chap3-1.pdf) |
 | Chapter 4   | [pdf](m3215-chap4-blank.pdf) | [pdf](m3215-chap4.pdf)   |
 | Chapter 5   | [pdf](m3215-chap5-blank.pdf) | [pdf](m3215-chap5.pdf)   |
 | Chapter 6-8 |                              |                          |
@@ -46,7 +46,7 @@ posttype: "teaching"
 | 3     | 5/29-6/2       | 2.4-5        | 2.6           | HW2 |
 | 4     | 6/5-9          | 3.1          | **Midterm 1** |     |
 | 5     | 6/12-16        | 3.2-3        | 3.4-4.1       | HW3 |
-| 6     | 6/19-23        | 4.2-3        | 4.3-4         | HW4 |
+| 6     | 6/19-23        | 4.1-3        | 4.3-4         | HW4 |
 | 7     | 6/26-30        | 4.5-5.2      | 5.3-4         | HW5 |
 | 8     | 7/3-7          | **No class** | **Midterm 2** |     |
 | 9     | 7/10-14        | 5.6,8        | 6.3-4         | HW6 |
