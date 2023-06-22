@@ -17,7 +17,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ## Lecture slides
-(Last update: 2023-06-20)
+(Last update: 2023-06-22)
 
 | Chapter     | Blank                        | Annotated                |
 | -           | -                            | -                        |
@@ -31,6 +31,7 @@ posttype: "teaching"
 ## Practice Exams
 
 - [Practice for Midterm 1](m3215-prexam1.pdf), [Solution](m3215-practice1-sol.pdf)
+- [Practice for Midterm 2](m3215-prexam2.pdf)
 
 ## Grading Policy
 
