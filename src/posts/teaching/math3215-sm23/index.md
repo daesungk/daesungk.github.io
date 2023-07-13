@@ -17,16 +17,16 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ## Lecture slides
-(Last update: 2023-07-11)
+(Last update: 2023-07-13)
 
-| Chapter     | Blank                        | Annotated                |
-| -           | -                            | -                        |
-| Chapter 1   | [pdf](m3215-chap1-blank.pdf) | [pdf](m3215-chap1.pdf)   |
-| Chapter 2   | [pdf](m3215-chap2-blank.pdf) | [pdf](m3215-chap2-1.pdf) |
-| Chapter 3   | [pdf](m3215-chap3-blank.pdf) | [pdf](m3215-chap3-1.pdf) |
-| Chapter 4   | [pdf](m3215-chap4-blank.pdf) | [pdf](m3215-chap4.pdf)   |
-| Chapter 5   | [pdf](m3215-chap5-blank.pdf) | [pdf](m3215-chap5.pdf)   |
-| Chapter 6-8 |                              |                          |
+| Chapter     | Blank                         | Annotated                |
+| -           | -                             | -                        |
+| Chapter 1   | [pdf](m3215-chap1-blank.pdf)  | [pdf](m3215-chap1.pdf)   |
+| Chapter 2   | [pdf](m3215-chap2-blank.pdf)  | [pdf](m3215-chap2-1.pdf) |
+| Chapter 3   | [pdf](m3215-chap3-blank.pdf)  | [pdf](m3215-chap3-1.pdf) |
+| Chapter 4   | [pdf](m3215-chap4-blank.pdf)  | [pdf](m3215-chap4.pdf)   |
+| Chapter 5   | [pdf](m3215-chap5-blank.pdf)  | [pdf](m3215-chap5.pdf)   |
+| Chapter 6,7 | [pdf](m3215-chap67-blank.pdf) | [pdf](m3215-chap67.pdf)  |
 
 ## Practice Exams
 
@@ -50,8 +50,8 @@ posttype: "teaching"
 | 6     | 6/19-23        | 4.1-3        | 4.3-4         | HW4 |
 | 7     | 6/26-30        | 4.5-5.1      | 5.1-3         | HW5 |
 | 8     | 7/3-7          | **No class** | **Midterm 2** |     |
-| 9     | 7/10-14        | 5.4,6,8      | 6.3-4         |     |
-| 10    | 7/17-21        | 7.1-3        | 8.1-3         | HW6 |
+| 9     | 7/10-14        | 5.4          | 5.6-8         |     |
+| 10    | 7/17-21        | 6.3-4        | 7.1-3         | HW6 |
 | 11    | 7/24-28        | Review       |               | HW7 |
 
 <style>
