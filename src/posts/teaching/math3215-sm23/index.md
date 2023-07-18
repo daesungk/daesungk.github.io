@@ -19,14 +19,14 @@ posttype: "teaching"
 ## Lecture slides
 (Last update: 2023-07-18)
 
-| Chapter     | Blank                         | Annotated                |
-| -           | -                             | -                        |
-| Chapter 1   | [pdf](m3215-chap1-blank.pdf)  | [pdf](m3215-chap1.pdf)   |
-| Chapter 2   | [pdf](m3215-chap2-blank.pdf)  | [pdf](m3215-chap2-1.pdf) |
-| Chapter 3   | [pdf](m3215-chap3-blank.pdf)  | [pdf](m3215-chap3-1.pdf) |
-| Chapter 4   | [pdf](m3215-chap4-blank.pdf)  | [pdf](m3215-chap4.pdf)   |
-| Chapter 5   | [pdf](m3215-chap5-blank.pdf)  | [pdf](m3215-chap5-1.pdf) |
-| Chapter 6,7 | [pdf](m3215-chap67-blank.pdf) | [pdf](m3215-chap67.pdf)  |
+| Chapter     | Blank                         | Annotated                 |
+| -           | -                             | -                         |
+| Chapter 1   | [pdf](m3215-chap1-blank.pdf)  | [pdf](m3215-chap1.pdf)    |
+| Chapter 2   | [pdf](m3215-chap2-blank.pdf)  | [pdf](m3215-chap2-1.pdf)  |
+| Chapter 3   | [pdf](m3215-chap3-blank.pdf)  | [pdf](m3215-chap3-1.pdf)  |
+| Chapter 4   | [pdf](m3215-chap4-blank.pdf)  | [pdf](m3215-chap4.pdf)    |
+| Chapter 5   | [pdf](m3215-chap5-blank.pdf)  | [pdf](m3215-chap5-1.pdf)  |
+| Chapter 6,7 | [pdf](m3215-chap67-blank.pdf) | [pdf](m3215-chap67-1.pdf) |
 
 ## Practice Exams
 
