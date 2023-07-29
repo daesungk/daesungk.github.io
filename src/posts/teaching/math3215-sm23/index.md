@@ -17,7 +17,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ## Lecture slides
-(Last update: 2023-07-25)
+(Last update: 2023-07-29)
 
 | Chapter     | Blank                         | Annotated                 |
 | -           | -                             | -                         |
@@ -32,7 +32,7 @@ posttype: "teaching"
 
 - [Practice for Midterm 1](m3215-prexam1.pdf), [Solution](m3215-practice1-sol.pdf)
 - [Practice for Midterm 2](m3215-prexam2.pdf), [Solution](m3215-prexam2-sol.pdf)
-- [Practice for Final exam](m3215-pracfinal.pdf)
+- [Practice for Final exam](m3215-pracfinal.pdf), [Solution](m3215-pracfinal-sol.pdf)
 
 ## Grading Policy
 
@@ -52,8 +52,8 @@ posttype: "teaching"
 | 7     | 6/26-30        | 4.5-5.1      | 5.1-3         | HW5 |
 | 8     | 7/3-7          | **No class** | **Midterm 2** |     |
 | 9     | 7/10-14        | 5.4          | 5.6-8         |     |
-| 10    | 7/17-21        | 6.3-4        | 7.1-3         | HW6 |
-| 11    | 7/24-28        | Review       |               | HW7 |
+| 10    | 7/17-21        | 6.3          | 6.4           | HW6 |
+| 11    | 7/24-28        | 7.1,Review   |               |     |
 
 <style>
 table, th, td {
