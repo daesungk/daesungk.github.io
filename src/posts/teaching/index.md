@@ -5,6 +5,7 @@ title: "Teaching"
 ##### Teaching at GaTech
 |             |                                                                        |
 | ---         | ---                                                                    |
+| Fall 2023   | [MATH 1554: Linear algebra](math1554-f23)                              |
 | Summer 2023 | [MATH 3215: Introduction to Probability and Statistics](math3215-sm23) |
 | Spring 2023 | [MATH 1554: Linear algebra](math1554-s23)                              |
 
