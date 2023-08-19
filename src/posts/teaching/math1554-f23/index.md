@@ -10,16 +10,16 @@ posttype: "teaching"
 - Instructor: Daesung Kim ([dkim3009 (at) gatech.edu](mailto:dkim3009@gatech.edu))
 - Office: Skiles 023
 - Time and Place: Section A, MWF 8:25am, Boggs B9 / Section E, MWF 11:00am, Howey Physics L3 
-- Office Hour: TBA
+- Office Hour: MW 9:30-10:30am at Skiles 023 
 - Textbook: Lay, Linear Algebra and its Applications, 5th Edition
-- [Syllabus](https://gatech.instructure.com/courses/114544/pages/common-syllabus-fall-2023), [Course overview](https://sbarone7.math.gatech.edu/ma1554_course_overview.pdf) 
+- [Syllabus](https://gatech.instructure.com/courses/114544/pages/common-syllabus-fall-2023), [Common Course overview](https://sbarone7.math.gatech.edu/ma1554_course_overview.pdf), [Overview](m1554-overview.pdf)
 - Textbook and Homework: https://www.mymathlab.com 
 - Course Website: https://canvas.gatech.edu
 - Master Website: https://gatech.instructure.com/courses/114544
 - Course Schedule: https://gatech.instructure.com/courses/114544/pages/common-syllabus-fall-2023
 
 ### Lecture slides
-(Last update: 2023-08-18)
+(Last update: 2023-08-19)
 
 | Chapter     | Blank                                                               | Annotated (Section A)     | Annotated (Section E)     |
 | -           | -                                                                   | -                         | -                         |
