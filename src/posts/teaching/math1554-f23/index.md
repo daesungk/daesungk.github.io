@@ -19,14 +19,15 @@ posttype: "teaching"
 - Course Schedule: https://gatech.instructure.com/courses/114544/pages/common-syllabus-fall-2023
 
 ### Lecture slides
-(Last update: 2023-09-08,14:09)
+(Last update: 2023-09-11,12:09)
 
-| Chapter     | Blank                                                               | Annotated (Section A)     | Annotated (Section E)     |
-| -           | -                                                                   | -                         | -                         |
-| Chapter 1,2 | [pdf](https://sbarone7.math.gatech.edu/Chapters_1_and_2.pdf)        | [pdf](m1554-chap12-A.pdf) | [pdf](m1554-chap12-E.pdf) |
-| Chapter 3-5 | [pdf](https://sbarone7.math.gatech.edu/Chapters_3_thru_5.pdf)       |                           |                           |
-| Chapter 5,6 | [pdf](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)        |                           |                           |
-| Chapter 7   | [pdf](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf) |                           |                           |
+| Chapter       | Blank                                                               | Annotated (Section A)          | Annotated (Section E)          |
+| -             | -                                                                   | -                              | -                              |
+| Chapter 1,2   | [pdf](https://sbarone7.math.gatech.edu/Chapters_1_and_2.pdf)        | [pdf](m1554-chap12-A.pdf)      | [pdf](m1554-chap12-E.pdf)      |
+| Exam 1 review | [pdf](m1554-exam1review.pdf)                                        | [pdf](m1554-exam1review-A.pdf) | [pdf](m1554-exam1review-E.pdf) |
+| Chapter 3-5   | [pdf](https://sbarone7.math.gatech.edu/Chapters_3_thru_5.pdf)       |                                |                                |
+| Chapter 5,6   | [pdf](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)        |                                |                                |
+| Chapter 7     | [pdf](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf) |                                |                                |
 
 ### Course Schedule
 | Week  | Date         | MON          | WED            | FRI            |
