@@ -4,7 +4,7 @@ title: "CV"
 
 ##### Curriculum Vitae
 
-PDF is available at [here](cv-dkim.pdf).
+PDF is available at [here](cv.pdf).
 
 ### Employment
 - Visiting Assistant Professor, Georgia Tech, July 2022–Present 
