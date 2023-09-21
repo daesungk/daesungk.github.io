@@ -19,7 +19,7 @@ posttype: "teaching"
 - Course Schedule: https://gatech.instructure.com/courses/114544/pages/common-syllabus-fall-2023
 
 ### Lecture slides
-(Last update: 2023-09-20,16:22)
+(Last update: 2023-09-20,20:43)
 
 | Chapter       | Blank                                                               | Annotated (Section A)          | Annotated (Section E)          |
 | -             | -                                                                   | -                              | -                              |
