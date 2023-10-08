@@ -4,8 +4,9 @@ title: "Research"
 
 ##### Research Interest
 
-My research interest lies at the interface between probability and analysis.
-The goal is to understand and answer several quantitative questions from probability theory, harmonic analysis, and the study of functional and geometric inequalities.
+My research interest lies at the interface of probability and analysis. 
+
+In particular, I am interested in the sharp and quantitative inequalities from probability and analysis, and their applications.
 
 PhD Thesis: *Stability for functional and geometric inequalities and a stochastic representation of fractional integrals and nonlocal operators* (2019) [[PDF]](thesis-daesungk.pdf)
 
@@ -13,7 +14,9 @@ My papers on arXiv can be found [here](https://arxiv.org/a/kim_d_6.html).
 
 ##### Publications and Preprints
 
-1. **Curie–Weiss model under $\ell^p$-constraint**<br>
+1. **On discrete second order Riesz transforms**<br>
+   (with [Rodrigo Bañuelos](https://www.math.purdue.edu/people/bio/banuelos/home)) *preprint* (2023).
+2. **Curie–Weiss model under $\ell^p$-constraint**<br>
    (with [Partha Dey](http://psdey.web.illinois.edu)) *preprint* (2023).
 3. **Collaboration of random walks on graphs**<br>
    (with [Partha Dey](http://psdey.web.illinois.edu), [Grigory Terlov](https://sites.google.com/view/gterlov/home)) *submitted* (2023).   [[arxiv]](https://arxiv.org/abs/2302.14241)
