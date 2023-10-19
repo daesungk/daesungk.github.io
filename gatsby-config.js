@@ -15,7 +15,9 @@ module.exports = {
               options: {
                 fonts: [
                   `Roboto`,
+                  `Amatic SC`,
                   `limelight`,
+                  `Cabin Sketch`,
                   `source sans pro\:300,400,400i,700` // you can also specify font weights and styles
                 ],
                 display: 'swap'

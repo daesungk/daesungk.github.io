@@ -74,6 +74,9 @@ h6 {
   @include text-xl;
   color:#333; 
   font-size:24px; 
+  /*font-size:44px; 
+  font-family: "Amatic SC";
+  font-family: "Cabin Sketch";*/
   font-weight:400;
 }
 em, strong {
