@@ -17,6 +17,9 @@ export default function Home() {
             <p>
             My research interest lies at the interface between probability and analysis.
             </p>
+            <p>
+             I am on the job market for tenure-track positions starting at Fall 2024. 
+            </p>
         </Aboutme>
         <br style={{"clear" : "both"}}/>
         <Section title="Contact Information">

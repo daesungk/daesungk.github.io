@@ -67,16 +67,22 @@ h5 {
   font-weight:400;
   border-bottom: 1px dashed #555;
   text-decoration: none;
+  font-family: "Cabin Sketch";
 }
 
 /* Homepage Title */
 h6 {
   @include text-xl;
   color:#333; 
+  font-size:34px; 
+  /*
+  font-size:44px; 
   font-size:24px; 
-  /*font-size:44px; 
   font-family: "Amatic SC";
-  font-family: "Cabin Sketch";*/
+  font-family: "Cabin Sketch";
+  font-family: "Fredericka-the-Great";
+   */
+  font-family: "Cabin Sketch";
   font-weight:400;
 }
 em, strong {
