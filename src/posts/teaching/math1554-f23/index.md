@@ -20,7 +20,7 @@ posttype: "teaching"
 
 
 ### Lecture slides
-(Last update: 2023-10-27,14:47)
+(Last update: 2023-10-30,19:32)
 
 | Chapter           | Blank                                                               | Annotated (Section A)              | Annotated (Section E)              |
 | -                 | -                                                                   | -                                  | -                                  |
