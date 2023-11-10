@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[],"trackingId":"UA-123277960-1","head":true,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0,"enableWebVitalsTracking":false},
     },{
       plugin: require('/Users/daesungkim/Documents/daesungk.github.io/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
-      options: {"plugins":[],"fonts":["Roboto","Amatic SC","limelight","Cabin Sketch","source sans pro:300,400,400i,700","Fredericka the Great"],"display":"swap"},
+      options: {"plugins":[],"fonts":["Roboto","Amatic SC","limelight","Cabin Sketch","source sans pro:300,400,400i,700","Fredericka the Great","Montserrat","Lato"],"display":"swap"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

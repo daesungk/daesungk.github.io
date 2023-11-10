@@ -19,7 +19,9 @@ module.exports = {
                   `limelight`,
                   `Cabin Sketch`,
                   `source sans pro\:300,400,400i,700`, 
-                  `Fredericka the Great`
+                  `Fredericka the Great`,
+                  `Montserrat`,
+                  `Lato`
                 ],
                 display: 'swap'
               }

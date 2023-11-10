@@ -20,17 +20,17 @@ posttype: "teaching"
 
 
 ### Lecture slides
-(Last update: 2023-11-08,16:16)
+(Last update: 2023-11-10,01:15)
 
-| Chapter           | Blank                                                               | Annotated (Section A)              | Annotated (Section E)              |
-| -                 | -                                                                   | -                                  | -                                  |
-| Chapter 1,2       | [pdf](https://sbarone7.math.gatech.edu/Chapters_1_and_2.pdf)        | [pdf](m1554-chap12-A.pdf)          | [pdf](m1554-chap12-E.pdf)          |
-| Exam 1 review     | [pdf](m1554-exam1review.pdf)                                        | [pdf](m1554-exam1review-A.pdf)     | [pdf](m1554-exam1review-E.pdf)     |
-| Chapter 3-5       | [pdf](https://sbarone7.math.gatech.edu/Chapters_3_thru_5.pdf)       | [pdf](m1554-chap35-A.pdf)          | [pdf](m1554-chap35-E.pdf)          |
-| Exam 2 review     | [pdf](m1554-exam2review.pdf)                                        | [pdf](m1554-exam2review-A.pdf)     | [pdf](m1554-exam2review-E.pdf)     |
-| **Chapter 5,6**   | **[pdf](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)**    | **[pdf](m1554-chap56-A.pdf)**      | **[pdf](m1554-chap56-E.pdf)**      |
-| **Exam 3 review** | **[pdf](m1554-exam3review.pdf)**                                    | **[pdf](m1554-exam3review-A.pdf)** | **[pdf](m1554-exam3review-E.pdf)** |
-| Chapter 7         | [pdf](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf) | [pdf](m1554-chapP7-A.pdf)          | [pdf](m1554-chapP7-E.pdf)          |
+| Chapter       | Blank                                                                   | Annotated (Section A)          | Annotated (Section E)          |
+| -             | :-:                                                                     | :-:                            | :-:                            |
+| Chapter 1,2   | [pdf](https://sbarone7.math.gatech.edu/Chapters_1_and_2.pdf)            | [pdf](m1554-chap12-A.pdf)      | [pdf](m1554-chap12-E.pdf)      |
+| Exam 1 review | [pdf](m1554-exam1review.pdf)                                            | [pdf](m1554-exam1review-A.pdf) | [pdf](m1554-exam1review-E.pdf) |
+| Chapter 3-5   | [pdf](https://sbarone7.math.gatech.edu/Chapters_3_thru_5.pdf)           | [pdf](m1554-chap35-A.pdf)      | [pdf](m1554-chap35-E.pdf)      |
+| Exam 2 review | [pdf](m1554-exam2review.pdf)                                            | [pdf](m1554-exam2review-A.pdf) | [pdf](m1554-exam2review-E.pdf) |
+| Chapter 5,6   | [pdf](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)            | [pdf](m1554-chap56-A.pdf)      | [pdf](m1554-chap56-E.pdf)      |
+| Exam 3 review | [pdf](m1554-exam3review.pdf)                                            | [pdf](m1554-exam3review-A.pdf) | [pdf](m1554-exam3review-E.pdf) |
+| **Chapter 7** | **[pdf](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf)** | **[pdf](m1554-chapP7-A.pdf)**  | **[pdf](m1554-chapP7-E.pdf)**  |
 
 ### Course Schedule
 | Week  | Date         | MON          | WED            | FRI            |
