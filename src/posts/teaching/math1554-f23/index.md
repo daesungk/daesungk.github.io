@@ -20,7 +20,7 @@ posttype: "teaching"
 
 
 ### Lecture slides
-(Last update: 2023-11-30,08:29)
+(Last update: 2023-12-03,22:51)
 
 | Chapter               | Blank                                                                   | Annotated (Section A)                  | Annotated (Section E)                  |
 | -                     | :-:                                                                     | :-:                                    | :-:                                    |
@@ -32,6 +32,8 @@ posttype: "teaching"
 | Exam 3 review         | [pdf](m1554-exam3review.pdf)                                            | [pdf](m1554-exam3review-A.pdf)         | [pdf](m1554-exam3review-E.pdf)         |
 | **Chapter 7**         | **[pdf](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf)** | **[pdf](m1554-chapP7-A.pdf)**          | **[pdf](m1554-chapP7-E.pdf)**          |
 | **Final Exam review** | **[pdf](m1554-finalexamreview.pdf)**                                    | **[pdf](m1554-finalexamreview-A.pdf)** | **[pdf](m1554-finalexamreview-E.pdf)** |
+
+[Final exam In-class review material](m1554-final-inclass-review.pdf)
 
 ### Course Schedule
 | Week  | Date         | MON          | WED            | FRI            |
