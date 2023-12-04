@@ -20,20 +20,25 @@ posttype: "teaching"
 
 
 ### Lecture slides
-(Last update: 2023-12-03,22:51)
+(Last update: 2023-12-04,16:39)
 
-| Chapter               | Blank                                                                   | Annotated (Section A)                  | Annotated (Section E)                  |
-| -                     | :-:                                                                     | :-:                                    | :-:                                    |
-| Chapter 1,2           | [pdf](https://sbarone7.math.gatech.edu/Chapters_1_and_2.pdf)            | [pdf](m1554-chap12-A.pdf)              | [pdf](m1554-chap12-E.pdf)              |
-| Exam 1 review         | [pdf](m1554-exam1review.pdf)                                            | [pdf](m1554-exam1review-A.pdf)         | [pdf](m1554-exam1review-E.pdf)         |
-| Chapter 3-5           | [pdf](https://sbarone7.math.gatech.edu/Chapters_3_thru_5.pdf)           | [pdf](m1554-chap35-A.pdf)              | [pdf](m1554-chap35-E.pdf)              |
-| Exam 2 review         | [pdf](m1554-exam2review.pdf)                                            | [pdf](m1554-exam2review-A.pdf)         | [pdf](m1554-exam2review-E.pdf)         |
-| Chapter 5,6           | [pdf](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)            | [pdf](m1554-chap56-A.pdf)              | [pdf](m1554-chap56-E.pdf)              |
-| Exam 3 review         | [pdf](m1554-exam3review.pdf)                                            | [pdf](m1554-exam3review-A.pdf)         | [pdf](m1554-exam3review-E.pdf)         |
-| **Chapter 7**         | **[pdf](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf)** | **[pdf](m1554-chapP7-A.pdf)**          | **[pdf](m1554-chapP7-E.pdf)**          |
-| **Final Exam review** | **[pdf](m1554-finalexamreview.pdf)**                                    | **[pdf](m1554-finalexamreview-A.pdf)** | **[pdf](m1554-finalexamreview-E.pdf)** |
+| Chapter                  | Blank                                                                   | Annotated (Section A)                       | Annotated (Section E)                       |
+| -                        | :-:                                                                     | :-:                                         | :-:                                         |
+| Chapter 1,2              | [pdf](https://sbarone7.math.gatech.edu/Chapters_1_and_2.pdf)            | [pdf](m1554-chap12-A.pdf)                   | [pdf](m1554-chap12-E.pdf)                   |
+| Exam 1 review            | [pdf](m1554-exam1review.pdf)                                            | [pdf](m1554-exam1review-A.pdf)              | [pdf](m1554-exam1review-E.pdf)              |
+| Chapter 3-5              | [pdf](https://sbarone7.math.gatech.edu/Chapters_3_thru_5.pdf)           | [pdf](m1554-chap35-A.pdf)                   | [pdf](m1554-chap35-E.pdf)                   |
+| Exam 2 review            | [pdf](m1554-exam2review.pdf)                                            | [pdf](m1554-exam2review-A.pdf)              | [pdf](m1554-exam2review-E.pdf)              |
+| Chapter 5,6              | [pdf](https://sbarone7.math.gatech.edu/Chapters_5_and_6.pdf)            | [pdf](m1554-chap56-A.pdf)                   | [pdf](m1554-chap56-E.pdf)                   |
+| Exam 3 review            | [pdf](m1554-exam3review.pdf)                                            | [pdf](m1554-exam3review-A.pdf)              | [pdf](m1554-exam3review-E.pdf)              |
+| **Chapter 7**            | **[pdf](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf)** | **[pdf](m1554-chapP7-A.pdf)**               | **[pdf](m1554-chapP7-E.pdf)**               |
+| **Final inclass review** | **[pdf](m1554-final-inclass-review.pdf)**                               | **[pdf](m1554-final-inclass-review-A.pdf)** | **[pdf](m1554-final-inclass-review-E.pdf)** |
 
-[Final exam In-class review material](m1554-final-inclass-review.pdf)
+#### Final sample exams and supplementary problems
+- [Supplementary Problems (For Chapter 7 and Google PageRank)](https://gatech.instructure.com/courses/114544/files/37154451?wrap=1)
+- [Sample A](https://gatech.instructure.com/courses/114544/files/18251875/download)
+- [Sample B](https://gatech.instructure.com/courses/114544/files/17490917/download)
+- [Sample C](https://gatech.instructure.com/courses/114544/files/18345067/download)
+- [Additional exam](https://gatech.instructure.com/courses/114544/files/17490923/download)
 
 ### Course Schedule
 | Week  | Date         | MON          | WED            | FRI            |
