@@ -20,7 +20,7 @@ posttype: "teaching"
 
 
 ### Lecture slides
-(Last update: 2023-12-04,16:39)
+(Last update: 2023-12-04,22:37)
 
 | Chapter                  | Blank                                                                   | Annotated (Section A)                       | Annotated (Section E)                       |
 | -                        | :-:                                                                     | :-:                                         | :-:                                         |
@@ -33,7 +33,7 @@ posttype: "teaching"
 | **Chapter 7**            | **[pdf](https://sbarone7.math.gatech.edu/Chapters_PageRank_and_7.pdf)** | **[pdf](m1554-chapP7-A.pdf)**               | **[pdf](m1554-chapP7-E.pdf)**               |
 | **Final inclass review** | **[pdf](m1554-final-inclass-review.pdf)**                               | **[pdf](m1554-final-inclass-review-A.pdf)** | **[pdf](m1554-final-inclass-review-E.pdf)** |
 
-#### Final sample exams and supplementary problems
+### Final sample exams and supplementary problems
 - [Supplementary Problems (For Chapter 7 and Google PageRank)](https://gatech.instructure.com/courses/114544/files/37154451?wrap=1)
 - [Sample A](https://gatech.instructure.com/courses/114544/files/18251875/download)
 - [Sample B](https://gatech.instructure.com/courses/114544/files/17490917/download)
