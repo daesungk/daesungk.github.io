@@ -17,7 +17,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-01-18,18:10)
+(Last update: 2024-01-22,08:38)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
@@ -31,7 +31,7 @@ posttype: "teaching"
 
 - HW: 20% (weekly, the lowest one HW will be dropped.)
 - Two Midterms: 20% (lower), 25% (2/15, 4/4 in class)
-- Final: 35% (TBA)
+- Final: 35% 
 
 ### Tentative Course Schedule
 | Week | Date           | TUE              | THU              |                   |
@@ -52,8 +52,10 @@ posttype: "teaching"
 | 14   | 4/8-4/12       | 5.6              | 5.7-8            | HW10              |
 | 15   | 4/15-4/19      | 6.3              | 6.4              | HW11 (no grading) |
 | 16   | 4/22-4/26      | 7.1              | Reading Period   |                   |
-| 17   | **Final Exam** |                  |                  |                   |
 
+**Final Exam Dates**
+- Section A: Thursday, May 2 8:00 AM - 10:50 AM, Instructional 111
+- Section C: Monday, Apr 29 8:00 AM - 10:50 AM, Instructional 115
 
 <style>
 table, th, td {
