@@ -18,12 +18,14 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-01-25,16:28)
+(Last update: 2024-01-28,10:35)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
 | Chapter 1   | [pdf](m3215-chap1-blank.pdf)  | [pdf](m3215-chap1-A.pdf)  | [pdf](m3215-chap1-C.pdf)  |
 | Chapter 2   | [pdf](m3215-chap2-blank.pdf)  | [pdf](m3215-chap2-A.pdf)  | [pdf](m3215-chap2-C.pdf)  |
+| Chapter 3   | [pdf](m3215-chap3-blank.pdf)  | [pdf](m3215-chap3-A.pdf)  | [pdf](m3215-chap3-C.pdf)  |
+| Chapter 4   | [pdf](m3215-chap4-blank.pdf)  | [pdf](m3215-chap4-A.pdf)  | [pdf](m3215-chap4-C.pdf)  |
 
 ### Practice Exams
 
