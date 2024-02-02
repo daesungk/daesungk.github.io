@@ -13,12 +13,15 @@ posttype: "teaching"
 - In-Person Office Hour: Tuesday 11:30am-12:30pm (Skiles 023) or by appointment
 - Zoom Office Hour: Wednesday 11am-12pm, Zoom link available on Canvas
 - Textbook: Probability and Statistical Inference, 10th Edition, by Robert Hogg, Elliot Tanis, Dale Zimmerman [Amazon link](https://www.amazon.com/Probability-Statistical-Inference-10th-Robert/dp/013518939X/ref=sr_1_1?crid=39JDK8C3NXWKO&keywords=Probability+and+Statistical+Inference&qid=1683810320&s=books&sprefix=probability+and+statistical+inference%2Cstripbooks%2C67&sr=1-1)
+- Supplementary textbooks: 
+    (1) [Introduction to Probability](http://probabilitybook.net), Blitzstein and Hwang, 
+    (2) [Sheldon Ross, A First Course in Probability, 9th Edition, ISBN: 9780321794772.](https://www.amazon.com/First-Course-Probability-9th/dp/032179477X)
 - [Syllabus](syllabus.pdf)
 - [Course Overview](m3215-overview.pdf)
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-02-01,11:17)
+(Last update: 2024-02-02,08:39)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
@@ -27,8 +30,16 @@ posttype: "teaching"
 | Chapter 3   | [pdf](m3215-chap3-blank.pdf)  | [pdf](m3215-chap3-A.pdf)  | [pdf](m3215-chap3-C.pdf)  |
 | Chapter 4   | [pdf](m3215-chap4-blank.pdf)  | [pdf](m3215-chap4-A.pdf)  | [pdf](m3215-chap4-C.pdf)  |
 
-### Practice Exams
+### Exams
+**Midterm Exam 1: Thursday, Feb 15, In-class**
+- Coverage: Chapter 1 and 2
+- [Practice Problems](m3215-exam1-practice.pdf)
 
+**Midterm Exam 2: Thursday, Apr 4, In-class**
+
+**Final Exam**
+- Section A: Thursday, May 2 8:00 AM - 10:50 AM, Instructional 111
+- Section C: Monday, Apr 29 8:00 AM - 10:50 AM, Instructional 115
 
 ### Grading Policy
 
@@ -37,28 +48,25 @@ posttype: "teaching"
 - Final: 35% 
 
 ### Tentative Course Schedule
-| Week | Date           | TUE              | THU              |                   |
-| -    | -              | -                | -                | -                 |
-| 1    | 1/8-1/12       | 1.1              | 1.2              |                   |
-| 2    | 1/15-1/19      | 1.3              | 1.4,5            | HW1               |
-| 3    | 1/22-1/26      | 1.5, 2.1         | 2.2              | HW2               |
-| 4    | 1/29-2/2       | 2.3              | 2.4              | HW3               |
-| 5    | 2/5-2/9        | 2.5              | 2.6              | HW4               |
-| 6    | 2/12-2/16      | Review, 3.1      | **Midterm 1**    |                   |
-| 7    | 2/19-2/23      | 3.1              | 3.2              | HW5               |
-| 8    | 2/26-3/1       | 3.3              | 3.4              | HW6               |
-| 9    | 3/4-3/8        | 4.1              | 4.2-3            | HW7               |
-| 10   | 3/11-3/15      | 4.4              | 4.5              | HW8               |
-| 11   | 3/18-3/22      | **Spring Break** | **Spring Break** |                   |
-| 12   | 3/25-3/29      | 5.1-2            | 5.3              | HW9               |
-| 13   | 4/1-4/5        | 5.4              | **Midterm 2**    |                   |
-| 14   | 4/8-4/12       | 5.6              | 5.7-8            | HW10              |
-| 15   | 4/15-4/19      | 6.3              | 6.4              | HW11 (no grading) |
-| 16   | 4/22-4/26      | 7.1              | Reading Period   |                   |
+| Week | Date      | TUE              | THU              |                   |
+| :-:  | -         | -                | -                | -                 |
+| 1    | 1/8-1/12  | 1.1              | 1.2              |                   |
+| 2    | 1/15-1/19 | 1.3              | 1.4,5            | HW1               |
+| 3    | 1/22-1/26 | 1.5, 2.1         | 2.2              | HW2               |
+| 4    | 1/29-2/2  | 2.3              | 2.4              | HW3               |
+| 5    | 2/5-2/9   | 2.5,6            | 2.6,7            | HW4               |
+| 6    | 2/12-2/16 | Review, 3.1      | **Midterm 1**    |                   |
+| 7    | 2/19-2/23 | 3.1              | 3.2              | HW5               |
+| 8    | 2/26-3/1  | 3.3              | 3.4              | HW6               |
+| 9    | 3/4-3/8   | 4.1              | 4.2-3            | HW7               |
+| 10   | 3/11-3/15 | 4.4              | 4.5              | HW8               |
+| 11   | 3/18-3/22 | **Spring Break** | **Spring Break** |                   |
+| 12   | 3/25-3/29 | 5.1-2            | 5.3              | HW9               |
+| 13   | 4/1-4/5   | 5.4              | **Midterm 2**    |                   |
+| 14   | 4/8-4/12  | 5.6              | 5.7-8            | HW10              |
+| 15   | 4/15-4/19 | 6.3              | 6.4              | HW11 (no grading) |
+| 16   | 4/22-4/26 | 7.1              | Reading Period   |                   |
 
-**Final Exam Dates**
-- Section A: Thursday, May 2 8:00 AM - 10:50 AM, Instructional 111
-- Section C: Monday, Apr 29 8:00 AM - 10:50 AM, Instructional 115
 
 <style>
 table, th, td {
