@@ -21,7 +21,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-02-02,08:39)
+(Last update: 2024-02-06,03:58)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
@@ -34,6 +34,7 @@ posttype: "teaching"
 **Midterm Exam 1: Thursday, Feb 15, In-class**
 - Coverage: Chapter 1 and 2
 - [Practice Problems](m3215-exam1-practice.pdf)
+- [Sample Exam](m3215-exam-1-sm23.pdf)
 
 **Midterm Exam 2: Thursday, Apr 4, In-class**
 
