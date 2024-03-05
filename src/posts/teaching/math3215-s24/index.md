@@ -21,7 +21,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-03-01,00:34)
+(Last update: 2024-03-05,12:18)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
@@ -29,6 +29,8 @@ posttype: "teaching"
 | Chapter 2   | [pdf](m3215-chap2-blank.pdf)  | [pdf](m3215-chap2-A.pdf)  | [pdf](m3215-chap2-C.pdf)  |
 | Chapter 3   | [pdf](m3215-chap3-blank.pdf)  | [pdf](m3215-chap3-A.pdf)  | [pdf](m3215-chap3-C.pdf)  |
 | Chapter 4   | [pdf](m3215-chap4-blank.pdf)  | [pdf](m3215-chap4-A.pdf)  | [pdf](m3215-chap4-C.pdf)  |
+| Chapter 5   | [pdf](m3215-chap5-blank.pdf)  | [pdf](m3215-chap5-A.pdf)  | [pdf](m3215-chap5-C.pdf)  |
+| Chapter 6,7 | [pdf](m3215-chap67-blank.pdf) | [pdf](m3215-chap67-A.pdf) | [pdf](m3215-chap67-C.pdf) |
 
 ### Exams
 **Midterm Exam 1: Thursday, Feb 15, In-class**
