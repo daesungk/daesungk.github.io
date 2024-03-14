@@ -10,7 +10,7 @@ posttype: "teaching"
 - Instructor: Daesung Kim ([dkim3009 (at) gatech.edu](mailto:dkim3009@gatech.edu))
 - Office: Skiles 023
 - Time and Place: Section A, TTH 8:00am - 09:15am, Instructional 111 / Section C, TTH 9:30am - 10:45am, Instructional 115
-- In-Person Office Hour: Tuesday 11:30am-12:30pm (Skiles 023) or by appointment
+- In-Person Office Hour: Tuesday 12pm-1pm (Skiles 023) or by appointment
 - Zoom Office Hour: Wednesday 11am-12pm, Zoom link available on Canvas
 - Textbook: Probability and Statistical Inference, 10th Edition, by Robert Hogg, Elliot Tanis, Dale Zimmerman [Amazon link](https://www.amazon.com/Probability-Statistical-Inference-10th-Robert/dp/013518939X/ref=sr_1_1?crid=39JDK8C3NXWKO&keywords=Probability+and+Statistical+Inference&qid=1683810320&s=books&sprefix=probability+and+statistical+inference%2Cstripbooks%2C67&sr=1-1)
 - Supplementary textbooks: 
@@ -21,7 +21,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-03-07,12:38)
+(Last update: 2024-03-14,05:20)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
@@ -40,6 +40,8 @@ posttype: "teaching"
 - [Table for random variables](m3215-distribution-1.pdf)
 
 **Midterm Exam 2: Thursday, Apr 4, In-class**
+- Coverage: From Section 3.1 to Section 5.1 
+- [Sample Exam](m3215-exam-2-sm23.pdf), [Answers](m3215-exam-2-sm23-sol.pdf)
 
 **Final Exam**
 - Section A: Thursday, May 2 8:00 AM - 10:50 AM, Instructional 111
@@ -62,12 +64,12 @@ posttype: "teaching"
 | 6    | 2/12-2/16 | Review, 3.1      | **Midterm 1**    |                   |
 | 7    | 2/19-2/23 | 3.1              | 3.2              | HW5               |
 | 8    | 2/26-3/1  | 3.3              | 3.4              | HW6               |
-| 9    | 3/4-3/8   | 4.1              | 4.2-3            | HW7               |
-| 10   | 3/11-3/15 | 4.4              | 4.5              | HW8               |
+| 9    | 3/4-3/8   | 4.1              | 4.2              | HW7               |
+| 10   | 3/11-3/15 | 4.3              | 4.4              | HW8               |
 | 11   | 3/18-3/22 | **Spring Break** | **Spring Break** |                   |
-| 12   | 3/25-3/29 | 5.1-2            | 5.3              | HW9               |
-| 13   | 4/1-4/5   | 5.4              | **Midterm 2**    |                   |
-| 14   | 4/8-4/12  | 5.6              | 5.7-8            | HW10              |
+| 12   | 3/25-3/29 | 4.5              | 5.1-2            | HW9               |
+| 13   | 4/1-4/5   | Review           | **Midterm 2**    |                   |
+| 14   | 4/8-4/12  | 5.3-6            | 5.7-8            | HW10              |
 | 15   | 4/15-4/19 | 6.3              | 6.4              | HW11 (no grading) |
 | 16   | 4/22-4/26 | 7.1              | Reading Period   |                   |
 
