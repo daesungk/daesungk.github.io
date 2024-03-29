@@ -21,7 +21,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-03-28,12:43)
+(Last update: 2024-03-29,04:44)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
@@ -44,7 +44,8 @@ posttype: "teaching"
 - [Sample Exam](m3215-exam-2-sm23.pdf), [Answers](m3215-exam-2-sm23-sol.pdf)
 - [Practice Problem set 1](m3215-exam2-practice-1.pdf)
 - [Practice Problem set 2](m3215-exam2-practice-2.pdf)
-- [Practice Problem set combined](m3215-exam2-practice-comb.pdf)
+- [Practice Problem set combined](m3215-exam2-practice-comb.pdf), [Solution](m3215-exam2-practice-comb-sol.pdf)
+- [Table for random variables](m3215-supp-2.pdf)
 
 **Final Exam**
 - Section A: Thursday, May 2 8:00 AM - 10:50 AM, Instructional 111
