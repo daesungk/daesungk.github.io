@@ -21,7 +21,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-04-10,05:35)
+(Last update: 2024-04-11,11:35)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
@@ -71,11 +71,11 @@ posttype: "teaching"
 | 9    | 3/4-3/8   | 4.1              | 4.2              | HW7               |
 | 10   | 3/11-3/15 | 4.3              | 4.4              | HW8               |
 | 11   | 3/18-3/22 | **Spring Break** | **Spring Break** |                   |
-| 12   | 3/25-3/29 | 4.5              | 5.1-2            | HW9               |
+| 12   | 3/25-3/29 | 4.5              | 5.1              | HW9               |
 | 13   | 4/1-4/5   | Review           | **Midterm 2**    |                   |
-| 14   | 4/8-4/12  | 5.3-6            | 5.7-8            | HW10              |
-| 15   | 4/15-4/19 | 6.3              | 6.4              | HW11 (no grading) |
-| 16   | 4/22-4/26 | 7.1              | Reading Period   |                   |
+| 14   | 4/8-4/12  | 5.2-4            | 5.6,8            | HW10              |
+| 15   | 4/15-4/19 | 6.3-4            | 7.1-3            | HW11 (no grading) |
+| 16   | 4/22-4/26 | Review           | Reading Period   |                   |
 
 
 <style>
