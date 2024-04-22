@@ -21,7 +21,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-04-18,11:19)
+(Last update: 2024-04-22,18:39)
 
 | Chapter     | Blank                         | Annotated (Section A)     | Annotated (Section C)     |
 | -           | :-:                           | :-:                       | :-:                       |
@@ -51,7 +51,7 @@ posttype: "teaching"
 - Section A: Thursday, May 2 8:00 AM - 10:50 AM, Instructional 111
 - Section C: Monday, Apr 29 8:00 AM - 10:50 AM, Instructional 115
 - [Sample Exam](m3215-exam-3-sm23.pdf), [Answers](m3215-exam-3-sm23-sol.pdf)
-- [Practice Problem set](m3215-exam3-practice.pdf)
+- [Practice Problem set](m3215-exam3-practice.pdf), [Solution](m3215-exam3-practice-sol.pdf)
 
 ### Grading Policy
 
