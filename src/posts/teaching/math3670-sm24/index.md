@@ -16,7 +16,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-05-13,12:15)
+(Last update: 2024-05-15,08:02)
 
 | Chapter     | Blank                         | Annotated (Section A)     |
 | -           | :-:                           | :-:                       |
@@ -36,12 +36,14 @@ posttype: "teaching"
 - [practice 3](https://bonetto.math.gatech.edu/teaching/3770-spring10/mid3770_2.pdf), [solution](https://bonetto.math.gatech.edu/teaching/3770-spring10/sol3770_2.pdf)
 - [practice 4](https://bonetto.math.gatech.edu/teaching/3770-spring10/ptest3770_2.pdf), [solution](https://bonetto.math.gatech.edu/teaching/3770-spring10/psol3770_2.pdf)
 
+**Final Exam: Monday, July 29 11:20 AM - 2:10 PM**
+
 
 ### Grading Policy
 
 - HW: 20% (weekly, the lowest one HW will be dropped.)
 - Two Midterms: 20% (lower), 25% (6/6, 6/27 in class)
-- Final: 35% (TBA)
+- Final: 35% (7/29)
 
 ### Tentative Course Schedule
 
