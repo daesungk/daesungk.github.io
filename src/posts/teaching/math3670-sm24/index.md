@@ -16,12 +16,13 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-05-24,07:04)
+(Last update: 2024-05-27,14:38)
 
 | Chapter     | Blank                         | Annotated (Section A)     |
 | -           | :-:                           | :-:                       |
 | Chapter 1   | [pdf](m3670-chap1-blank.pdf)  | [pdf](m3670-chap1.pdf)    |
 | Chapter 2   | [pdf](m3670-chap2-blank.pdf)  | [pdf](m3670-chap2.pdf)    |
+| Chapter 3   | [pdf](m3670-chap3-blank.pdf)  | [pdf](m3670-chap3.pdf)    |
 
 ### Exams
 **Midterm Exam 1: Thursday, June 6, In-class**
@@ -50,8 +51,8 @@ posttype: "teaching"
 | Week | Date    | TUE     | THU           | HW Due |
 | ---  | ---     | ---     | ---           | ---    |
 | 1    | 5/13-17 | 1.1-2   | 1.3-4         |        |
-| 2    | 5/19-24 | 2.1-2   | 2.3-5         | HW1    |
-| 3    | 5/27-31 | 3.1-2   | 3.3-4         | HW2    |
+| 2    | 5/19-24 | 2.1-2   | 2.2-4         | HW1    |
+| 3    | 5/27-31 | 2.4-3.1 | 3.2-4         | HW2    |
 | 4    | 6/3-7   | 3.5-6   | **Midterm 1** |        |
 | 5    | 6/10-14 | 4.1-2   | 4.3-4         | HW3    |
 | 6    | 6/17-21 | 4.6-5.1 | 5.2-3         | HW4    |
