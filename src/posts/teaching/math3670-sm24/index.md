@@ -16,7 +16,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-06-13,14:44)
+(Last update: 2024-06-15,22:34)
 
 | Chapter     | Blank                         | Annotated (Section A)     |
 | -           | :-:                           | :-:                       |
@@ -24,6 +24,7 @@ posttype: "teaching"
 | Chapter 2   | [pdf](m3670-chap2-blank.pdf)  | [pdf](m3670-chap2.pdf)    |
 | Chapter 3   | [pdf](m3670-chap3-blank.pdf)  | [pdf](m3670-chap3.pdf)    |
 | Chapter 4   | [pdf](m3670-chap4-blank.pdf)  | [pdf](m3670-chap4.pdf)    |
+| Chapter 5   | [pdf](m3670-chap5-blank.pdf)  | [pdf](m3670-chap5.pdf)    |
 
 ### Exams
 **Midterm Exam 1: Thursday, June 6, In-class**
