@@ -16,7 +16,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-06-20,14:55)
+(Last update: 2024-06-22,14:21)
 
 | Chapter     | Blank                         | Annotated (Section A)     |
 | -           | :-:                           | :-:                       |
@@ -25,6 +25,7 @@ posttype: "teaching"
 | Chapter 3   | [pdf](m3670-chap3-blank.pdf)  | [pdf](m3670-chap3.pdf)    |
 | Chapter 4   | [pdf](m3670-chap4-blank.pdf)  | [pdf](m3670-chap4.pdf)    |
 | Chapter 5   | [pdf](m3670-chap5-blank.pdf)  | [pdf](m3670-chap5.pdf)    |
+| Chapter 6   | [pdf](m3670-chap6-blank.pdf)  | [pdf](m3670-chap6.pdf)    |
 
 ### Exams
 **Midterm Exam 1: Thursday, June 6, In-class**
@@ -38,6 +39,7 @@ posttype: "teaching"
 - [practice 2](https://bonetto.math.gatech.edu/teaching/3770-spring10/mid2p.pdf), [solution](https://bonetto.math.gatech.edu/teaching/3770-spring10/sol2p.pdf)
 - [practice 3](https://bonetto.math.gatech.edu/teaching/3770-spring10/mid3770_2.pdf), [solution](https://bonetto.math.gatech.edu/teaching/3770-spring10/sol3770_2.pdf)
 - [practice 4](https://bonetto.math.gatech.edu/teaching/3770-spring10/ptest3770_2.pdf), [solution](https://bonetto.math.gatech.edu/teaching/3770-spring10/psol3770_2.pdf)
+- [practice 5](https://daesungk.github.io/fee70225156cd8deda349337f36364f1/m3215-exam-2-sm23.pdf), [solution](https://daesungk.github.io/95a908035d771f9dc9f260a22d07fffe/m3215-exam-2-sm23-sol.pdf)
 
 **Final Exam: Monday, July 29 11:20 AM - 2:10 PM**
 
@@ -50,19 +52,19 @@ posttype: "teaching"
 
 ### Tentative Course Schedule
 
-| Week | Date    | TUE        | THU           | HW Due |
-| ---  | ---     | ---        | ---           | ---    |
-| 1    | 5/13-17 | 1.1-2      | 1.3-4         |        |
-| 2    | 5/19-24 | 2.1-2      | 2.2-4         | HW1    |
-| 3    | 5/27-31 | 2.4-3.1    | 3.2-3         | HW2    |
-| 4    | 6/3-7   | 3.3-4      | **Midterm 1** |        |
-| 5    | 6/10-14 | 3.5-6      | 4.1-2         | HW3    |
-| 6    | 6/17-21 | 4.3-4, 6   | 5.1-2         | HW4    |
-| 7    | 6/24-28 | 5.4-5      | **Midterm 2** |        |
-| 8    | 7/1-5   | 6.1-2      | **No class**  | HW5    |
-| 9    | 7/8-12  | 7.1-2      | 7.3, 8.1      | HW6    |
-| 10   | 7/15-19 | 8.2-3      | Review        | HW7    |
-| 11   | 7/22-26 | Review     |               |        |
+| Week | Date    | TUE      | THU           | HW Due |
+| ---  | ---     | ---      | ---           | ---    |
+| 1    | 5/13-17 | 1.1-2    | 1.3-4         |        |
+| 2    | 5/19-24 | 2.1-2    | 2.2-4         | HW1    |
+| 3    | 5/27-31 | 2.4-3.1  | 3.2-3         | HW2    |
+| 4    | 6/3-7   | 3.3-4    | **Midterm 1** |        |
+| 5    | 6/10-14 | 3.5-6    | 4.1-2         | HW3    |
+| 6    | 6/17-21 | 4.3-4    | 4.6-5.1       | HW4    |
+| 7    | 6/24-28 | 5.1-2    | **Midterm 2** |        |
+| 8    | 7/1-5   | 5.4-5    | **No class**  | HW5    |
+| 9    | 7/8-12  | 6.1-2    | 7.1-2         | HW6    |
+| 10   | 7/15-19 | 7.3, 8.1 | 8.2-3         | HW7    |
+| 11   | 7/22-26 | Review   |               |        |
 
 
 
