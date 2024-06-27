@@ -16,7 +16,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-06-26,12:41)
+(Last update: 2024-06-27,14:43)
 
 | Chapter     | Blank                         | Annotated (Section A)     |
 | -           | :-:                           | :-:                       |
@@ -60,9 +60,9 @@ posttype: "teaching"
 | 4    | 6/3-7   | 3.3-4         | **Midterm 1** |        |
 | 5    | 6/10-14 | 3.5-6         | 4.1-2         | HW3    |
 | 6    | 6/17-21 | 4.3-4         | 4.6-5.1       | HW4    |
-| 7    | 6/24-28 | 5.1-2         | 5.4-5         |        |
+| 7    | 6/24-28 | 5.1-2         | 5.2,4         |        |
 | 8    | 7/1-5   | **Midterm 2** | **No class**  | HW5    |
-| 9    | 7/8-12  | 6.1-2         | 7.1-2         | HW6    |
+| 9    | 7/8-12  | 5.5, 6.1-2    | 7.1-2         | HW6    |
 | 10   | 7/15-19 | 7.3, 8.1      | 8.2-3         | HW7    |
 | 11   | 7/22-26 | Review        |               |        |
 
