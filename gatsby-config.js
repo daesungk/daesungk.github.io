@@ -3,6 +3,19 @@ module.exports = {
         title: `Daesung Kim`, 
     },
     plugins: [
+        {
+            resolve: `gatsby-plugin-google-gtag`,
+            options: {
+            trackingIds: [
+                "G-F9Q6XRHQPQ",
+                ],
+            pluginConfig: {
+                head: true,
+                respectDNT: true,
+                exclude: ["/preview/**", "/do-not-track/me/too/"],
+                },
+            },
+        },
         {   
             resolve: `gatsby-plugin-google-analytics`, 
             options: { 

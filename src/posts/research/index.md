@@ -14,12 +14,12 @@ My papers on arXiv can be found [here](https://arxiv.org/a/kim_d_6.html).
 
 ##### Publications and Preprints
 
-1. **On the principal eigenvalue for compound Poisson processes**<br>
+1. **Curie–Weiss model under $\ell^p$-constraint and a Generalized Hubbard--Stratonovich Transform**<br>
+   (with [Partha Dey](http://psdey.web.illinois.edu)) *preprint* (2024). [[arxiv]](https://arxiv.org/abs/2407.04875)
+2. **On the principal eigenvalue for compound Poisson processes**<br>
    (with [Hyunchul Park](https://sites.google.com/view/hpark/home)) *submitted* (2024).   [[arxiv]](https://arxiv.org/abs/2405.20571)
-2. **On discrete second order Riesz transforms**<br>
+3. **On discrete second order Riesz transforms**<br>
    (with [Rodrigo Bañuelos](https://www.math.purdue.edu/people/bio/banuelos/home)) *preprint* (2024).
-3. **Curie–Weiss model under $\ell^p$-constraint**<br>
-   (with [Partha Dey](http://psdey.web.illinois.edu)) *preprint* (2024).
 4. **Collaboration of random walks on graphs**<br>
    (with [Partha Dey](http://psdey.web.illinois.edu), [Grigory Terlov](https://sites.google.com/view/gterlov/home)) *submitted* (2023).   [[arxiv]](https://arxiv.org/abs/2302.14241)
 5. **Sharp $\ell^p$ inequalities for discrete singular integrals**<br>
