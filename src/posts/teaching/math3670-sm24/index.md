@@ -16,7 +16,7 @@ posttype: "teaching"
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-07-23,11:03)
+(Last update: 2024-07-23,16:34)
 
 | Chapter        | Blank                            | Annotated (Section A)      |
 | -              | :-:                              | :-:                        |
