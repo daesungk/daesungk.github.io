@@ -5,6 +5,7 @@ title: "Teaching"
 ##### Teaching at GaTech
 |             |                                                                          |
 | ---         | ---                                                                      |
+| Fall 2024   | [MATH 1554: Linear algebra](math1554-f24)                                |
 | Summer 2024 | [MATH 3670: Probability and Statistics with Applications](math3670-sm24) |
 | Spring 2024 | [MATH 3215: Introduction to Probability and Statistics](math3215-s24)    |
 | Fall 2023   | [MATH 1554: Linear algebra](math1554-f23)                                |
