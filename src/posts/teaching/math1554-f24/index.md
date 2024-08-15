@@ -24,7 +24,7 @@ posttype: "teaching"
 - [Sal's webpage](https://sbarone7.math.gatech.edu/ma1554f24.html)
  
 ### Lecture Slides
-(Last update: 2023-12-04,22:37)
+(Last update: 2024-08-14,21:55)
 
 | Chapter | Blank | Section B | Section K |
 | -       | :-:   | :-:       | :-:       |
