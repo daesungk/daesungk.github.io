@@ -12,6 +12,7 @@ posttype: "teaching"
 - Time and Place: Section B, MWF 8:25am, Weber SST III 1 / Section K, MWF 2:00pm, Instructional Center 111
 - Office Hour: TBA
 - Textbook: Lay, Linear Algebra and its Applications, 5th Edition
+- [Overview](overview.pdf)
 
 ### Links
 - [Syllabus](https://gatech.instructure.com/courses/114544/pages/common-syllabus-fall-2024)
@@ -22,14 +23,30 @@ posttype: "teaching"
 - [Supplementary Lecture Videos](https://gatech.instructure.com/courses/114544/modules)
 - [Sample Exams](https://gatech.instructure.com/courses/114544/pages/sample-exams)
 - [Sal's webpage](https://sbarone7.math.gatech.edu/ma1554f24.html)
+- [Piazza](https://piazza.com/class/lz8sip014c46zt)
+- [Gradescope](https://www.gradescope.com/courses/814142)
  
 ### Lecture Slides
-(Last update: 2024-08-14,21:55)
+(Last update: 2024-08-15,14:13)
 
-| Chapter | Blank | Section B | Section K |
-| -       | :-:   | :-:       | :-:       |
-|         |       |           |           |
-
+| Week         | Blank                                | Section B                          | Section K                          |
+| -            | :-:                                  | :-:                                | :-:                                |
+| 1            | [pdf](m1554-lecture-w1-blank.pdf)    | [pdf](m1554-lecture-w1-B.pdf)      | [pdf](m1554-lecture-w1-K.pdf)      |
+| 2            | [pdf](m1554-lecture-w2-blank.pdf)    | [pdf](m1554-lecture-w2-B.pdf.pdf)  | [pdf](m1554-lecture-w2-K.pdf.pdf)  |
+| 3            | [pdf](m1554-lecture-w3-blank.pdf)    | [pdf](m1554-lecture-w3-B.pdf.pdf)  | [pdf](m1554-lecture-w3-K.pdf.pdf)  |
+| 4            | [pdf](m1554-lecture-w4-blank.pdf)    | [pdf](m1554-lecture-w4-B.pdf.pdf)  | [pdf](m1554-lecture-w4-K.pdf.pdf)  |
+| 5            | [pdf](m1554-lecture-w5-blank.pdf)    | [pdf](m1554-lecture-w5-B.pdf.pdf)  | [pdf](m1554-lecture-w5-K.pdf.pdf)  |
+| 6            | [pdf](m1554-lecture-w6-blank.pdf)    | [pdf](m1554-lecture-w6-B.pdf.pdf)  | [pdf](m1554-lecture-w6-K.pdf.pdf)  |
+| 7            | [pdf](m1554-lecture-w7-blank.pdf)    | [pdf](m1554-lecture-w7-B.pdf.pdf)  | [pdf](m1554-lecture-w7-K.pdf.pdf)  |
+| 8            | [pdf](m1554-lecture-w8-blank.pdf)    | [pdf](m1554-lecture-w8-B.pdf.pdf)  | [pdf](m1554-lecture-w8-K.pdf.pdf)  |
+| 9            | [pdf](m1554-lecture-w9-blank.pdf)    | [pdf](m1554-lecture-w9-B.pdf.pdf)  | [pdf](m1554-lecture-w9-K.pdf.pdf)  |
+| 10           | [pdf](m1554-lecture-w10-blank.pdf)   | [pdf](m1554-lecture-w10-B.pdf)     | [pdf](m1554-lecture-w10-K.pdf)     |
+| 11           | [pdf](m1554-lecture-w11-blank.pdf)   | [pdf](m1554-lecture-w11-B.pdf.pdf) | [pdf](m1554-lecture-w11-K.pdf.pdf) |
+| 12           | [pdf](m1554-lecture-w12-blank.pdf)   | [pdf](m1554-lecture-w12-B.pdf.pdf) | [pdf](m1554-lecture-w12-K.pdf.pdf) |
+| 13           | [pdf](m1554-lecture-w13-blank.pdf)   | [pdf](m1554-lecture-w13-B.pdf.pdf) | [pdf](m1554-lecture-w13-K.pdf.pdf) |
+| 14-15        | [pdf](m1554-lecture-w14-blank.pdf)   | [pdf](m1554-lecture-w14-B.pdf.pdf) | [pdf](m1554-lecture-w14-K.pdf.pdf) |
+| Final Review | [pdf](m1554-lecture-final-blank.pdf) | [pdf](m1554-lecture-final-B.pdf)   | [pdf](m1554-lecture-final-K.pdf)   |
+ 
 
 ### Tentative Course Schedule
 | Week | Date        | MON          | WED            | FRI            |
