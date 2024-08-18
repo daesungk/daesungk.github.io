@@ -27,25 +27,21 @@ posttype: "teaching"
 - [Gradescope](https://www.gradescope.com/courses/814142)
  
 ### Lecture Slides
-(Last update: 2024-08-15,14:13)
+(Last update: 2024-08-18,08:04)
 
-| Week         | Blank                                | Section B                          | Section K                          |
-| -            | :-:                                  | :-:                                | :-:                                |
-| 1            | [pdf](m1554-lecture-w1-blank.pdf)    | [pdf](m1554-lecture-w1-B.pdf)      | [pdf](m1554-lecture-w1-K.pdf)      |
-| 2            | [pdf](m1554-lecture-w2-blank.pdf)    | [pdf](m1554-lecture-w2-B.pdf.pdf)  | [pdf](m1554-lecture-w2-K.pdf.pdf)  |
-| 3            | [pdf](m1554-lecture-w3-blank.pdf)    | [pdf](m1554-lecture-w3-B.pdf.pdf)  | [pdf](m1554-lecture-w3-K.pdf.pdf)  |
-| 4            | [pdf](m1554-lecture-w4-blank.pdf)    | [pdf](m1554-lecture-w4-B.pdf.pdf)  | [pdf](m1554-lecture-w4-K.pdf.pdf)  |
-| 5            | [pdf](m1554-lecture-w5-blank.pdf)    | [pdf](m1554-lecture-w5-B.pdf.pdf)  | [pdf](m1554-lecture-w5-K.pdf.pdf)  |
-| 6            | [pdf](m1554-lecture-w6-blank.pdf)    | [pdf](m1554-lecture-w6-B.pdf.pdf)  | [pdf](m1554-lecture-w6-K.pdf.pdf)  |
-| 7            | [pdf](m1554-lecture-w7-blank.pdf)    | [pdf](m1554-lecture-w7-B.pdf.pdf)  | [pdf](m1554-lecture-w7-K.pdf.pdf)  |
-| 8            | [pdf](m1554-lecture-w8-blank.pdf)    | [pdf](m1554-lecture-w8-B.pdf.pdf)  | [pdf](m1554-lecture-w8-K.pdf.pdf)  |
-| 9            | [pdf](m1554-lecture-w9-blank.pdf)    | [pdf](m1554-lecture-w9-B.pdf.pdf)  | [pdf](m1554-lecture-w9-K.pdf.pdf)  |
-| 10           | [pdf](m1554-lecture-w10-blank.pdf)   | [pdf](m1554-lecture-w10-B.pdf)     | [pdf](m1554-lecture-w10-K.pdf)     |
-| 11           | [pdf](m1554-lecture-w11-blank.pdf)   | [pdf](m1554-lecture-w11-B.pdf.pdf) | [pdf](m1554-lecture-w11-K.pdf.pdf) |
-| 12           | [pdf](m1554-lecture-w12-blank.pdf)   | [pdf](m1554-lecture-w12-B.pdf.pdf) | [pdf](m1554-lecture-w12-K.pdf.pdf) |
-| 13           | [pdf](m1554-lecture-w13-blank.pdf)   | [pdf](m1554-lecture-w13-B.pdf.pdf) | [pdf](m1554-lecture-w13-K.pdf.pdf) |
-| 14-15        | [pdf](m1554-lecture-w14-blank.pdf)   | [pdf](m1554-lecture-w14-B.pdf.pdf) | [pdf](m1554-lecture-w14-K.pdf.pdf) |
-| Final Review | [pdf](m1554-lecture-final-blank.pdf) | [pdf](m1554-lecture-final-B.pdf)   | [pdf](m1554-lecture-final-K.pdf)   |
+|                  | Blank                           | Section B                   | Section K                   |
+| -                | :-:                             | :-:                         | :-:                         |
+| Chapter 1        | [pdf](m1554-ch1-blank.pdf)      | [pdf](m1554-ch1-B.pdf)      | [pdf](m1554-ch1-K.pdf)      |
+| Chapter 2        | [pdf](m1554-ch2-blank.pdf)      | [pdf](m1554-ch2-B.pdf)      | [pdf](m1554-ch2-K.pdf)      |
+| Chapter 3        | [pdf](m1554-ch3-blank.pdf)      | [pdf](m1554-ch3-B.pdf)      | [pdf](m1554-ch3-K.pdf)      |
+| Chapter 4        | [pdf](m1554-ch4-blank.pdf)      | [pdf](m1554-ch4-B.pdf)      | [pdf](m1554-ch4-K.pdf)      |
+| Chapter 5        | [pdf](m1554-ch5-blank.pdf)      | [pdf](m1554-ch5-B.pdf)      | [pdf](m1554-ch5-K.pdf)      |
+| Chapter 6        | [pdf](m1554-ch6-blank.pdf)      | [pdf](m1554-ch6-B.pdf)      | [pdf](m1554-ch6-K.pdf)      |
+| PageRank         | [pdf](m1554-pagerank-blank.pdf) | [pdf](m1554-pagerank-B.pdf) | [pdf](m1554-pagerank-K.pdf) |
+| Chapter 7        | [pdf](m1554-ch7-blank.pdf)      | [pdf](m1554-ch7-B.pdf)      | [pdf](m1554-ch7-K.pdf)      |
+| Midterm 1 Review | [pdf](m1554-m1review-blank.pdf) | [pdf](m1554-m1review-B.pdf) | [pdf](m1554-m1review-K.pdf) |
+| Midterm 2 Review | [pdf](m1554-m2review-blank.pdf) | [pdf](m1554-m2review-B.pdf) | [pdf](m1554-m2review-K.pdf) |
+| Midterm 3 Review | [pdf](m1554-m3review-blank.pdf) | [pdf](m1554-m3review-B.pdf) | [pdf](m1554-m3review-K.pdf) |
  
 
 ### Tentative Course Schedule
