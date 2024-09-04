@@ -27,14 +27,14 @@ My papers on arXiv can be found [here](https://arxiv.org/a/kim_d_6.html).
 
 ##### Preprints
 1. **Curie–Weiss model under $\ell^p$-constraint and a Generalized Hubbard--Stratonovich Transform**<br>
-   (with [Partha Dey](http://psdey.web.illinois.edu)) *preprint* (2024). [[arxiv]](https://arxiv.org/abs/2407.04875)
+   (with [Partha Dey](http://psdey.web.illinois.edu)) *submitted* (2024). [[arxiv]](https://arxiv.org/abs/2407.04875)
 2. **On the principal eigenvalue for compound Poisson processes**<br>
    (with [Hyunchul Park](https://sites.google.com/view/hpark/home)) *preprint* (2024).  
 3. **On discrete second order Riesz transforms**<br>
    (with [Rodrigo Bañuelos](https://www.math.purdue.edu/people/bio/banuelos/home)) *preprint* (2024).
 4. **Collaboration of random walks on graphs**<br>
    (with [Partha Dey](http://psdey.web.illinois.edu), [Grigory Terlov](https://sites.google.com/view/gterlov/home)) *submitted* (2023).   [[arxiv]](https://arxiv.org/abs/2302.14241)
-5. **Sharp $\ell^p$ inequalities for discrete singular integrals**<br>
+5. **Sharp $\ell^p$ inequalities for discrete singular integrals on the lattice $\mathbb{Z}^d$**<br>
    (with [Rodrigo Bañuelos](https://www.math.purdue.edu/people/bio/banuelos/home), [Mateusz Kwaśnicki](http://prac.im.pwr.edu.pl/~kwasnicki/papers.php)) *submitted* (2022).    [[arxiv]](https://arxiv.org/abs/2209.09737)
 6. **Fluctuation results for size of the vacant set for random walks on discrete torus**<br>
    (with [Partha Dey](http://psdey.web.illinois.edu)) *submitted* (2021).       [[arxiv]](https://arxiv.org/abs/2108.06450)
