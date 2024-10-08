@@ -27,7 +27,7 @@ posttype: "teaching"
 - [Gradescope](https://www.gradescope.com/courses/814142)
  
 ### Lecture Slides
-(Last update: 2024-10-07,10:35)
+(Last update: 2024-10-08,08:07)
 
 |                  | Blank                           | Section B                   | Section K                   |
 | -                | :-:                             | :-:                         | :-:                         |
