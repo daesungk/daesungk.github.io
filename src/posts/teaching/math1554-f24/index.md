@@ -27,21 +27,22 @@ posttype: "teaching"
 - [Gradescope](https://www.gradescope.com/courses/814142)
  
 ### Lecture Slides
-(Last update: 2024-11-20,09:22)
+(Last update: 2024-11-20,09:51)
 
-|                  | Blank                           | Section B                   | Section K                   |
-| -                | :-:                             | :-:                         | :-:                         |
-| Chapter 1        | [pdf](m1554-ch1-blank.pdf)      | [pdf](m1554-ch1-B.pdf)      | [pdf](m1554-ch1-K.pdf)      |
-| Chapter 2        | [pdf](m1554-ch2-blank.pdf)      | [pdf](m1554-ch2-B.pdf)      | [pdf](m1554-ch2-K.pdf)      |
-| Chapter 3        | [pdf](m1554-ch3-blank.pdf)      | [pdf](m1554-ch3-B.pdf)      | [pdf](m1554-ch3-K.pdf)      |
-| Chapter 4        | [pdf](m1554-ch4-blank.pdf)      | [pdf](m1554-ch4-B.pdf)      | [pdf](m1554-ch4-K.pdf)      |
-| Chapter 5        | [pdf](m1554-ch5-blank.pdf)      | [pdf](m1554-ch5-B.pdf)      | [pdf](m1554-ch5-K.pdf)      |
-| Chapter 6        | [pdf](m1554-ch6-blank.pdf)      | [pdf](m1554-ch6-B.pdf)      | [pdf](m1554-ch6-K.pdf)      |
-| PageRank         | [pdf](m1554-pagerank-blank.pdf) | [pdf](m1554-pagerank-B.pdf) | [pdf](m1554-pagerank-K.pdf) |
-| Chapter 7        | [pdf](m1554-ch7-blank.pdf)      | [pdf](m1554-ch7-B.pdf)      | [pdf](m1554-ch7-K.pdf)      |
-| Midterm 1 Review | [pdf](m1554-m1review-blank.pdf) | [pdf](m1554-m1review-B.pdf) | [pdf](m1554-m1review-K.pdf) |
-| Midterm 2 Review | [pdf](m1554-m2review-blank.pdf) | [pdf](m1554-m2review-B.pdf) | [pdf](m1554-m2review-K.pdf) |
-| Midterm 3 Review | [pdf](m1554-m3review-blank.pdf) | [pdf](m1554-m3review-B.pdf) | [pdf](m1554-m3review-K.pdf) |
+|                   | Blank                              | Section B                      | Section K                       |
+| -                 | :-:                                | :-:                            | :-:                             |
+| Chapter 1         | [pdf](m1554-ch1-blank.pdf)         | [pdf](m1554-ch1-B.pdf)         | [pdf](m1554-ch1-K.pdf)          |
+| Chapter 2         | [pdf](m1554-ch2-blank.pdf)         | [pdf](m1554-ch2-B.pdf)         | [pdf](m1554-ch2-K.pdf)          |
+| Midterm 1 Review  | [pdf](m1554-m1review-blank.pdf)    | [pdf](m1554-m1review-B.pdf)    | [pdf](m1554-m1review-K.pdf)     |
+| Chapter 3         | [pdf](m1554-ch3-blank.pdf)         | [pdf](m1554-ch3-B.pdf)         | [pdf](m1554-ch3-K.pdf)          |
+| Chapter 4         | [pdf](m1554-ch4-blank.pdf)         | [pdf](m1554-ch4-B.pdf)         | [pdf](m1554-ch4-K.pdf)          |
+| Midterm 2 Review  | [pdf](m1554-m2review-blank.pdf)    | [pdf](m1554-m2review-B.pdf)    | [pdf](m1554-m2review-K.pdf)     |
+| Chapter 5         | [pdf](m1554-ch5-blank.pdf)         | [pdf](m1554-ch5-B.pdf)         | [pdf](m1554-ch5-K.pdf)          |
+| Chapter 6         | [pdf](m1554-ch6-blank.pdf)         | [pdf](m1554-ch6-B.pdf)         | [pdf](m1554-ch6-K.pdf)          |
+| Midterm 3 Review  | [pdf](m1554-m3review-blank.pdf)    | [pdf](m1554-m3review-B.pdf)    | [pdf](m1554-m3review-K.pdf)     |
+| PageRank          | [pdf](m1554-pagerank-blank.pdf)    | [pdf](m1554-pagerank-B.pdf)    | [pdf](m1554-pagerank-K.pdf)     |
+| Chapter 7         | [pdf](m1554-ch7-blank.pdf)         | [pdf](m1554-ch7-B.pdf)         | [pdf](m1554-ch7-K.pdf)          |
+| Final Exam Review | [pdf](m1554-finalreview-blank.pdf) | [pdf](m1554-finalreview-B.pdf) | [pdf](m1554-finalreview-K.pdf) |
  
 
 ### Tentative Course Schedule
