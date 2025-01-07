@@ -12,22 +12,22 @@ posttype: "teaching"
 - Time and Place: TR 2:00-3:15pm, Mason	1133 
 - Office Hour: TBA
 - Textbook: Jay L. Devore, Probability and Statistics for Engineering and the Sciences, 8th ed., Thomson, [Amazon link](https://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/0538733527)
-- [Syllabus](syllabus.pdf)
+- [Syllabus](m3670-syllabus.pdf)
 - Canvas: https://canvas.gatech.edu
 
 ### Lecture slides
-(Last update: 2024-12-17,16:19)
+(Last update: 2025-01-07,10:17)
 
-| Chapter        | Blank | Annotated |
-| -              | :-:   | :-:       |
-| Chapter 1      |       |           |
-| Chapter 2      |       |           |
-| Chapter 3      |       |           |
-| Chapter 4      |       |           |
-| Chapter 5      |       |           |
-| Chapter 6      |       |           |
-| Chapter 7      |       |           |
-| Final Practice |       |           |
+| Chapter        | Blank                       | Annotated             |
+| -              | :-:                         | :-:                   |
+| Chapter 1      | [pdf](m3670-lec1-blank.pdf) | [pdf](m3670-lec1.pdf) |
+| Chapter 2      |                             |                       |
+| Chapter 3      |                             |                       |
+| Chapter 4      |                             |                       |
+| Chapter 5      |                             |                       |
+| Chapter 6      |                             |                       |
+| Chapter 7      |                             |                       |
+| Final Practice |                             |                       |
 
 ### Exams
 **Midterm Exam 1: Thursday, February 20, In-class**
@@ -40,7 +40,7 @@ posttype: "teaching"
 ### Grading Policy
 
 - HW: 20% (weekly, the lowest one HW will be dropped.)
-- Two Midterms: 20% (lower), 25% (6/6, 6/27 in class)
+- Two Midterms: 20% (lower), 25% 
 - Final: 35% (7/29)
 
 ### Tentative Course Schedule
