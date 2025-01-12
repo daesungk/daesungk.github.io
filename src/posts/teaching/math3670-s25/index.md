@@ -14,14 +14,15 @@ posttype: "teaching"
 - Textbook: Jay L. Devore, Probability and Statistics for Engineering and the Sciences, 8th ed., Thomson, [Amazon link](https://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/0538733527)
 - [Syllabus](m3670-syllabus.pdf)
 - Canvas: https://canvas.gatech.edu
+- Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-01-11,23:37)
+(Last update: 2025-01-11,23:55)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
 | Chapter 1      | [pdf](m3670-lec1-blank.pdf) | [pdf](m3670-lec1.pdf) |
-| Chapter 2      |                             |                       |
+| Chapter 2      | [pdf](m3670-lec2-blank.pdf) | [pdf](m3670-lec2.pdf) |
 | Chapter 3      |                             |                       |
 | Chapter 4      |                             |                       |
 | Chapter 5      |                             |                       |
@@ -47,8 +48,8 @@ posttype: "teaching"
 
 | Week | Date     | TUE          | THU           | HW Due |
 | ---  | ---      | ---          | ---           | ---    |
-| 1    | 1/6-10   | 1.1-2        | 1.3           |        |
-| 2    | 1/13-17  | 1.4          | 2.1           | HW1    |
+| 1    | 1/6-10   | 1.1-2        | 1.3-4         |        |
+| 2    | 1/13-17  | 1.4-2.1      | 2.1-2         | HW1    |
 | 3    | 1/20-24  | 2.3          | 2.4           | HW2    |
 | 4    | 1/27-31  | 2.5          | 3.1           | HW3    |
 | 5    | 2/3-7    | 3.2          | 3.3           | HW4    |
