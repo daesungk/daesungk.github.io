@@ -17,7 +17,7 @@ posttype: "teaching"
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-01-14,19:22)
+(Last update: 2025-01-14,20:43)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
