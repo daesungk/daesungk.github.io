@@ -17,13 +17,13 @@ posttype: "teaching"
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-01-14,20:43)
+(Last update: 2025-01-16,15:44)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
 | Chapter 1      | [pdf](m3670-lec1-blank.pdf) | [pdf](m3670-lec1.pdf) |
 | Chapter 2      | [pdf](m3670-lec2-blank.pdf) | [pdf](m3670-lec2.pdf) |
-| Chapter 3      |                             |                       |
+| Chapter 3      | [pdf](m3670-lec3-blank.pdf) | [pdf](m3670-lec3.pdf) |
 | Chapter 4      |                             |                       |
 | Chapter 5      |                             |                       |
 | Chapter 6      |                             |                       |
