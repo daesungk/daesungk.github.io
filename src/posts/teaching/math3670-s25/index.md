@@ -10,14 +10,14 @@ posttype: "teaching"
 - Instructor: Daesung Kim ([dkim3009 (at) gatech.edu](mailto:dkim3009@gatech.edu))
 - Office: Skiles 023
 - Time and Place: TR 2:00-3:15pm, Mason	1133 
-- Office Hour: TBA
+- Office Hour: Monday at 3pm in Zoom (the link can be found in Canvas) / Thursday at 11am in person (Skiles 023)
 - Textbook: Jay L. Devore, Probability and Statistics for Engineering and the Sciences, 8th ed., Thomson, [Amazon link](https://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/0538733527)
 - [Syllabus](m3670-syllabus.pdf)
 - Canvas: https://canvas.gatech.edu
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-01-23,23:23)
+(Last update: 2025-01-24,10:27)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
@@ -52,8 +52,8 @@ posttype: "teaching"
 | ---  | ---      | ---          | ---           | ---    |
 | 1    | 1/6-10   | 1.1-2        | 1.3-4         |        |
 | 2    | 1/13-17  | 1.4-2.1      | 2.1-2         | HW1    |
-| 3    | 1/20-24  | 2.3          | 2.4           | HW2    |
-| 4    | 1/27-31  | 2.5          | 3.1           | HW3    |
+| 3    | 1/20-24  | 2.3-4        | 2.4-5         | HW2    |
+| 4    | 1/27-31  | 2.5-3.1      | 3.1           | HW3    |
 | 5    | 2/3-7    | 3.2          | 3.3           | HW4    |
 | 6    | 2/10-14  | 3.4          | 3.5-6         | HW5    |
 | 7    | 2/17-21  | Review       | **Midterm 1** |        |
