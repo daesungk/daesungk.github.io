@@ -30,47 +30,46 @@ My papers on arXiv can be found [here](https://arxiv.org/a/kim_d_6.html).
 ##### Preprints
 1. **Curie–Weiss model under $\ell^p$-constraint and a Generalized Hubbard--Stratonovich Transform**<br>
    (with [Partha Dey](http://psdey.web.illinois.edu)) *submitted* (2024). [[arxiv]](https://arxiv.org/abs/2407.04875)
-2. **On the principal eigenvalue for compound Poisson processes**<br>
-   (with [Hyunchul Park](https://sites.google.com/view/hpark/home)) *preprint* (2024).  
-3. **On discrete second order Riesz transforms**<br>
+2. **On discrete second order Riesz transforms**<br>
    (with [Rodrigo Bañuelos](https://www.math.purdue.edu/people/bio/banuelos/home)) *preprint* (2024).
-4. **Collaboration of random walks on graphs**<br>
+3. **Collaboration of random walks on graphs**<br>
    (with [Partha Dey](http://psdey.web.illinois.edu), [Grigory Terlov](https://sites.google.com/view/gterlov/home)) *submitted* (2023).   [[arxiv]](https://arxiv.org/abs/2302.14241)
-5. **Sharp $\ell^p$ inequalities for discrete singular integrals on the lattice $\mathbb{Z}^d$**<br>
+4. **Sharp $\ell^p$ inequalities for discrete singular integrals on the lattice $\mathbb{Z}^d$**<br>
    (with [Rodrigo Bañuelos](https://www.math.purdue.edu/people/bio/banuelos/home), [Mateusz Kwaśnicki](http://prac.im.pwr.edu.pl/~kwasnicki/papers.php)) *submitted* (2022).    [[arxiv]](https://arxiv.org/abs/2209.09737)
 
 
 
 ##### Talks
 
-1. Analysis, PDE and Probability Seminar,  KIAS, South Korea,  January 2024.   
-2. Probability Winter School in Korea 2023, KIAS, South Korea, December 2023
-3. Probability Seminar, Seoul National University, South Korea, December 2023
-4. Analysis Seminar, University of Belgrade, Serbia, in Zoom, December 2023
-5. SIAM Great Lakes Meeting, Michigan State University, October 2023
-6. Stochastic Seminar,  Georgia Institute of Technology,  September 2023.   
-7. Probability seminar,  Purdue University,  May 2023.   
-8. Probability seminar,  University of Illinois at Urbana–Champaign,  May 2023.   
-9. Stochastic Seminar,  Georgia Institute of Technology,  November 2022.   
-10. Analysis, PDE and Probability Seminar,  KIAS, South Korea,  June 2022.   
-11. Probability Seminar,  Seoul National University,  May 2022.   
-12. Undergraduate Seminar,  University of Illinois at Urbana-Champaign,  April 2022. 
-13. AMS Spring Central Virtual Sectional Meeting, Special session on the Interface Between Nonlinear PDEs, Harmonic Analysis, and Quantitative Geometric and Functional Inequalities,  Mar 2022.   
-14. AMS Spring Central Virtual Sectional Meeting, Special session on Spectral Estimation and Optimization,  Mar 2022.   
-15. Analysis Seminar,  University of Illinois at Chicago,  Mar 2022.   
-16. Probability Seminar,  University of Illinois at Urbana–Champaign,  Oct 2021.   
-17. AMS Spring Central Sectional Meeting, Special session on Probabilistic and diffusion methods in analysis and geometry,  University of Cincinnati, in Zoom,  Apr 2021.   
-18. Theory of Markov Semigroups and Schrödinger Operators,  Wrocław University of Technology, in Zoom,  Mar 2021. 
-19. Geometric and functional inequalities and recent topics in nonlinear PDEs,  Purdue University, in Zoom,  Mar 2021.
-20. Seminar on non-local operators, probability and singularities,  in Zoom,  Oct 2020.
-21. International Conference on Elliptic and Parabolic Problems, Minisymposium,  Gaeta, Italy,  May 2019.   
-22. AMS Spring Eastern Sectional Meeting, Special session on Stochastic processes,  University of Connecticut, Hartford,  April 2019.   
-23. Probability seminar,  University of Illinois at Urbana–Champaign,  April 2019.   
-24. Probability seminar,  Purdue University,  February 2019.   
-25. Probability seminar,  Seoul National University,  March 2018.   
-26. Probability seminar,  Purdue University,  September 2017.   
-27. Probability seminar,  University of Illinois at Urbana–Champaign,  March 2017.   
-28. Probability seminar,  Purdue University,  February 2016.   
+1. Probability Seminar, University of Virginia, November 2024
+2. Analysis, PDE and Probability Seminar,  KIAS, South Korea,  January 2024.   
+3. Probability Winter School in Korea 2023, KIAS, South Korea, December 2023
+4. Probability Seminar, Seoul National University, South Korea, December 2023
+5. Analysis Seminar, University of Belgrade, Serbia, in Zoom, December 2023
+6. SIAM Great Lakes Meeting, Michigan State University, October 2023
+7. Stochastic Seminar,  Georgia Institute of Technology,  September 2023.   
+8. Probability seminar,  Purdue University,  May 2023.   
+9. Probability seminar,  University of Illinois at Urbana–Champaign,  May 2023.   
+10. Stochastic Seminar,  Georgia Institute of Technology,  November 2022.   
+11. Analysis, PDE and Probability Seminar,  KIAS, South Korea,  June 2022.   
+12. Probability Seminar,  Seoul National University,  May 2022.   
+13. Undergraduate Seminar,  University of Illinois at Urbana-Champaign,  April 2022. 
+14. AMS Spring Central Virtual Sectional Meeting, Special session on the Interface Between Nonlinear PDEs, Harmonic Analysis, and Quantitative Geometric and Functional Inequalities,  Mar 2022.   
+15. AMS Spring Central Virtual Sectional Meeting, Special session on Spectral Estimation and Optimization,  Mar 2022.   
+16. Analysis Seminar,  University of Illinois at Chicago,  Mar 2022.   
+17. Probability Seminar,  University of Illinois at Urbana–Champaign,  Oct 2021.   
+18. AMS Spring Central Sectional Meeting, Special session on Probabilistic and diffusion methods in analysis and geometry,  University of Cincinnati, in Zoom,  Apr 2021.   
+19. Theory of Markov Semigroups and Schrödinger Operators,  Wrocław University of Technology, in Zoom,  Mar 2021. 
+20. Geometric and functional inequalities and recent topics in nonlinear PDEs,  Purdue University, in Zoom,  Mar 2021.
+21. Seminar on non-local operators, probability and singularities,  in Zoom,  Oct 2020.
+22. International Conference on Elliptic and Parabolic Problems, Minisymposium,  Gaeta, Italy,  May 2019.   
+23. AMS Spring Eastern Sectional Meeting, Special session on Stochastic processes,  University of Connecticut, Hartford,  April 2019.   
+24. Probability seminar,  University of Illinois at Urbana–Champaign,  April 2019.   
+25. Probability seminar,  Purdue University,  February 2019.   
+26. Probability seminar,  Seoul National University,  March 2018.   
+27. Probability seminar,  Purdue University,  September 2017.   
+28. Probability seminar,  University of Illinois at Urbana–Champaign,  March 2017.   
+29. Probability seminar,  Purdue University,  February 2016.   
 
 <style>
 em, strong {
