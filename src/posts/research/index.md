@@ -14,7 +14,7 @@ My papers on arXiv can be found [here](https://arxiv.org/a/kim_d_6.html).
 
 ##### Publications 
 1. **Fluctuation results for size of the vacant set for random walks on discrete torus**<br>
-   (with [Partha Dey](http://psdey.web.illinois.edu)) *To appear in Lat. Am. J. Probab. Math. Stat* (2025).       [[arxiv]](https://arxiv.org/abs/2108.06450)
+   (with [Partha Dey](http://psdey.web.illinois.edu)) *Lat. Am. J. Probab. Math. Stat* **22** (2025), no. 8, 209-232.       [[arxiv]](https://arxiv.org/abs/2108.06450) [[journal]](https://doi.org/10.30757/ALEA.v22-08)
 2. **Quantitative inequalities for the expected lifetime of Brownian motion**<br>
    *Michigan Math. J.*  **70** (2021), no. 3, 615-634.  [[arxiv]](https://arxiv.org/abs/1904.09565) [[journal]](https://doi.org/10.1307/mmj/1593136867)
 3. **Instability results for the logarithmic Sobolev inequality and its application to related inequalities**<br>
