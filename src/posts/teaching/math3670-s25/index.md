@@ -17,7 +17,7 @@ posttype: "teaching"
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-02-09,00:38)
+(Last update: 2025-02-11,21:10)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
@@ -37,7 +37,7 @@ posttype: "teaching"
 
 **Midterm Exam 2: Thursday, April 3, In-class**
 
-**Final Exam: TBA**
+**Final Exam: Tuesday, Apr 29, 2:40 PM - 5:30 PM**
 
 
 ### Grading Policy
