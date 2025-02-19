@@ -17,7 +17,7 @@ posttype: "teaching"
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-02-14,08:17)
+(Last update: 2025-02-19,08:18)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
@@ -33,7 +33,7 @@ posttype: "teaching"
 ### Exams
 **Midterm Exam 1: Thursday, February 20, In-class**
 
-- Practice Problems: [problems](m3670-exam1-practice.pdf)
+- Practice Problems: [Problems](m3670-exam1-practice.pdf), [Annotated](m3670-exam1-practice-ann.pdf)
 
 **Midterm Exam 2: Thursday, April 3, In-class**
 
