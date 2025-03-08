@@ -17,7 +17,7 @@ posttype: "teaching"
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-03-07,13:15)
+(Last update: 2025-03-08,14:38)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
@@ -32,10 +32,10 @@ posttype: "teaching"
 
 ### Exams
 **Midterm Exam 1: Thursday, February 20, In-class**
-
 - Practice Problems: [Problems](m3670-exam1-practice.pdf), [Annotated](m3670-exam1-practice-ann.pdf)
 
 **Midterm Exam 2: Thursday, April 3, In-class**
+- Practice Problems: [Problems](m3670-exam2-practice.pdf)
 
 **Final Exam: Tuesday, Apr 29, 2:40 PM - 5:30 PM**
 
@@ -58,13 +58,13 @@ posttype: "teaching"
 | 6    | 2/10-14  | 3.4-5            | 3.5-6            | HW5    |
 | 7    | 2/17-21  | Review           | **Midterm 1**    |        |
 | 8    | 2/24-28  | 3.6-4.1          | 4.1-2            | HW6    |
-| 9    | 3/3-7    | 4.2-3            | 4.4-6            |        |
-| 10   | 3/10-14  | 5.1              | 5.2              | HW7    |
+| 9    | 3/3-7    | 4.2              | 4.2-3            |        |
+| 10   | 3/10-14  | 4.3-4            | 4.4,6            | HW7    |
 | 10   | 3/17-21  | **Spring Break** | **Spring Break** |        |
-| 11   | 3/24-28  | 5.3-4            | 5.5              | HW8    |
+| 11   | 3/24-28  | 5.1-2            | 5.2,4            | HW8    |
 | 12   | 3/31-4/4 | Review           | **Midterm 2**    |        |
-| 13   | 4/7-11   | 6.1-2            | 7.1              | HW9    |
-| 14   | 4/14-18  | 7.2              | 7.3              | HW10   |
+| 13   | 4/7-11   | 5.4-5            | 6.1-2            | HW9    |
+| 14   | 4/14-18  | 7.1              | 7.2-3            | HW10   |
 | 15   | 4/21-25  | Review           | No Class         |        |
 
 
