@@ -17,7 +17,7 @@ posttype: "teaching"
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-03-12,09:41)
+(Last update: 2025-03-13,12:26)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
@@ -26,7 +26,7 @@ posttype: "teaching"
 | Chapter 3      | [pdf](m3670-lec3-blank.pdf) | [pdf](m3670-lec3.pdf) |
 | Chapter 4      | [pdf](m3670-lec4-blank.pdf) | [pdf](m3670-lec4.pdf) |
 | Chapter 5      | [pdf](m3670-lec5-blank.pdf) | [pdf](m3670-lec5.pdf) |
-| Chapter 6      |                             |                       |
+| Chapter 6      | [pdf](m3670-lec6-blank.pdf) | [pdf](m3670-lec6.pdf) |
 | Chapter 7      |                             |                       |
 | Final Practice |                             |                       |
 
