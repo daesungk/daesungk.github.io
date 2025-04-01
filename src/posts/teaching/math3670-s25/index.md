@@ -17,7 +17,7 @@ posttype: "teaching"
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-03-29,13:36)
+(Last update: 2025-03-31,23:15)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
@@ -27,8 +27,7 @@ posttype: "teaching"
 | Chapter 4      | [pdf](m3670-lec4-blank.pdf) | [pdf](m3670-lec4.pdf) |
 | Chapter 5      | [pdf](m3670-lec5-blank.pdf) | [pdf](m3670-lec5.pdf) |
 | Chapter 6      | [pdf](m3670-lec6-blank.pdf) | [pdf](m3670-lec6.pdf) |
-| Chapter 7      |                             |                       |
-| Final Practice |                             |                       |
+| Chapter 7      | [pdf](m3670-lec7-blank.pdf) | [pdf](m3670-lec7.pdf) |
 
 ### Exams
 **Midterm Exam 1: Thursday, February 20, In-class**
