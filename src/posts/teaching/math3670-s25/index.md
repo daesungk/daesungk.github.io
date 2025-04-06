@@ -17,7 +17,7 @@ posttype: "teaching"
 - Piazza: https://piazza.com/class/m5sou34htm012c
 
 ### Lecture slides
-(Last update: 2025-04-02,09:59)
+(Last update: 2025-04-05,20:33)
 
 | Chapter        | Blank                       | Annotated             |
 | -              | :-:                         | :-:                   |
@@ -60,11 +60,11 @@ posttype: "teaching"
 | 9    | 3/3-7    | 4.2              | 4.2-3            |        |
 | 10   | 3/10-14  | 4.3-4            | 4.4,6            | HW7    |
 | 10   | 3/17-21  | **Spring Break** | **Spring Break** |        |
-| 11   | 3/24-28  | 5.1-2            | 5.2,4            | HW8    |
+| 11   | 3/24-28  | 5.1-2            | 5.2              | HW8    |
 | 12   | 3/31-4/4 | Review           | **Midterm 2**    |        |
-| 13   | 4/7-11   | 5.4-5            | 6.1-2            | HW9    |
-| 14   | 4/14-18  | 7.1              | 7.2-3            | HW10   |
-| 15   | 4/21-25  | Review           | No Class         |        |
+| 13   | 4/7-11   | 5.2,4            | 5.5, 6.1         |        |
+| 14   | 4/14-18  | 6.2, 7.1         | 7.2-3            | HW9    |
+| 15   | 4/21-25  | Review           | No Class         | HW10   |
 
 
 <style>
